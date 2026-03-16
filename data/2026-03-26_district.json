@@ -1,18 +1,120 @@
 {
   "fetchDate": "2026-03-26",
   "movies": {
+    "Aadu 3": {
+      "id": "OB88OS",
+      "name": "Aadu 3",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/AAdu-3_Poster-d3aaef40-1f6c-11f1-b036-cdab0b8db4a0.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1024,
+        "seatsAvailable": 1024,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "kerala": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Mannarkkad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1024,
+                "seatsAvailable": 1024,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1009010": {
+                  "theatreName": "Shivasakthi Cinemas Dolby Atmos, Near Nellipuzha Junction, Mannarkkad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1024,
+                    "seatsAvailable": 1024,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Dhurandhar The Revenge": {
+      "id": "OB7GIH",
+      "name": "Dhurandhar The Revenge",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-fde36fe0-1d31-11f1-a16d-c13dd9a21c00.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1728,
+        "seatsAvailable": 1728,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Srikalahasti": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1728,
+                "seatsAvailable": 1728,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1031639": {
+                  "theatreName": "K3K RR Picture Palace 4K Dolby Atmos, Srikalahasti",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1728,
+                    "seatsAvailable": 1728,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dhurandhar The Revenge (OB7BL3)": {
       "id": "OB7BL3",
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
       "overallStats": {
-        "totalShows": 12,
-        "totalSeats": 5556,
-        "seatsAvailable": 5178,
-        "seatsSold": 378,
-        "occupancy": 6.8,
-        "totalRevenue": 55500.0,
-        "totalTheatres": 4
+        "totalShows": 6,
+        "totalSeats": 1278,
+        "seatsAvailable": 1278,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 2
       },
       "states": {
         "madhya-pradesh": {
@@ -60,29 +162,6 @@
             "totalRevenue": 0.0
           },
           "cities": {
-            "Hyderabad": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 3072,
-                "seatsAvailable": 2952,
-                "seatsSold": 120,
-                "occupancy": 3.91,
-                "totalRevenue": 21000.0
-              },
-              "theatres": {
-                "1041449": {
-                  "theatreName": "SVC Cinemas Yadagiri 70MM, 4K Laser Projection (Newly Renovated)",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 3072,
-                    "seatsAvailable": 2952,
-                    "seatsSold": 120,
-                    "occupancy": 3.91,
-                    "totalRevenue": 21000.0
-                  }
-                }
-              }
-            },
             "Mahbubnagar": {
               "cityStats": {
                 "totalShows": 3,
@@ -102,166 +181,6 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
-                  }
-                }
-              }
-            },
-            "Nalgonda": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 1206,
-                "seatsAvailable": 948,
-                "seatsSold": 258,
-                "occupancy": 21.39,
-                "totalRevenue": 34500.0
-              },
-              "theatres": {
-                "4739": {
-                  "theatreName": "SVC Natraj Theatre, Bottu Guda, Nalgonda",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 1206,
-                    "seatsAvailable": 948,
-                    "seatsSold": 258,
-                    "occupancy": 21.39,
-                    "totalRevenue": 34500.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Dhurandhar The Revenge (OB7GIH)": {
-      "id": "OB7GIH",
-      "name": "Dhurandhar The Revenge",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-fde36fe0-1d31-11f1-a16d-c13dd9a21c00.jpg",
-      "overallStats": {
-        "totalShows": 6,
-        "totalSeats": 2934,
-        "seatsAvailable": 2676,
-        "seatsSold": 258,
-        "occupancy": 8.79,
-        "totalRevenue": 34500.0,
-        "totalTheatres": 2
-      },
-      "states": {
-        "andhra-pradesh": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Srikalahasti": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1728,
-                "seatsAvailable": 1728,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "1031639": {
-                  "theatreName": "K3K RR Picture Palace 4K Dolby Atmos, Srikalahasti",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1728,
-                    "seatsAvailable": 1728,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              }
-            }
-          }
-        },
-        "telangana": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Nalgonda": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 1206,
-                "seatsAvailable": 948,
-                "seatsSold": 258,
-                "occupancy": 21.39,
-                "totalRevenue": 34500.0
-              },
-              "theatres": {
-                "4739": {
-                  "theatreName": "SVC Natraj Theatre, Bottu Guda, Nalgonda",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 1206,
-                    "seatsAvailable": 948,
-                    "seatsSold": 258,
-                    "occupancy": 21.39,
-                    "totalRevenue": 34500.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Youth": {
-      "id": "OB8CO1",
-      "name": "Youth",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-65fdaac0-05a2-11f1-adea-2ddc896211a4-ea6822c0-16de-11f1-aecc-fbbcea8cf963.jpg",
-      "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 1800,
-        "seatsAvailable": 1580,
-        "seatsSold": 220,
-        "occupancy": 12.22,
-        "totalRevenue": 26400.0,
-        "totalTheatres": 1
-      },
-      "states": {
-        "tamil-nadu": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Chennai": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1800,
-                "seatsAvailable": 1580,
-                "seatsSold": 220,
-                "occupancy": 12.22,
-                "totalRevenue": 26400.0
-              },
-              "theatres": {
-                "28925": {
-                  "theatreName": "Sri Venkateswara Theatre A/C 4K RGB Laser Dolby, Guduvanchery, Chennai",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1800,
-                    "seatsAvailable": 1580,
-                    "seatsSold": 220,
-                    "occupancy": 12.22,
-                    "totalRevenue": 26400.0
                   }
                 }
               }

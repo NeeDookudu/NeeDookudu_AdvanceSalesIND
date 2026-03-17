@@ -56,5 +56,9 @@ jobs:
           # Stage ONLY the freshly generated data folder
           git add data/
           
+          # Commit only if there are changes
           git diff --cached --quiet || git commit -m "Update advance data: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          
+          # Pull latest changes from remote to avoid conflicts, then push
+          git pull --rebase origin main
           git push

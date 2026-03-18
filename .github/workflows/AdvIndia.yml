@@ -2,7 +2,7 @@ name: India Advance Sales Scraper
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Runs at minute 0 past every 2nd hour
+    - cron: '0 */1 * * *'  # Runs at minute 0 past every 2nd hour
   workflow_dispatch:       # Keeps the manual trigger button
 
 permissions:
@@ -32,11 +32,13 @@ jobs:
 
       - name: Backup existing data safely
         run: |
-          # Move old data out of the way so old rolling dates naturally disappear
+          # COPY old data to a backup folder so we don't lose it if the script crashes.
+          # The original 'data' folder stays intact to preserve historical records.
           if [ -d "data" ]; then
-            mv data data_backup
+            cp -r data data_backup
+          else
+            mkdir -p data
           fi
-          mkdir -p data
 
       - name: Run Scrapers and Merger
         env:
@@ -54,7 +56,7 @@ jobs:
       - name: Restore old data if scrapers failed!
         if: failure()
         run: |
-          # If the Python scripts crash, put the old data back so we don't push an empty folder
+          # If the Python scripts crash, put the old data back so we don't push corrupted data
           if [ -d "data_backup" ]; then
             rm -rf data
             mv data_backup data
@@ -67,7 +69,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage all modifications, additions, AND deletions (to remove ghost dates)
+          # Stage all modifications and additions (historical files remain untouched)
           git add --all data/
           
           git diff --cached --quiet || git commit -m "Update advance data: $(date -u +'%Y-%m-%d %H:%M UTC')"

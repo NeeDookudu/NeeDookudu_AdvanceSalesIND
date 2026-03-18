@@ -30,9 +30,12 @@ jobs:
       - name: Install Chromium
         run: playwright install chromium --with-deps
 
-      - name: Clean old data and create fresh directory
+      - name: Backup existing data safely
         run: |
-          rm -rf data
+          # Move old data out of the way so old rolling dates naturally disappear
+          if [ -d "data" ]; then
+            mv data data_backup
+          fi
           mkdir -p data
 
       - name: Run Scrapers and Merger
@@ -48,17 +51,24 @@ jobs:
           echo "🚀 Running Merger..."
           python mergerrun.py
 
+      - name: Restore old data if scrapers failed!
+        if: failure()
+        run: |
+          # If the Python scripts crash, put the old data back so we don't push an empty folder
+          if [ -d "data_backup" ]; then
+            rm -rf data
+            mv data_backup data
+            echo "⚠️ Scrapers failed. Restored old data to prevent data loss."
+          fi
+
       - name: Commit and push data
+        # This step only runs if the scraper step succeeded.
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Stage ONLY the freshly generated data folder
-          git add data/
+          # Stage all modifications, additions, AND deletions (to remove ghost dates)
+          git add --all data/
           
-          # Commit only if there are changes
           git diff --cached --quiet || git commit -m "Update advance data: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          
-          # Pull latest changes from remote to avoid conflicts, then push
-          git pull --rebase origin main
           git push

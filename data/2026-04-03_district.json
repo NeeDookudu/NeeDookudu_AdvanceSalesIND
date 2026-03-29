@@ -1,4 +1,56 @@
 {
   "fetchDate": "2026-04-03",
-  "movies": {}
+  "movies": {
+    "Youth": {
+      "id": "OB8CO1",
+      "name": "Youth",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-3d17c4e0-2444-11f1-8704-ab6f874147b6.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1696,
+        "seatsAvailable": 1688,
+        "seatsSold": 8,
+        "occupancy": 0.47,
+        "totalRevenue": 1040.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Vellore": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1696,
+                "seatsAvailable": 1688,
+                "seatsSold": 8,
+                "occupancy": 0.47,
+                "totalRevenue": 1040.0
+              },
+              "theatres": {
+                "1041804": {
+                  "theatreName": "Blue Cinemas RGB Laser 4K & Dolby Atmos, Vellore",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1696,
+                    "seatsAvailable": 1688,
+                    "seatsSold": 8,
+                    "occupancy": 0.47,
+                    "totalRevenue": 1040.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

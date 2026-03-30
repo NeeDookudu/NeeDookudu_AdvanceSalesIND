@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-04-03",
   "movies": {
+    "Kalidas 2": {
+      "id": "OB8VL1",
+      "name": "Kalidas 2",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kalidas-2_Poster-a49e5650-2b34-11f1-8c0c-ed167c06e8f9.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 2352,
+        "seatsAvailable": 2160,
+        "seatsSold": 192,
+        "occupancy": 8.16,
+        "totalRevenue": 23040.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Salem": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2352,
+                "seatsAvailable": 2160,
+                "seatsSold": 192,
+                "occupancy": 8.16,
+                "totalRevenue": 23040.0
+              },
+              "theatres": {
+                "26640": {
+                  "theatreName": "Kasthoori Cinemas Gowri A/C 4K RGB Laser, Omalur Main Road, Salem",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2352,
+                    "seatsAvailable": 2160,
+                    "seatsSold": 192,
+                    "occupancy": 8.16,
+                    "totalRevenue": 23040.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Youth": {
       "id": "OB8RJD",
       "name": "Youth",
@@ -57,13 +108,13 @@
       "name": "Youth",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-3d17c4e0-2444-11f1-8704-ab6f874147b6.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 1696,
-        "seatsAvailable": 1688,
-        "seatsSold": 8,
-        "occupancy": 0.47,
-        "totalRevenue": 1040.0,
-        "totalTheatres": 1
+        "totalShows": 8,
+        "totalSeats": 4000,
+        "seatsAvailable": 3752,
+        "seatsSold": 248,
+        "occupancy": 6.2,
+        "totalRevenue": 61440.0,
+        "totalTheatres": 2
       },
       "states": {
         "tamil-nadu": {
@@ -76,6 +127,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Aruppukkottai": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2304,
+                "seatsAvailable": 2064,
+                "seatsSold": 240,
+                "occupancy": 10.42,
+                "totalRevenue": 60400.0
+              },
+              "theatres": {
+                "1008456": {
+                  "theatreName": "Tamilmani Theatre A/C DTS, Thirunagaram, Aruppukkottai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2304,
+                    "seatsAvailable": 2064,
+                    "seatsSold": 240,
+                    "occupancy": 10.42,
+                    "totalRevenue": 60400.0
+                  }
+                }
+              }
+            },
             "Vellore": {
               "cityStats": {
                 "totalShows": 4,

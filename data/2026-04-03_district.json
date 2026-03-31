@@ -150,17 +150,68 @@
       }
     },
     "Biker": {
+      "id": "OB8V8C",
+      "name": "Biker",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Biker-4cab8cc0-29d5-11f1-b563-9d23ea210a10.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 624,
+        "seatsAvailable": 557,
+        "seatsSold": 67,
+        "occupancy": 10.74,
+        "totalRevenue": 9030.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 624,
+                "seatsAvailable": 557,
+                "seatsSold": 67,
+                "occupancy": 10.74,
+                "totalRevenue": 9030.0
+              },
+              "theatres": {
+                "1037496": {
+                  "theatreName": "Vidya Theatre 4K Dolby Atmos, Tambaram (W), Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 624,
+                    "seatsAvailable": 557,
+                    "seatsSold": 67,
+                    "occupancy": 10.74,
+                    "totalRevenue": 9030.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Biker (OB6LVU)": {
       "id": "OB6LVU",
       "name": "Biker",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/portrait1-638e7960-bbbd-11f0-98ce-d54f6769a1d7.jpg",
       "overallStats": {
-        "totalShows": 8,
-        "totalSeats": 1928,
-        "seatsAvailable": 1610,
-        "seatsSold": 318,
-        "occupancy": 16.49,
-        "totalRevenue": 35754.0,
-        "totalTheatres": 2
+        "totalShows": 24,
+        "totalSeats": 10104,
+        "seatsAvailable": 9082,
+        "seatsSold": 1022,
+        "occupancy": 10.11,
+        "totalRevenue": 127031.0,
+        "totalTheatres": 6
       },
       "states": {
         "andhra-pradesh": {
@@ -173,6 +224,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Anakapalle": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1760,
+                "seatsAvailable": 1516,
+                "seatsSold": 244,
+                "occupancy": 13.86,
+                "totalRevenue": 35868.0
+              },
+              "theatres": {
+                "1018799": {
+                  "theatreName": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1760,
+                    "seatsAvailable": 1516,
+                    "seatsSold": 244,
+                    "occupancy": 13.86,
+                    "totalRevenue": 35868.0
+                  }
+                }
+              }
+            },
             "P Dharmavaram": {
               "cityStats": {
                 "totalShows": 4,
@@ -196,14 +270,37 @@
                 }
               }
             },
-            "Vizag": {
+            "Parvathipuram": {
               "cityStats": {
                 "totalShows": 4,
-                "totalSeats": 996,
-                "seatsAvailable": 994,
-                "seatsSold": 2,
-                "occupancy": 0.2,
-                "totalRevenue": 354.0
+                "totalSeats": 1692,
+                "seatsAvailable": 1429,
+                "seatsSold": 263,
+                "occupancy": 15.54,
+                "totalRevenue": 26300.0
+              },
+              "theatres": {
+                "25803": {
+                  "theatreName": "SVC TBR Cinemas, Narsipuram, Parvathipuram",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1692,
+                    "seatsAvailable": 1429,
+                    "seatsSold": 263,
+                    "occupancy": 15.54,
+                    "totalRevenue": 26300.0
+                  }
+                }
+              }
+            },
+            "Vizag": {
+              "cityStats": {
+                "totalShows": 12,
+                "totalSeats": 5720,
+                "seatsAvailable": 5521,
+                "seatsSold": 199,
+                "occupancy": 3.48,
+                "totalRevenue": 29463.0
               },
               "theatres": {
                 "1041782": {
@@ -211,10 +308,32 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 996,
-                    "seatsAvailable": 994,
-                    "seatsSold": 2,
-                    "occupancy": 0.2,
-                    "totalRevenue": 354.0
+                    "seatsAvailable": 989,
+                    "seatsSold": 7,
+                    "occupancy": 0.7,
+                    "totalRevenue": 1239.0
+                  }
+                },
+                "22884": {
+                  "theatreName": "SVC Cinemas Gokul A/C 2K Dolby, Allipuram, Vizag",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1912,
+                    "seatsAvailable": 1912,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                },
+                "4714": {
+                  "theatreName": "SVC Likitha A/C DTS, Sriharipuram, Vizag",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2812,
+                    "seatsAvailable": 2620,
+                    "seatsSold": 192,
+                    "occupancy": 6.83,
+                    "totalRevenue": 28224.0
                   }
                 }
               }
@@ -224,6 +343,189 @@
       }
     },
     "Dhurandhar The Revenge": {
+      "id": "OB7GIC",
+      "name": "Dhurandhar The Revenge",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-ea86c5a0-1d31-11f1-96c9-4539b6d27dc7.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1204,
+        "seatsAvailable": 1107,
+        "seatsSold": 97,
+        "occupancy": 8.06,
+        "totalRevenue": 13530.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "kerala": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ottapalam": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 114,
+                "seatsAvailable": 114,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1009117": {
+                  "theatreName": "Dreamax Cinemas 2K 7. 1 Surround, Mayannur, Ottapalam",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 114,
+                    "seatsAvailable": 114,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1090,
+                "seatsAvailable": 993,
+                "seatsSold": 97,
+                "occupancy": 8.9,
+                "totalRevenue": 13530.0
+              },
+              "theatres": {
+                "1037496": {
+                  "theatreName": "Vidya Theatre 4K Dolby Atmos, Tambaram (W), Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 624,
+                    "seatsAvailable": 557,
+                    "seatsSold": 67,
+                    "occupancy": 10.74,
+                    "totalRevenue": 9030.0
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 466,
+                    "seatsAvailable": 436,
+                    "seatsSold": 30,
+                    "occupancy": 6.44,
+                    "totalRevenue": 4500.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dhurandhar The Revenge (OB7BL3)": {
+      "id": "OB7BL3",
+      "name": "Dhurandhar The Revenge",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 444,
+        "seatsAvailable": 428,
+        "seatsSold": 16,
+        "occupancy": 3.6,
+        "totalRevenue": 2255.0,
+        "totalTheatres": 2
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Vizag": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 213,
+                "seatsAvailable": 214,
+                "seatsSold": -1,
+                "occupancy": -0.47,
+                "totalRevenue": -295.0
+              },
+              "theatres": {
+                "1041782": {
+                  "theatreName": "Asian Mukta A2 Cinemas, VMR Mall, Laser 4K Dolby Atmos,  Aganampudi, Gajuwaka",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 213,
+                    "seatsAvailable": 214,
+                    "seatsSold": -1,
+                    "occupancy": -0.47,
+                    "totalRevenue": -295.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 231,
+                "seatsAvailable": 214,
+                "seatsSold": 17,
+                "occupancy": 7.36,
+                "totalRevenue": 2550.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 231,
+                    "seatsAvailable": 214,
+                    "seatsSold": 17,
+                    "occupancy": 7.36,
+                    "totalRevenue": 2550.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Dhurandhar The Revenge (OB7GIH)": {
       "id": "OB7GIH",
       "name": "Dhurandhar The Revenge",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-fde36fe0-1d31-11f1-a16d-c13dd9a21c00.jpg",
@@ -274,119 +576,17 @@
         }
       }
     },
-    "Dhurandhar The Revenge (OB7BL3)": {
-      "id": "OB7BL3",
-      "name": "Dhurandhar The Revenge",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-81414590-1d25-11f1-a5a3-f5a3fd184c9a.jpg",
+    "Happy Raj": {
+      "id": "OB8JXM",
+      "name": "Happy Raj",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Happy-Raj-6e933bf0-1871-11f1-a857-fd0378823a8e.jpg",
       "overallStats": {
-        "totalShows": 1,
-        "totalSeats": 213,
-        "seatsAvailable": 214,
-        "seatsSold": -1,
-        "occupancy": -0.47,
-        "totalRevenue": -295.0,
-        "totalTheatres": 1
-      },
-      "states": {
-        "andhra-pradesh": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Vizag": {
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 213,
-                "seatsAvailable": 214,
-                "seatsSold": -1,
-                "occupancy": -0.47,
-                "totalRevenue": -295.0
-              },
-              "theatres": {
-                "1041782": {
-                  "theatreName": "Asian Mukta A2 Cinemas, VMR Mall, Laser 4K Dolby Atmos,  Aganampudi, Gajuwaka",
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 213,
-                    "seatsAvailable": 214,
-                    "seatsSold": -1,
-                    "occupancy": -0.47,
-                    "totalRevenue": -295.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Dhurandhar The Revenge (OB7GIC)": {
-      "id": "OB7GIC",
-      "name": "Dhurandhar The Revenge",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/DD-ea86c5a0-1d31-11f1-96c9-4539b6d27dc7.jpg",
-      "overallStats": {
-        "totalShows": 1,
-        "totalSeats": 114,
-        "seatsAvailable": 114,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
-      },
-      "states": {
-        "kerala": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Ottapalam": {
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 114,
-                "seatsAvailable": 114,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "1009117": {
-                  "theatreName": "Dreamax Cinemas 2K 7. 1 Surround, Mayannur, Ottapalam",
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 114,
-                    "seatsAvailable": 114,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Kaalidas 2": {
-      "id": "OB8VL1",
-      "name": "Kaalidas 2",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kalidas-2_Poster-a49e5650-2b34-11f1-8c0c-ed167c06e8f9.jpg",
-      "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 2352,
-        "seatsAvailable": 2160,
-        "seatsSold": 192,
-        "occupancy": 8.16,
-        "totalRevenue": 23040.0,
+        "totalShows": 2,
+        "totalSeats": 448,
+        "seatsAvailable": 420,
+        "seatsSold": 28,
+        "occupancy": 6.25,
+        "totalRevenue": 4200.0,
         "totalTheatres": 1
       },
       "states": {
@@ -400,6 +600,91 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 448,
+                "seatsAvailable": 420,
+                "seatsSold": 28,
+                "occupancy": 6.25,
+                "totalRevenue": 4200.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 448,
+                    "seatsAvailable": 420,
+                    "seatsSold": 28,
+                    "occupancy": 6.25,
+                    "totalRevenue": 4200.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Kaalidas 2": {
+      "id": "OB8VL1",
+      "name": "Kaalidas 2",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kalidas-2_Poster-a49e5650-2b34-11f1-8c0c-ed167c06e8f9.jpg",
+      "overallStats": {
+        "totalShows": 7,
+        "totalSeats": 3521,
+        "seatsAvailable": 3299,
+        "seatsSold": 222,
+        "occupancy": 6.31,
+        "totalRevenue": 27540.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1169,
+                "seatsAvailable": 1139,
+                "seatsSold": 30,
+                "occupancy": 2.57,
+                "totalRevenue": 4500.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 442,
+                    "seatsAvailable": 412,
+                    "seatsSold": 30,
+                    "occupancy": 6.79,
+                    "totalRevenue": 4500.0
+                  }
+                },
+                "3960": {
+                  "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 727,
+                    "seatsAvailable": 727,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Salem": {
               "cityStats": {
                 "totalShows": 4,
@@ -427,18 +712,80 @@
         }
       }
     },
+    "Leader": {
+      "id": "OB8XXF",
+      "name": "Leader",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Leader_Poster-4207eca0-2cbe-11f1-9e39-efcdb83019c6.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1896,
+        "seatsAvailable": 1865,
+        "seatsSold": 31,
+        "occupancy": 1.64,
+        "totalRevenue": 4650.0,
+        "totalTheatres": 2
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1896,
+                "seatsAvailable": 1865,
+                "seatsSold": 31,
+                "occupancy": 1.64,
+                "totalRevenue": 4650.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 442,
+                    "seatsAvailable": 411,
+                    "seatsSold": 31,
+                    "occupancy": 7.01,
+                    "totalRevenue": 4650.0
+                  }
+                },
+                "3960": {
+                  "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1454,
+                    "seatsAvailable": 1454,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Project Hail Mary": {
       "id": "OB5EGG",
       "name": "Project Hail Mary",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/P%20Project-Hail-Mary-ac632240-77fb-11f0-bf18-ef07befd2b97.jpg",
       "overallStats": {
-        "totalShows": 3,
-        "totalSeats": 870,
-        "seatsAvailable": 870,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
+        "totalShows": 4,
+        "totalSeats": 1094,
+        "seatsAvailable": 1080,
+        "seatsSold": 14,
+        "occupancy": 1.28,
+        "totalRevenue": 2100.0,
+        "totalTheatres": 2
       },
       "states": {
         "kerala": {
@@ -475,6 +822,41 @@
               }
             }
           }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 224,
+                "seatsAvailable": 210,
+                "seatsSold": 14,
+                "occupancy": 6.25,
+                "totalRevenue": 2100.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 224,
+                    "seatsAvailable": 210,
+                    "seatsSold": 14,
+                    "occupancy": 6.25,
+                    "totalRevenue": 2100.0
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -483,13 +865,13 @@
       "name": "Raakaasa",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Rakasa-845d76b0-2bec-11f1-a217-3dd9cd2ed4e3.jpg",
       "overallStats": {
-        "totalShows": 8,
-        "totalSeats": 1860,
-        "seatsAvailable": 1858,
-        "seatsSold": 2,
-        "occupancy": 0.11,
-        "totalRevenue": 590.0,
-        "totalTheatres": 2
+        "totalShows": 20,
+        "totalSeats": 5337,
+        "seatsAvailable": 5016,
+        "seatsSold": 321,
+        "occupancy": 6.01,
+        "totalRevenue": 43569.0,
+        "totalTheatres": 5
       },
       "states": {
         "andhra-pradesh": {
@@ -525,14 +907,83 @@
                 }
               }
             },
+            "Cheepurupalli": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1288,
+                "seatsAvailable": 1288,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "55272": {
+                  "theatreName": "SVC Vamsi Vishnu Vaibhav Theatres, Lecturers Colony, Cheepurupalli",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1288,
+                    "seatsAvailable": 1288,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kurnool": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1001,
+                "seatsAvailable": 948,
+                "seatsSold": 53,
+                "occupancy": 5.29,
+                "totalRevenue": 15445.0
+              },
+              "theatres": {
+                "16791": {
+                  "theatreName": "V Mega Anand Cine Complex, National Highway 18, Kurnool",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1001,
+                    "seatsAvailable": 948,
+                    "seatsSold": 53,
+                    "occupancy": 5.29,
+                    "totalRevenue": 15445.0
+                  }
+                }
+              }
+            },
+            "Parvathipuram": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1188,
+                "seatsAvailable": 928,
+                "seatsSold": 260,
+                "occupancy": 21.89,
+                "totalRevenue": 26000.0
+              },
+              "theatres": {
+                "25803": {
+                  "theatreName": "SVC TBR Cinemas, Narsipuram, Parvathipuram",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1188,
+                    "seatsAvailable": 928,
+                    "seatsSold": 260,
+                    "occupancy": 21.89,
+                    "totalRevenue": 26000.0
+                  }
+                }
+              }
+            },
             "Vizag": {
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 860,
-                "seatsAvailable": 858,
-                "seatsSold": 2,
-                "occupancy": 0.23,
-                "totalRevenue": 590.0
+                "seatsAvailable": 852,
+                "seatsSold": 8,
+                "occupancy": 0.93,
+                "totalRevenue": 2124.0
               },
               "theatres": {
                 "1041782": {
@@ -540,10 +991,163 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 860,
-                    "seatsAvailable": 858,
-                    "seatsSold": 2,
-                    "occupancy": 0.23,
-                    "totalRevenue": 590.0
+                    "seatsAvailable": 852,
+                    "seatsSold": 8,
+                    "occupancy": 0.93,
+                    "totalRevenue": 2124.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Satan - The Dark": {
+      "id": "OB8QBN",
+      "name": "Satan - The Dark",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Satan---The-Dark-s-5c2821b0-2145-11f1-9d94-bf8c6496c731.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 224,
+        "seatsAvailable": 210,
+        "seatsSold": 14,
+        "occupancy": 6.25,
+        "totalRevenue": 2100.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 224,
+                "seatsAvailable": 210,
+                "seatsSold": 14,
+                "occupancy": 6.25,
+                "totalRevenue": 2100.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 224,
+                    "seatsAvailable": 210,
+                    "seatsSold": 14,
+                    "occupancy": 6.25,
+                    "totalRevenue": 2100.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Thaai Kizhavi": {
+      "id": "OB88HH",
+      "name": "Thaai Kizhavi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_Poster%20(8)-4487a990-11aa-11f1-b8e9-3913d9769fcc.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 224,
+        "seatsAvailable": 208,
+        "seatsSold": 16,
+        "occupancy": 7.14,
+        "totalRevenue": 2400.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 224,
+                "seatsAvailable": 208,
+                "seatsSold": 16,
+                "occupancy": 7.14,
+                "totalRevenue": 2400.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 224,
+                    "seatsAvailable": 208,
+                    "seatsSold": 16,
+                    "occupancy": 7.14,
+                    "totalRevenue": 2400.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "The Super Mario Galaxy Movie": {
+      "id": "OB8UOT",
+      "name": "The Super Mario Galaxy Movie",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/portrait%20(20)-97115df0-2a64-11f1-a444-5502f378ea93.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 231,
+        "seatsAvailable": 214,
+        "seatsSold": 17,
+        "occupancy": 7.36,
+        "totalRevenue": 3230.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 231,
+                "seatsAvailable": 214,
+                "seatsSold": 17,
+                "occupancy": 7.36,
+                "totalRevenue": 3230.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 231,
+                    "seatsAvailable": 214,
+                    "seatsSold": 17,
+                    "occupancy": 7.36,
+                    "totalRevenue": 3230.0
                   }
                 }
               }
@@ -557,13 +1161,13 @@
       "name": "Vaazha II: Biopic of a Billion Bros",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Vaazha%202-43d71120-2c2b-11f1-a7d0-35090adde4d8.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 800,
-        "seatsAvailable": 800,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
+        "totalShows": 22,
+        "totalSeats": 7147,
+        "seatsAvailable": 7177,
+        "seatsSold": -30,
+        "occupancy": -0.42,
+        "totalRevenue": -2000.0,
+        "totalTheatres": 6
       },
       "states": {
         "kerala": {
@@ -576,6 +1180,98 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Amballur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1696,
+                "seatsAvailable": 1696,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "6035": {
+                  "theatreName": "Chand V Sreerama Movies, Pudukkad, Amballur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1696,
+                    "seatsAvailable": 1696,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Cheruvathur": {
+              "cityStats": {
+                "totalShows": 5,
+                "totalSeats": 1610,
+                "seatsAvailable": 1660,
+                "seatsSold": -50,
+                "occupancy": -3.11,
+                "totalRevenue": -5000.0
+              },
+              "theatres": {
+                "10270": {
+                  "theatreName": "Pakkanar Cinemas 2K 7.1 JBL, Cheruvathur",
+                  "stats": {
+                    "totalShows": 5,
+                    "totalSeats": 1610,
+                    "seatsAvailable": 1660,
+                    "seatsSold": -50,
+                    "occupancy": -3.11,
+                    "totalRevenue": -5000.0
+                  }
+                }
+              }
+            },
+            "Kottarakara": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1496,
+                "seatsAvailable": 1496,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "3906": {
+                  "theatreName": "Minerva Empire Cinemaz, Chandamukku, Kottarakara",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1496,
+                    "seatsAvailable": 1496,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Melattur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1324,
+                "seatsAvailable": 1324,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1004634": {
+                  "theatreName": "Chembakassery Rimi Cinemas, Manjeri Road, Melattur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1324,
+                    "seatsAvailable": 1324,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Ottapalam": {
               "cityStats": {
                 "totalShows": 4,
@@ -595,6 +1291,41 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 221,
+                "seatsAvailable": 201,
+                "seatsSold": 20,
+                "occupancy": 9.05,
+                "totalRevenue": 3000.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 221,
+                    "seatsAvailable": 201,
+                    "seatsSold": 20,
+                    "occupancy": 9.05,
+                    "totalRevenue": 3000.0
                   }
                 }
               }
@@ -705,13 +1436,13 @@
       "name": "Youth",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Youth_Poster-3d17c4e0-2444-11f1-8704-ab6f874147b6.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 1696,
-        "seatsAvailable": 1677,
-        "seatsSold": 19,
-        "occupancy": 1.12,
-        "totalRevenue": 2140.0,
-        "totalTheatres": 1
+        "totalShows": 17,
+        "totalSeats": 8301,
+        "seatsAvailable": 6572,
+        "seatsSold": 1729,
+        "occupancy": 20.83,
+        "totalRevenue": 226120.0,
+        "totalTheatres": 6
       },
       "states": {
         "tamil-nadu": {
@@ -724,6 +1455,97 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 5,
+                "totalSeats": 2437,
+                "seatsAvailable": 2267,
+                "seatsSold": 170,
+                "occupancy": 6.98,
+                "totalRevenue": 23460.0
+              },
+              "theatres": {
+                "1037496": {
+                  "theatreName": "Vidya Theatre 4K Dolby Atmos, Tambaram (W), Chennai",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1248,
+                    "seatsAvailable": 1114,
+                    "seatsSold": 134,
+                    "occupancy": 10.74,
+                    "totalRevenue": 18060.0
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 462,
+                    "seatsAvailable": 426,
+                    "seatsSold": 36,
+                    "occupancy": 7.79,
+                    "totalRevenue": 5400.0
+                  }
+                },
+                "3960": {
+                  "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 727,
+                    "seatsAvailable": 727,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Devakottai": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1812,
+                "seatsAvailable": 1152,
+                "seatsSold": 660,
+                "occupancy": 36.42,
+                "totalRevenue": 94920.0
+              },
+              "theatres": {
+                "9135": {
+                  "theatreName": "Aruna Theatre, Manthoppu Street, Devakottai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1812,
+                    "seatsAvailable": 1152,
+                    "seatsSold": 660,
+                    "occupancy": 36.42,
+                    "totalRevenue": 94920.0
+                  }
+                }
+              }
+            },
+            "Srivilliputhur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2356,
+                "seatsAvailable": 1476,
+                "seatsSold": 880,
+                "occupancy": 37.35,
+                "totalRevenue": 105600.0
+              },
+              "theatres": {
+                "1016381": {
+                  "theatreName": "Revathi Cinemas A/C Dolby Atmos 4K 3D, Srivilliputhur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2356,
+                    "seatsAvailable": 1476,
+                    "seatsSold": 880,
+                    "occupancy": 37.35,
+                    "totalRevenue": 105600.0
+                  }
+                }
+              }
+            },
             "Vellore": {
               "cityStats": {
                 "totalShows": 4,

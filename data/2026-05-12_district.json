@@ -1,4 +1,107 @@
 {
   "fetchDate": "2026-05-12",
-  "movies": {}
+  "movies": {
+    "Godari Gattupaina": {
+      "id": "OB9I84",
+      "name": "Godari Gattupaina",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Godari-Gattupaina-17bfbc80-47cf-11f1-8391-b70f168ffab1.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 2252,
+        "seatsAvailable": 2020,
+        "seatsSold": 232,
+        "occupancy": 10.3,
+        "totalRevenue": 26920.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rajahmundry": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2252,
+                "seatsAvailable": 2020,
+                "seatsSold": 232,
+                "occupancy": 10.3,
+                "totalRevenue": 26920.0
+              },
+              "theatres": {
+                "4425": {
+                  "theatreName": "Ashoka Theater (Newly Renovated), Annapurnamma peta, Rajahmundry",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2252,
+                    "seatsAvailable": 2020,
+                    "seatsSold": 232,
+                    "occupancy": 10.3,
+                    "totalRevenue": 26920.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Ninnu Kori": {
+      "id": "O9EMY5",
+      "name": "Ninnu Kori",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/ninnu_Poster-6f7f8d00-46ae-11f1-bb12-39b9516118da.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 3380,
+        "seatsAvailable": 3040,
+        "seatsSold": 340,
+        "occupancy": 10.06,
+        "totalRevenue": 55420.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "Telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hyderabad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 3380,
+                "seatsAvailable": 3040,
+                "seatsSold": 340,
+                "occupancy": 10.06,
+                "totalRevenue": 55420.0
+              },
+              "theatres": {
+                "1039848": {
+                  "theatreName": "Mythri Theatres, Vimal 70MM AC 4K Laser Dolby Atmos, Balanagar(Newly Renovated), Hyderabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3380,
+                    "seatsAvailable": 3040,
+                    "seatsSold": 340,
+                    "occupancy": 10.06,
+                    "totalRevenue": 55420.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

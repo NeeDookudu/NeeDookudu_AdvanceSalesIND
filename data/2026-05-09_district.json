@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-05-09",
   "movies": {
+    "A Film by Giri": {
+      "id": "OB9JBV",
+      "name": "A Film by Giri",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/A-Film-by-Giri-4ed81f80-487b-11f1-b936-e58f7cdd3520.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1512,
+        "seatsAvailable": 1324,
+        "seatsSold": 188,
+        "occupancy": 12.43,
+        "totalRevenue": 17412.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Guntur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1512,
+                "seatsAvailable": 1324,
+                "seatsSold": 188,
+                "occupancy": 12.43,
+                "totalRevenue": 17412.0
+              },
+              "theatres": {
+                "1037228": {
+                  "theatreName": "Pallavi Keerthana Complex, Sambasiva Pet, Guntur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1512,
+                    "seatsAvailable": 1324,
+                    "seatsSold": 188,
+                    "occupancy": 12.43,
+                    "totalRevenue": 17412.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Ganga: Muni 3": {
       "id": "OB9DHI",
       "name": "Ganga: Muni 3",
@@ -57,13 +108,13 @@
       "name": "Godari Gattupaina",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Godari-Gattupaina-17bfbc80-47cf-11f1-8391-b70f168ffab1.jpg",
       "overallStats": {
-        "totalShows": 27,
-        "totalSeats": 13627,
-        "seatsAvailable": 12550,
-        "seatsSold": 1077,
-        "occupancy": 7.9,
-        "totalRevenue": 140515.0,
-        "totalTheatres": 7
+        "totalShows": 37,
+        "totalSeats": 19831,
+        "seatsAvailable": 17980,
+        "seatsSold": 1851,
+        "occupancy": 9.33,
+        "totalRevenue": 234635.0,
+        "totalTheatres": 10
       },
       "states": {
         "andhra-pradesh": {
@@ -95,6 +146,29 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kakinada": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2140,
+                "seatsAvailable": 1940,
+                "seatsSold": 200,
+                "occupancy": 9.35,
+                "totalRevenue": 42800.0
+              },
+              "theatres": {
+                "4918": {
+                  "theatreName": "Sri Tirumala Theatre 2K A/C DTS, Kakinada",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2140,
+                    "seatsAvailable": 1940,
+                    "seatsSold": 200,
+                    "occupancy": 9.35,
+                    "totalRevenue": 42800.0
                   }
                 }
               }
@@ -182,12 +256,12 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 8,
-                "totalSeats": 5032,
-                "seatsAvailable": 4616,
-                "seatsSold": 416,
-                "occupancy": 8.27,
-                "totalRevenue": 71120.0
+                "totalShows": 10,
+                "totalSeats": 6284,
+                "seatsAvailable": 5618,
+                "seatsSold": 666,
+                "occupancy": 10.6,
+                "totalRevenue": 88420.0
               },
               "theatres": {
                 "1041683": {
@@ -210,6 +284,40 @@
                     "seatsSold": 320,
                     "occupancy": 9.84,
                     "totalRevenue": 51600.0
+                  }
+                },
+                "13958": {
+                  "theatreName": "SVC Sri Lakshmi Theatre, Kharmanghat, Hyderabad",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1252,
+                    "seatsAvailable": 1002,
+                    "seatsSold": 250,
+                    "occupancy": 19.97,
+                    "totalRevenue": 17300.0
+                  }
+                }
+              }
+            },
+            "Jangaon": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2812,
+                "seatsAvailable": 2488,
+                "seatsSold": 324,
+                "occupancy": 11.52,
+                "totalRevenue": 34020.0
+              },
+              "theatres": {
+                "27151": {
+                  "theatreName": "SVC Devi, Pragathi Nagar, Jangaon",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2812,
+                    "seatsAvailable": 2488,
+                    "seatsSold": 324,
+                    "occupancy": 11.52,
+                    "totalRevenue": 34020.0
                   }
                 }
               }
@@ -297,13 +405,13 @@
       "name": "Kara",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kara-e0647600-1870-11f1-8620-a7b248408a4f.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 2468,
-        "seatsAvailable": 2468,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
+        "totalShows": 12,
+        "totalSeats": 7828,
+        "seatsAvailable": 7360,
+        "seatsSold": 468,
+        "occupancy": 5.98,
+        "totalRevenue": 36694.4,
+        "totalTheatres": 3
       },
       "states": {
         "tamil-nadu": {
@@ -316,6 +424,52 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 3548,
+                "seatsAvailable": 3080,
+                "seatsSold": 468,
+                "occupancy": 13.19,
+                "totalRevenue": 36694.4
+              },
+              "theatres": {
+                "1037033": {
+                  "theatreName": "Sangam Cinemas 4K RGB Laser Dolby Atmos, Kilpauk, Chennai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3548,
+                    "seatsAvailable": 3080,
+                    "seatsSold": 468,
+                    "occupancy": 13.19,
+                    "totalRevenue": 36694.4
+                  }
+                }
+              }
+            },
+            "Chinnamanur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1812,
+                "seatsAvailable": 1812,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "6044": {
+                  "theatreName": "Bharath Theatre A/C Dolby Atmos, Kollam Theni HighWay, Chinnamanur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1812,
+                    "seatsAvailable": 1812,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Thanjavur": {
               "cityStats": {
                 "totalShows": 4,
@@ -348,13 +502,13 @@
       "name": "Kara",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kara-8e7e08c0-f2cc-11f0-8b79-8b2797c23efe-54b95da0-4205-11f1-ad0a-17fec178475d.jpg",
       "overallStats": {
-        "totalShows": 3,
-        "totalSeats": 741,
-        "seatsAvailable": 741,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
+        "totalShows": 7,
+        "totalSeats": 2501,
+        "seatsAvailable": 2369,
+        "seatsSold": 132,
+        "occupancy": 5.28,
+        "totalRevenue": 19404.0,
+        "totalTheatres": 2
       },
       "states": {
         "andhra-pradesh": {
@@ -367,6 +521,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Anakapalle": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1760,
+                "seatsAvailable": 1628,
+                "seatsSold": 132,
+                "occupancy": 7.5,
+                "totalRevenue": 19404.0
+              },
+              "theatres": {
+                "1018799": {
+                  "theatreName": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1760,
+                    "seatsAvailable": 1628,
+                    "seatsSold": 132,
+                    "occupancy": 7.5,
+                    "totalRevenue": 19404.0
+                  }
+                }
+              }
+            },
             "Vizag": {
               "cityStats": {
                 "totalShows": 3,
@@ -450,13 +627,13 @@
       "name": "Mortal Kombat II",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Mortal-Kombat-II-b14e1580-4889-11f1-8a23-d104ab44ad27.jpg",
       "overallStats": {
-        "totalShows": 25,
-        "totalSeats": 7042,
-        "seatsAvailable": 6412,
-        "seatsSold": 630,
-        "occupancy": 8.95,
-        "totalRevenue": 80424.0,
-        "totalTheatres": 7
+        "totalShows": 31,
+        "totalSeats": 10910,
+        "seatsAvailable": 8256,
+        "seatsSold": 2654,
+        "occupancy": 24.33,
+        "totalRevenue": 302424.0,
+        "totalTheatres": 9
       },
       "states": {
         "andhra-pradesh": {
@@ -531,6 +708,29 @@
                     "totalShows": 4,
                     "totalSeats": 1264,
                     "seatsAvailable": 1264,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kavali": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 772,
+                "seatsAvailable": 772,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1016986": {
+                  "theatreName": "Manasa Cinemas, Vaddipalem - Theatre Road, Kavali",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 772,
+                    "seatsAvailable": 772,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -631,6 +831,41 @@
               }
             }
           }
+        },
+        "telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hyderabad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 3096,
+                "seatsAvailable": 1072,
+                "seatsSold": 2024,
+                "occupancy": 65.37,
+                "totalRevenue": 222000.0
+              },
+              "theatres": {
+                "36376": {
+                  "theatreName": "Sree Ramana Gold 4K Dolby 7.1, Amberpet, Hyderabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3096,
+                    "seatsAvailable": 1072,
+                    "seatsSold": 2024,
+                    "occupancy": 65.37,
+                    "totalRevenue": 222000.0
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -690,15 +925,50 @@
       "name": "Ninnu Kori",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/ninnu_Poster-6f7f8d00-46ae-11f1-bb12-39b9516118da.jpg",
       "overallStats": {
-        "totalShows": 2,
-        "totalSeats": 546,
-        "seatsAvailable": 260,
-        "seatsSold": 286,
-        "occupancy": 52.38,
-        "totalRevenue": 28600.0,
-        "totalTheatres": 1
+        "totalShows": 13,
+        "totalSeats": 8089,
+        "seatsAvailable": 6608,
+        "seatsSold": 1481,
+        "occupancy": 18.31,
+        "totalRevenue": 198693.0,
+        "totalTheatres": 4
       },
       "states": {
+        "Telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hyderabad": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 2535,
+                "seatsAvailable": 2256,
+                "seatsSold": 279,
+                "occupancy": 11.01,
+                "totalRevenue": 44465.0
+              },
+              "theatres": {
+                "1039848": {
+                  "theatreName": "Mythri Theatres, Vimal 70MM AC 4K Laser Dolby Atmos, Balanagar(Newly Renovated), Hyderabad",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 2535,
+                    "seatsAvailable": 2256,
+                    "seatsSold": 279,
+                    "occupancy": 11.01,
+                    "totalRevenue": 44465.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "andhra-pradesh": {
           "stateStats": {
             "totalShows": 0,
@@ -728,6 +998,115 @@
                     "seatsSold": 286,
                     "occupancy": 52.38,
                     "totalRevenue": 28600.0
+                  }
+                }
+              }
+            },
+            "Srikakulam": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1608,
+                "seatsAvailable": 692,
+                "seatsSold": 916,
+                "occupancy": 56.97,
+                "totalRevenue": 125628.0
+              },
+              "theatres": {
+                "1069817": {
+                  "theatreName": "Maruthi Movie Max, Srikakulam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1608,
+                    "seatsAvailable": 692,
+                    "seatsSold": 916,
+                    "occupancy": 56.97,
+                    "totalRevenue": 125628.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Nizamabad": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 3400,
+                "seatsAvailable": 3400,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1018795": {
+                  "theatreName": "SVC Lalithamahal, Dubba Road, Nizamabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3400,
+                    "seatsAvailable": 3400,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Oosaravelli": {
+      "id": "OB9JEM",
+      "name": "Oosaravelli",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Oosaravelli-c7c712a0-42f1-11f1-aace-e5cdc140b068-ca7d3f70-4877-11f1-a060-939c2a5323ec.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 845,
+        "seatsAvailable": 83,
+        "seatsSold": 762,
+        "occupancy": 90.18,
+        "totalRevenue": 93460.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "Telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hyderabad": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 845,
+                "seatsAvailable": 83,
+                "seatsSold": 762,
+                "occupancy": 90.18,
+                "totalRevenue": 93460.0
+              },
+              "theatres": {
+                "1039848": {
+                  "theatreName": "Mythri Theatres, Vimal 70MM AC 4K Laser Dolby Atmos, Balanagar(Newly Renovated), Hyderabad",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 845,
+                    "seatsAvailable": 83,
+                    "seatsSold": 762,
+                    "occupancy": 90.18,
+                    "totalRevenue": 93460.0
                   }
                 }
               }
@@ -792,13 +1171,13 @@
       "name": "Razor",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Razor-9ed57240-478f-11f1-a6fa-5da0572fecee.jpg",
       "overallStats": {
-        "totalShows": 15,
-        "totalSeats": 6383,
-        "seatsAvailable": 5747,
-        "seatsSold": 636,
-        "occupancy": 9.96,
-        "totalRevenue": 94864.0,
-        "totalTheatres": 4
+        "totalShows": 23,
+        "totalSeats": 10167,
+        "seatsAvailable": 9149,
+        "seatsSold": 1018,
+        "occupancy": 10.01,
+        "totalRevenue": 131568.0,
+        "totalTheatres": 7
       },
       "states": {
         "andhra-pradesh": {
@@ -811,6 +1190,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Anakapalle": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1760,
+                "seatsAvailable": 1628,
+                "seatsSold": 132,
+                "occupancy": 7.5,
+                "totalRevenue": 19404.0
+              },
+              "theatres": {
+                "1018799": {
+                  "theatreName": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1760,
+                    "seatsAvailable": 1628,
+                    "seatsSold": 132,
+                    "occupancy": 7.5,
+                    "totalRevenue": 19404.0
+                  }
+                }
+              }
+            },
             "Anantapur": {
               "cityStats": {
                 "totalShows": 4,
@@ -857,6 +1259,29 @@
                 }
               }
             },
+            "Kavali": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 772,
+                "seatsAvailable": 772,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1016986": {
+                  "theatreName": "Manasa Cinemas, Vaddipalem - Theatre Road, Kavali",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 772,
+                    "seatsAvailable": 772,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Vizag": {
               "cityStats": {
                 "totalShows": 3,
@@ -894,14 +1319,25 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 2944,
-                "seatsAvailable": 2576,
-                "seatsSold": 368,
-                "occupancy": 12.5,
-                "totalRevenue": 55200.0
+                "totalShows": 6,
+                "totalSeats": 4196,
+                "seatsAvailable": 3578,
+                "seatsSold": 618,
+                "occupancy": 14.73,
+                "totalRevenue": 72500.0
               },
               "theatres": {
+                "13958": {
+                  "theatreName": "SVC Sri Lakshmi Theatre, Kharmanghat, Hyderabad",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1252,
+                    "seatsAvailable": 1002,
+                    "seatsSold": 250,
+                    "occupancy": 19.97,
+                    "totalRevenue": 17300.0
+                  }
+                },
                 "14166": {
                   "theatreName": "Sangeetha Theatre, RC Puram (Formerly SVC Sangeetha), RC Reddy Colony, Hyderabad",
                   "stats": {
@@ -924,13 +1360,13 @@
       "name": "Sathi Leelavathi",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sathi-Leelavathi--02b099c0-171b-11f1-bcf8-ab18fbaf2c04.jpg",
       "overallStats": {
-        "totalShows": 10,
-        "totalSeats": 3676,
-        "seatsAvailable": 2900,
-        "seatsSold": 776,
-        "occupancy": 21.11,
-        "totalRevenue": 62580.0,
-        "totalTheatres": 3
+        "totalShows": 18,
+        "totalSeats": 6372,
+        "seatsAvailable": 4532,
+        "seatsSold": 1840,
+        "occupancy": 28.88,
+        "totalRevenue": 200340.0,
+        "totalTheatres": 5
       },
       "states": {
         "andhra-pradesh": {
@@ -962,6 +1398,52 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kavali": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 804,
+                "seatsAvailable": 804,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1016986": {
+                  "theatreName": "Manasa Cinemas, Vaddipalem - Theatre Road, Kavali",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 804,
+                    "seatsAvailable": 804,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Rajahmundry": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1892,
+                "seatsAvailable": 828,
+                "seatsSold": 1064,
+                "occupancy": 56.24,
+                "totalRevenue": 137760.0
+              },
+              "theatres": {
+                "4834": {
+                  "theatreName": "Anusri Cinemas Sri Sai Krishna 2K Dolby 7.1, Mangalavaripeta, Rajahmundry",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1892,
+                    "seatsAvailable": 828,
+                    "seatsSold": 1064,
+                    "occupancy": 56.24,
+                    "totalRevenue": 137760.0
                   }
                 }
               }

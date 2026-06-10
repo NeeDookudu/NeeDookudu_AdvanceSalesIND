@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-06-15",
   "movies": {
+    "Blast": {
+      "id": "OB9VC0",
+      "name": "Blast",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/17789139490052683-ed88b740-5274-11f1-9190-99e7de5c3b9a.jpeg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1288,
+        "seatsAvailable": 1328,
+        "seatsSold": -40,
+        "occupancy": -3.11,
+        "totalRevenue": -4000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "kerala": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Cheruvathur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1288,
+                "seatsAvailable": 1328,
+                "seatsSold": -40,
+                "occupancy": -3.11,
+                "totalRevenue": -4000.0
+              },
+              "theatres": {
+                "10270": {
+                  "theatreName": "Pakkanar Cinemas 2K 7.1 JBL, Cheruvathur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1288,
+                    "seatsAvailable": 1328,
+                    "seatsSold": -40,
+                    "occupancy": -3.11,
+                    "totalRevenue": -4000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Charukesi": {
       "id": "OBACY2",
       "name": "Charukesi",
@@ -52,18 +103,120 @@
         }
       }
     },
+    "Double Occupancy": {
+      "id": "OBADEY",
+      "name": "Double Occupancy",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_Double-Occupancy-poster-c833b250-6099-11f1-92f3-415e71cfc76d-40779220-6344-11f1-ba2f-eb19b19c36e6.jpg",
+      "overallStats": {
+        "totalShows": 3,
+        "totalSeats": 1623,
+        "seatsAvailable": 1398,
+        "seatsSold": 225,
+        "occupancy": 13.86,
+        "totalRevenue": 22410.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1623,
+                "seatsAvailable": 1398,
+                "seatsSold": 225,
+                "occupancy": 13.86,
+                "totalRevenue": 22410.0
+              },
+              "theatres": {
+                "14703": {
+                  "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1623,
+                    "seatsAvailable": 1398,
+                    "seatsSold": 225,
+                    "occupancy": 13.86,
+                    "totalRevenue": 22410.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Drishyam 3": {
+      "id": "OB7O60",
+      "name": "Drishyam 3",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Drishyam-3_Poster-0d2290e0-4469-11f1-9e72-b3859bd2479f%20(1)-6495a2d0-5360-11f1-8c65-299184906c19.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 322,
+        "seatsAvailable": 332,
+        "seatsSold": -10,
+        "occupancy": -3.11,
+        "totalRevenue": -1000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "kerala": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Cheruvathur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 322,
+                "seatsAvailable": 332,
+                "seatsSold": -10,
+                "occupancy": -3.11,
+                "totalRevenue": -1000.0
+              },
+              "theatres": {
+                "10270": {
+                  "theatreName": "Pakkanar Cinemas 2K 7.1 JBL, Cheruvathur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 322,
+                    "seatsAvailable": 332,
+                    "seatsSold": -10,
+                    "occupancy": -3.11,
+                    "totalRevenue": -1000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Eeswar": {
       "id": "OB1IZR",
       "name": "Eeswar",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Eeswar-poster-2fdd4790-6315-11f1-8d78-d52315b4837b-73161260-6317-11f1-a2d3-1fafd32f7d4f.jpg",
       "overallStats": {
-        "totalShows": 6,
-        "totalSeats": 3820,
-        "seatsAvailable": 3498,
+        "totalShows": 4,
+        "totalSeats": 2480,
+        "seatsAvailable": 2158,
         "seatsSold": 322,
-        "occupancy": 8.43,
+        "occupancy": 12.98,
         "totalRevenue": 28400.0,
-        "totalTheatres": 3
+        "totalTheatres": 2
       },
       "states": {
         "telangana": {
@@ -118,29 +271,6 @@
                     "seatsSold": 234,
                     "occupancy": 16.81,
                     "totalRevenue": 19160.0
-                  }
-                }
-              }
-            },
-            "Nizamabad": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 1340,
-                "seatsAvailable": 1340,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "15614": {
-                  "theatreName": "SVC Devi Cinemas, Pragathi Nagar, Nizamabad",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 1340,
-                    "seatsAvailable": 1340,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -205,12 +335,12 @@
       "name": "Kotha Malupu",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kotha-Malupu-56fbcad0-63f7-11f1-b1ef-fdb6bd1f16a5.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 912,
-        "seatsAvailable": 912,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
+        "totalShows": 2,
+        "totalSeats": 988,
+        "seatsAvailable": 856,
+        "seatsSold": 132,
+        "occupancy": 13.36,
+        "totalRevenue": 19536.0,
         "totalTheatres": 1
       },
       "states": {
@@ -224,25 +354,25 @@
             "totalRevenue": 0.0
           },
           "cities": {
-            "Guntur": {
+            "Anantapur": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 912,
-                "seatsAvailable": 912,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
+                "totalShows": 2,
+                "totalSeats": 988,
+                "seatsAvailable": 856,
+                "seatsSold": 132,
+                "occupancy": 13.36,
+                "totalRevenue": 19536.0
               },
               "theatres": {
-                "9365": {
-                  "theatreName": "Naaz Cinemas, Kothapet Main Road, Guntur",
+                "9653": {
+                  "theatreName": "Gowri Complex, Near Bus Stand, Anantapur",
                   "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 912,
-                    "seatsAvailable": 912,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
+                    "totalShows": 2,
+                    "totalSeats": 988,
+                    "seatsAvailable": 856,
+                    "seatsSold": 132,
+                    "occupancy": 13.36,
+                    "totalRevenue": 19536.0
                   }
                 }
               }
@@ -307,13 +437,13 @@
       "name": "Obsession",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_OBSESSION--491df8f0-eafa-11f0-bce8-23b56867606a.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 2568,
-        "seatsAvailable": 2120,
-        "seatsSold": 448,
-        "occupancy": 17.45,
-        "totalRevenue": 66304.0,
-        "totalTheatres": 1
+        "totalShows": 5,
+        "totalSeats": 3109,
+        "seatsAvailable": 2586,
+        "seatsSold": 523,
+        "occupancy": 16.82,
+        "totalRevenue": 73774.0,
+        "totalTheatres": 2
       },
       "states": {
         "andhra-pradesh": {
@@ -345,6 +475,41 @@
                     "seatsSold": 448,
                     "occupancy": 17.45,
                     "totalRevenue": 66304.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 541,
+                "seatsAvailable": 466,
+                "seatsSold": 75,
+                "occupancy": 13.86,
+                "totalRevenue": 7470.0
+              },
+              "theatres": {
+                "14703": {
+                  "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 541,
+                    "seatsAvailable": 466,
+                    "seatsSold": 75,
+                    "occupancy": 13.86,
+                    "totalRevenue": 7470.0
                   }
                 }
               }
@@ -427,18 +592,155 @@
         }
       }
     },
+    "Peddi (OB44YO)": {
+      "id": "OB44YO",
+      "name": "Peddi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/peddi---376a0460-5db3-11f1-9226-a98f153a7549.jpg",
+      "overallStats": {
+        "totalShows": 3,
+        "totalSeats": 705,
+        "seatsAvailable": 705,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "chhattisgarh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Kondagaon": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 705,
+                "seatsAvailable": 705,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "9497": {
+                  "theatreName": "Kishore Cineplex, Rojgari Para, Kondagaon",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 705,
+                    "seatsAvailable": 705,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Police Complaint": {
+      "id": "OBADLJ",
+      "name": "Police Complaint",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Police-Complaint-936b2d90-5fff-11f1-ab00-3f318d2b89a4-de6108b0-63ce-11f1-b56c-2d308ef02012.jpg",
+      "overallStats": {
+        "totalShows": 8,
+        "totalSeats": 3268,
+        "seatsAvailable": 2352,
+        "seatsSold": 916,
+        "occupancy": 28.03,
+        "totalRevenue": 77156.0,
+        "totalTheatres": 2
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Anantapur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 820,
+                "seatsAvailable": 628,
+                "seatsSold": 192,
+                "occupancy": 23.41,
+                "totalRevenue": 28416.0
+              },
+              "theatres": {
+                "9653": {
+                  "theatreName": "Gowri Complex, Near Bus Stand, Anantapur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 820,
+                    "seatsAvailable": 628,
+                    "seatsSold": 192,
+                    "occupancy": 23.41,
+                    "totalRevenue": 28416.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Tandur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2448,
+                "seatsAvailable": 1724,
+                "seatsSold": 724,
+                "occupancy": 29.58,
+                "totalRevenue": 48740.0
+              },
+              "theatres": {
+                "1041691": {
+                  "theatreName": "Asian Mukta A2 Cinemas, Shanth Mahal, Tandur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2448,
+                    "seatsAvailable": 1724,
+                    "seatsSold": 724,
+                    "occupancy": 29.58,
+                    "totalRevenue": 48740.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Sing Geetham": {
       "id": "OBACY7",
       "name": "Sing Geetham",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sing-Geetham-571b4100-6247-11f1-9ba7-99850c0ce3b4.jpg",
       "overallStats": {
-        "totalShows": 42,
-        "totalSeats": 17764,
-        "seatsAvailable": 16876,
-        "seatsSold": 888,
-        "occupancy": 5.0,
-        "totalRevenue": 109900.0,
-        "totalTheatres": 11
+        "totalShows": 38,
+        "totalSeats": 15588,
+        "seatsAvailable": 15124,
+        "seatsSold": 464,
+        "occupancy": 2.98,
+        "totalRevenue": 54292.0,
+        "totalTheatres": 10
       },
       "states": {
         "andhra-pradesh": {
@@ -467,6 +769,29 @@
                     "totalShows": 4,
                     "totalSeats": 1448,
                     "seatsAvailable": 1448,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Anantapur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1312,
+                "seatsAvailable": 1312,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "14354": {
+                  "theatreName": "V Mega Triveni Complex, Old Town, Anantapur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1312,
+                    "seatsAvailable": 1312,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -520,29 +845,6 @@
                 }
               }
             },
-            "Guntur": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1964,
-                "seatsAvailable": 1700,
-                "seatsSold": 264,
-                "occupancy": 13.44,
-                "totalRevenue": 38808.0
-              },
-              "theatres": {
-                "9365": {
-                  "theatreName": "Naaz Cinemas, Kothapet Main Road, Guntur",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1964,
-                    "seatsAvailable": 1700,
-                    "seatsSold": 264,
-                    "occupancy": 13.44,
-                    "totalRevenue": 38808.0
-                  }
-                }
-              }
-            },
             "Kurnool": {
               "cityStats": {
                 "totalShows": 4,
@@ -562,29 +864,6 @@
                     "seatsSold": 122,
                     "occupancy": 12.18,
                     "totalRevenue": 25442.0
-                  }
-                }
-              }
-            },
-            "Narasaraopet": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1524,
-                "seatsAvailable": 1364,
-                "seatsSold": 160,
-                "occupancy": 10.5,
-                "totalRevenue": 16800.0
-              },
-              "theatres": {
-                "9242": {
-                  "theatreName": "Lakshmi Narasimha Delux Theatre, Arundelpet, Narasaraopeta",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1524,
-                    "seatsAvailable": 1364,
-                    "seatsSold": 160,
-                    "occupancy": 10.5,
-                    "totalRevenue": 16800.0
                   }
                 }
               }
@@ -714,11 +993,11 @@
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Surya-S-o-Krishnan-2-poster-fe31adc0-6172-11f0-a47d-892349f87030.jpg",
       "overallStats": {
         "totalShows": 16,
-        "totalSeats": 8026,
-        "seatsAvailable": 7154,
-        "seatsSold": 872,
-        "occupancy": 10.86,
-        "totalRevenue": 91842.0,
+        "totalSeats": 8554,
+        "seatsAvailable": 7574,
+        "seatsSold": 980,
+        "occupancy": 11.46,
+        "totalRevenue": 108306.0,
         "totalTheatres": 6
       },
       "states": {
@@ -734,23 +1013,23 @@
           "cities": {
             "Anantapur": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1976,
-                "seatsAvailable": 1712,
-                "seatsSold": 264,
+                "totalShows": 2,
+                "totalSeats": 988,
+                "seatsAvailable": 856,
+                "seatsSold": 132,
                 "occupancy": 13.36,
-                "totalRevenue": 39072.0
+                "totalRevenue": 19536.0
               },
               "theatres": {
                 "9653": {
                   "theatreName": "Gowri Complex, Near Bus Stand, Anantapur",
                   "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1976,
-                    "seatsAvailable": 1712,
-                    "seatsSold": 264,
+                    "totalShows": 2,
+                    "totalSeats": 988,
+                    "seatsAvailable": 856,
+                    "seatsSold": 132,
                     "occupancy": 13.36,
-                    "totalRevenue": 39072.0
+                    "totalRevenue": 19536.0
                   }
                 }
               }
@@ -790,6 +1069,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Khammam": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2856,
+                "seatsAvailable": 2616,
+                "seatsSold": 240,
+                "occupancy": 8.4,
+                "totalRevenue": 36000.0
+              },
+              "theatres": {
+                "1088790": {
+                  "theatreName": "SVC Sri Tirumala Theatre, Khammam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2856,
+                    "seatsAvailable": 2616,
+                    "seatsSold": 240,
+                    "occupancy": 8.4,
+                    "totalRevenue": 36000.0
+                  }
+                }
+              }
+            },
             "Kothagudem": {
               "cityStats": {
                 "totalShows": 2,
@@ -832,29 +1134,6 @@
                     "seatsSold": 234,
                     "occupancy": 16.81,
                     "totalRevenue": 19160.0
-                  }
-                }
-              }
-            },
-            "Nizamabad": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 1340,
-                "seatsAvailable": 1340,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "15614": {
-                  "theatreName": "SVC Devi Cinemas, Pragathi Nagar, Nizamabad",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 1340,
-                    "seatsAvailable": 1340,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
                   }
                 }
               }

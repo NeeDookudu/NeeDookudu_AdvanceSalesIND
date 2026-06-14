@@ -1,4 +1,153 @@
 {
   "fetchDate": "2026-06-20",
-  "movies": {}
+  "movies": {
+    "Golimaar": {
+      "id": "OBACOO",
+      "name": "Golimaar",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Golimaar-ed4e56d0-619d-11f1-8a95-69144841d1a3.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 845,
+        "seatsAvailable": 770,
+        "seatsSold": 75,
+        "occupancy": 8.88,
+        "totalRevenue": 10255.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "Telangana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hyderabad": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 845,
+                "seatsAvailable": 770,
+                "seatsSold": 75,
+                "occupancy": 8.88,
+                "totalRevenue": 10255.0
+              },
+              "theatres": {
+                "1039848": {
+                  "theatreName": "Mythri Theatres, Vimal 70MM AC 4K Laser Dolby Atmos, Balanagar(Newly Renovated), Hyderabad",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 845,
+                    "seatsAvailable": 770,
+                    "seatsSold": 75,
+                    "occupancy": 8.88,
+                    "totalRevenue": 10255.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Peddi": {
+      "id": "OB5EGT",
+      "name": "Peddi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/peddi---0bce3ab0-5db3-11f1-bb8c-5757266bab75.jpg",
+      "overallStats": {
+        "totalShows": 12,
+        "totalSeats": 4756,
+        "seatsAvailable": 4360,
+        "seatsSold": 396,
+        "occupancy": 8.33,
+        "totalRevenue": 50800.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ganapavaram": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 996,
+                "seatsAvailable": 600,
+                "seatsSold": 396,
+                "occupancy": 39.76,
+                "totalRevenue": 50800.0
+              },
+              "theatres": {
+                "1102126": {
+                  "theatreName": "Mahalakshmi Theatre 4K Atmos",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 996,
+                    "seatsAvailable": 600,
+                    "seatsSold": 396,
+                    "occupancy": 39.76,
+                    "totalRevenue": 50800.0
+                  }
+                }
+              }
+            },
+            "Gudur (Nellore)": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2136,
+                "seatsAvailable": 2136,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1031638": {
+                  "theatreName": "K3K Sangam, Gudur, Nellore",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2136,
+                    "seatsAvailable": 2136,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Venkatagiri": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1624,
+                "seatsAvailable": 1624,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1031640": {
+                  "theatreName": "K3K Sri Brahmaramba & Jyothi Mahal Theatre, Venkatagiri Town, Venkatagiri",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1624,
+                    "seatsAvailable": 1624,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

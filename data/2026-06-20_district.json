@@ -1,6 +1,127 @@
 {
   "fetchDate": "2026-06-20",
   "movies": {
+    "Cocktail 2": {
+      "id": "OB8602",
+      "name": "Cocktail 2",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Cocktail-2-0feaab20-6753-11f1-9e97-2d0de83fe7ee.jpg",
+      "overallStats": {
+        "totalShows": 14,
+        "totalSeats": 2380,
+        "seatsAvailable": 2312,
+        "seatsSold": 68,
+        "occupancy": 2.86,
+        "totalRevenue": 12500.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "gujarat": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Jamkhambhaliya": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 368,
+                "seatsAvailable": 368,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1055117": {
+                  "theatreName": "Shree Ram Cinemax, Jamkhambhaliya",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 368,
+                    "seatsAvailable": 368,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "madhya-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Kotma": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 440,
+                "seatsAvailable": 440,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "58822": {
+                  "theatreName": "Joy Cinema, Kotma, Anuppur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 440,
+                    "seatsAvailable": 440,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uttar-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ghaziabad": {
+              "cityStats": {
+                "totalShows": 6,
+                "totalSeats": 1572,
+                "seatsAvailable": 1504,
+                "seatsSold": 68,
+                "occupancy": 4.33,
+                "totalRevenue": 12500.0
+              },
+              "theatres": {
+                "25281": {
+                  "theatreName": "New US Cinemas, Aditya Mall, Ghaziabad",
+                  "stats": {
+                    "totalShows": 6,
+                    "totalSeats": 1572,
+                    "seatsAvailable": 1504,
+                    "seatsSold": 68,
+                    "occupancy": 4.33,
+                    "totalRevenue": 12500.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Golimaar": {
       "id": "OBACOO",
       "name": "Golimaar",
@@ -8,10 +129,10 @@
       "overallStats": {
         "totalShows": 1,
         "totalSeats": 845,
-        "seatsAvailable": 770,
-        "seatsSold": 75,
-        "occupancy": 8.88,
-        "totalRevenue": 10255.0,
+        "seatsAvailable": 769,
+        "seatsSold": 76,
+        "occupancy": 8.99,
+        "totalRevenue": 10305.0,
         "totalTheatres": 1
       },
       "states": {
@@ -29,10 +150,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 845,
-                "seatsAvailable": 770,
-                "seatsSold": 75,
-                "occupancy": 8.88,
-                "totalRevenue": 10255.0
+                "seatsAvailable": 769,
+                "seatsSold": 76,
+                "occupancy": 8.99,
+                "totalRevenue": 10305.0
               },
               "theatres": {
                 "1039848": {
@@ -40,10 +161,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 845,
-                    "seatsAvailable": 770,
-                    "seatsSold": 75,
-                    "occupancy": 8.88,
-                    "totalRevenue": 10255.0
+                    "seatsAvailable": 769,
+                    "seatsSold": 76,
+                    "occupancy": 8.99,
+                    "totalRevenue": 10305.0
                   }
                 }
               }
@@ -57,13 +178,13 @@
       "name": "Peddi",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/peddi---0bce3ab0-5db3-11f1-bb8c-5757266bab75.jpg",
       "overallStats": {
-        "totalShows": 12,
-        "totalSeats": 4756,
-        "seatsAvailable": 4360,
-        "seatsSold": 396,
-        "occupancy": 8.33,
-        "totalRevenue": 50800.0,
-        "totalTheatres": 3
+        "totalShows": 32,
+        "totalSeats": 12340,
+        "seatsAvailable": 10460,
+        "seatsSold": 1880,
+        "occupancy": 15.24,
+        "totalRevenue": 194380.0,
+        "totalTheatres": 8
       },
       "states": {
         "andhra-pradesh": {
@@ -76,6 +197,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Attili": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1092,
+                "seatsAvailable": 520,
+                "seatsSold": 572,
+                "occupancy": 52.38,
+                "totalRevenue": 67400.0
+              },
+              "theatres": {
+                "1060262": {
+                  "theatreName": "Sri Kanakadurga RGB 4K Dolby Atmos",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1092,
+                    "seatsAvailable": 520,
+                    "seatsSold": 572,
+                    "occupancy": 52.38,
+                    "totalRevenue": 67400.0
+                  }
+                }
+              }
+            },
             "Ganapavaram": {
               "cityStats": {
                 "totalShows": 4,
@@ -118,6 +262,98 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Pedakurapadu": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1304,
+                "seatsAvailable": 1304,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "36879": {
+                  "theatreName": "Hussain Baba, Pedakurapadu",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1304,
+                    "seatsAvailable": 1304,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Podili": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1280,
+                "seatsAvailable": 1144,
+                "seatsSold": 136,
+                "occupancy": 10.62,
+                "totalRevenue": 13600.0
+              },
+              "theatres": {
+                "9474": {
+                  "theatreName": "Sri Raghavendra Picture Palace, Radham Road, Podili",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1280,
+                    "seatsAvailable": 1144,
+                    "seatsSold": 136,
+                    "occupancy": 10.62,
+                    "totalRevenue": 13600.0
+                  }
+                }
+              }
+            },
+            "Srikalahasti": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1728,
+                "seatsAvailable": 1728,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1031639": {
+                  "theatreName": "K3K RR Picture Palace 4K Dolby Atmos, Srikalahasti",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1728,
+                    "seatsAvailable": 1728,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Tuni": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2180,
+                "seatsAvailable": 1404,
+                "seatsSold": 776,
+                "occupancy": 35.6,
+                "totalRevenue": 62580.0
+              },
+              "theatres": {
+                "1029684": {
+                  "theatreName": "Sri Rama Theatre 2K A/C DTS, Tuni",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2180,
+                    "seatsAvailable": 1404,
+                    "seatsSold": 776,
+                    "occupancy": 35.6,
+                    "totalRevenue": 62580.0
                   }
                 }
               }

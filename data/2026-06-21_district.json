@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-06-21",
   "movies": {
+    "Backrooms": {
+      "id": "OB9KYR",
+      "name": "Backrooms",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Backrooms_Poster-1be09570-493a-11f1-a8aa-ef664b57e8ad-cd792f60-493d-11f1-a9d4-eb9e6131b8e2.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 204,
+        "seatsAvailable": 204,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 204,
+                "seatsAvailable": 204,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 204,
+                    "seatsAvailable": 204,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Badhu Alright Che": {
       "id": "OB99GN",
       "name": "Badhu Alright Che",
@@ -777,13 +828,13 @@
       "name": "Balan: The Boy",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/BalanB-6f311eb0-68b7-11f1-b1ab-454e14ec3db3.jpg",
       "overallStats": {
-        "totalShows": 87,
-        "totalSeats": 26165,
-        "seatsAvailable": 23733,
+        "totalShows": 89,
+        "totalSeats": 26736,
+        "seatsAvailable": 24304,
         "seatsSold": 2432,
-        "occupancy": 9.29,
+        "occupancy": 9.1,
         "totalRevenue": 373431.2,
-        "totalTheatres": 25
+        "totalTheatres": 26
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -1348,6 +1399,29 @@
                 }
               }
             },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 571,
+                "seatsAvailable": 571,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 571,
+                    "seatsAvailable": 571,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Marthandam": {
               "cityStats": {
                 "totalShows": 3,
@@ -1689,13 +1763,13 @@
       "name": "Blast",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/17789139490052683-ed88b740-5274-11f1-9190-99e7de5c3b9a.jpeg",
       "overallStats": {
-        "totalShows": 92,
-        "totalSeats": 26108,
-        "seatsAvailable": 22661,
+        "totalShows": 94,
+        "totalSeats": 26514,
+        "seatsAvailable": 23067,
         "seatsSold": 3447,
-        "occupancy": 13.2,
+        "occupancy": 13.0,
         "totalRevenue": 388930.09,
-        "totalTheatres": 48
+        "totalTheatres": 49
       },
       "states": {
         "kerala": {
@@ -2264,6 +2338,29 @@
                     "seatsSold": 62,
                     "occupancy": 21.09,
                     "totalRevenue": 6380.0
+                  }
+                }
+              }
+            },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 406,
+                "seatsAvailable": 406,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 406,
+                    "seatsAvailable": 406,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -2848,13 +2945,13 @@
       "name": "Chinna Chinna Aasai",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Chinna%20Chinna-35838b30-6bd7-11f1-8542-bfe51f54638f.jpg",
       "overallStats": {
-        "totalShows": 18,
-        "totalSeats": 3015,
-        "seatsAvailable": 2533,
+        "totalShows": 19,
+        "totalSeats": 3219,
+        "seatsAvailable": 2737,
         "seatsSold": 482,
-        "occupancy": 15.99,
+        "occupancy": 14.97,
         "totalRevenue": 83299.6,
-        "totalTheatres": 7
+        "totalTheatres": 8
       },
       "states": {
         "karnataka": {
@@ -3041,6 +3138,41 @@
               }
             }
           }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 204,
+                "seatsAvailable": 204,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 204,
+                    "seatsAvailable": 204,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -3151,13 +3283,13 @@
       "name": "Cocktail 2",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Cocktail-2-0feaab20-6753-11f1-9e97-2d0de83fe7ee.jpg",
       "overallStats": {
-        "totalShows": 191,
-        "totalSeats": 36400,
-        "seatsAvailable": 32973,
-        "seatsSold": 3427,
-        "occupancy": 9.41,
-        "totalRevenue": 757548.11,
-        "totalTheatres": 42
+        "totalShows": 193,
+        "totalSeats": 37134,
+        "seatsAvailable": 33701,
+        "seatsSold": 3433,
+        "occupancy": 9.24,
+        "totalRevenue": 758848.11,
+        "totalTheatres": 43
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -3312,10 +3444,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1028,
-                "seatsAvailable": 1001,
-                "seatsSold": 27,
-                "occupancy": 2.63,
-                "totalRevenue": 8400.0
+                "seatsAvailable": 999,
+                "seatsSold": 29,
+                "occupancy": 2.82,
+                "totalRevenue": 8800.0
               },
               "theatres": {
                 "9131": {
@@ -3323,10 +3455,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1028,
-                    "seatsAvailable": 1001,
-                    "seatsSold": 27,
-                    "occupancy": 2.63,
-                    "totalRevenue": 8400.0
+                    "seatsAvailable": 999,
+                    "seatsSold": 29,
+                    "occupancy": 2.82,
+                    "totalRevenue": 8800.0
                   }
                 }
               }
@@ -4140,6 +4272,29 @@
                 }
               }
             },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 734,
+                "seatsAvailable": 734,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 734,
+                    "seatsAvailable": 734,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Vaniyambadi": {
               "cityStats": {
                 "totalShows": 1,
@@ -4179,10 +4334,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 963,
-                "seatsAvailable": 796,
-                "seatsSold": 167,
-                "occupancy": 17.34,
-                "totalRevenue": 43600.0
+                "seatsAvailable": 794,
+                "seatsSold": 169,
+                "occupancy": 17.55,
+                "totalRevenue": 44200.0
               },
               "theatres": {
                 "1041683": {
@@ -4190,10 +4345,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 963,
-                    "seatsAvailable": 796,
-                    "seatsSold": 167,
-                    "occupancy": 17.34,
-                    "totalRevenue": 43600.0
+                    "seatsAvailable": 794,
+                    "seatsSold": 169,
+                    "occupancy": 17.55,
+                    "totalRevenue": 44200.0
                   }
                 }
               }
@@ -4214,10 +4369,10 @@
               "cityStats": {
                 "totalShows": 11,
                 "totalSeats": 1932,
-                "seatsAvailable": 1799,
-                "seatsSold": 133,
-                "occupancy": 6.88,
-                "totalRevenue": 37170.0
+                "seatsAvailable": 1797,
+                "seatsSold": 135,
+                "occupancy": 6.99,
+                "totalRevenue": 37470.0
               },
               "theatres": {
                 "25281": {
@@ -4225,10 +4380,10 @@
                   "stats": {
                     "totalShows": 11,
                     "totalSeats": 1932,
-                    "seatsAvailable": 1799,
-                    "seatsSold": 133,
-                    "occupancy": 6.88,
-                    "totalRevenue": 37170.0
+                    "seatsAvailable": 1797,
+                    "seatsSold": 135,
+                    "occupancy": 6.99,
+                    "totalRevenue": 37470.0
                   }
                 }
               }
@@ -5646,10 +5801,10 @@
       "overallStats": {
         "totalShows": 147,
         "totalSeats": 49093,
-        "seatsAvailable": 45006,
-        "seatsSold": 4087,
+        "seatsAvailable": 45004,
+        "seatsSold": 4089,
         "occupancy": 8.33,
-        "totalRevenue": 423806.16,
+        "totalRevenue": 424106.16,
         "totalTheatres": 55
       },
       "states": {
@@ -5885,10 +6040,10 @@
               "cityStats": {
                 "totalShows": 25,
                 "totalSeats": 11245,
-                "seatsAvailable": 10474,
-                "seatsSold": 771,
-                "occupancy": 6.86,
-                "totalRevenue": 62563.36
+                "seatsAvailable": 10472,
+                "seatsSold": 773,
+                "occupancy": 6.87,
+                "totalRevenue": 62863.36
               },
               "theatres": {
                 "1037033": {
@@ -5973,10 +6128,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 221,
-                    "seatsAvailable": 197,
-                    "seatsSold": 24,
-                    "occupancy": 10.86,
-                    "totalRevenue": 3600.0
+                    "seatsAvailable": 195,
+                    "seatsSold": 26,
+                    "occupancy": 11.76,
+                    "totalRevenue": 3900.0
                   }
                 },
                 "1102116": {
@@ -8554,13 +8709,13 @@
       "name": "Karuppu",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Karuppu-1d0a67f0-4854-11f1-aa5f-7174a7d9c3c2.jpg",
       "overallStats": {
-        "totalShows": 24,
-        "totalSeats": 7386,
-        "seatsAvailable": 7166,
+        "totalShows": 25,
+        "totalSeats": 7589,
+        "seatsAvailable": 7369,
         "seatsSold": 220,
-        "occupancy": 2.98,
+        "occupancy": 2.9,
         "totalRevenue": 28830.0,
-        "totalTheatres": 16
+        "totalTheatres": 17
       },
       "states": {
         "tamil-nadu": {
@@ -8683,6 +8838,29 @@
                     "seatsSold": 44,
                     "occupancy": 22.68,
                     "totalRevenue": 4580.0
+                  }
+                }
+              }
+            },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 203,
+                "seatsAvailable": 203,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 203,
+                    "seatsAvailable": 203,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -9039,13 +9217,13 @@
       "name": "Maa Inti Bangaaram",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Maa-Inti-Bangaaram-poster-31398050-3cc2-11f1-a79d-915297966e20.jpg",
       "overallStats": {
-        "totalShows": 333,
-        "totalSeats": 138149,
-        "seatsAvailable": 112675,
-        "seatsSold": 25474,
-        "occupancy": 18.44,
-        "totalRevenue": 3311589.0,
-        "totalTheatres": 86
+        "totalShows": 338,
+        "totalSeats": 139939,
+        "seatsAvailable": 114458,
+        "seatsSold": 25481,
+        "occupancy": 18.21,
+        "totalRevenue": 3312921.0,
+        "totalTheatres": 87
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -9737,10 +9915,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 2288,
-                "seatsAvailable": 1847,
-                "seatsSold": 441,
-                "occupancy": 19.27,
-                "totalRevenue": 40698.0
+                "seatsAvailable": 1844,
+                "seatsSold": 444,
+                "occupancy": 19.41,
+                "totalRevenue": 40980.0
               },
               "theatres": {
                 "4693": {
@@ -9748,10 +9926,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2288,
-                    "seatsAvailable": 1847,
-                    "seatsSold": 441,
-                    "occupancy": 19.27,
-                    "totalRevenue": 40698.0
+                    "seatsAvailable": 1844,
+                    "seatsSold": 444,
+                    "occupancy": 19.41,
+                    "totalRevenue": 40980.0
                   }
                 }
               }
@@ -10230,10 +10408,10 @@
               "cityStats": {
                 "totalShows": 7,
                 "totalSeats": 2429,
-                "seatsAvailable": 2338,
-                "seatsSold": 91,
-                "occupancy": 3.75,
-                "totalRevenue": 14897.0
+                "seatsAvailable": 2336,
+                "seatsSold": 93,
+                "occupancy": 3.83,
+                "totalRevenue": 15487.0
               },
               "theatres": {
                 "16605": {
@@ -10241,10 +10419,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1676,
-                    "seatsAvailable": 1633,
-                    "seatsSold": 43,
-                    "occupancy": 2.57,
-                    "totalRevenue": 6617.0
+                    "seatsAvailable": 1631,
+                    "seatsSold": 45,
+                    "occupancy": 2.68,
+                    "totalRevenue": 7207.0
                   }
                 },
                 "7293": {
@@ -10299,10 +10477,10 @@
               "cityStats": {
                 "totalShows": 12,
                 "totalSeats": 4130,
-                "seatsAvailable": 3389,
-                "seatsSold": 741,
-                "occupancy": 17.94,
-                "totalRevenue": 146130.0
+                "seatsAvailable": 3387,
+                "seatsSold": 743,
+                "occupancy": 17.99,
+                "totalRevenue": 146590.0
               },
               "theatres": {
                 "10940": {
@@ -10310,10 +10488,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 2814,
-                    "seatsAvailable": 2103,
-                    "seatsSold": 711,
-                    "occupancy": 25.27,
-                    "totalRevenue": 141630.0
+                    "seatsAvailable": 2101,
+                    "seatsSold": 713,
+                    "occupancy": 25.34,
+                    "totalRevenue": 142090.0
                   }
                 },
                 "9487": {
@@ -10388,14 +10566,25 @@
             },
             "Hosur": {
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 1072,
-                "seatsAvailable": 1058,
+                "totalShows": 7,
+                "totalSeats": 2862,
+                "seatsAvailable": 2848,
                 "seatsSold": 14,
-                "occupancy": 1.31,
+                "occupancy": 0.49,
                 "totalRevenue": 2100.0
               },
               "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 5,
+                    "totalSeats": 1790,
+                    "seatsAvailable": 1790,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                },
                 "1025291": {
                   "theatreName": "Sree Manjunatha Talkies, Hosur",
                   "stats": {
@@ -11554,13 +11743,13 @@
       "name": "Nooru Sami",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Nooru-Swami_Poster-ae1ae7f0-2cf3-11f1-8ecd-87128f170ccd-3a4d86a0-6977-11f1-939c-fb684b8fd644.jpg",
       "overallStats": {
-        "totalShows": 476,
-        "totalSeats": 189579,
-        "seatsAvailable": 172576,
-        "seatsSold": 17003,
-        "occupancy": 8.97,
-        "totalRevenue": 2249681.76,
-        "totalTheatres": 130
+        "totalShows": 479,
+        "totalSeats": 190516,
+        "seatsAvailable": 173511,
+        "seatsSold": 17005,
+        "occupancy": 8.93,
+        "totalRevenue": 2249941.76,
+        "totalTheatres": 131
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -12313,10 +12502,10 @@
               "cityStats": {
                 "totalShows": 63,
                 "totalSeats": 30725,
-                "seatsAvailable": 26365,
-                "seatsSold": 4360,
-                "occupancy": 14.19,
-                "totalRevenue": 546654.16
+                "seatsAvailable": 26363,
+                "seatsSold": 4362,
+                "occupancy": 14.2,
+                "totalRevenue": 546914.16
               },
               "theatres": {
                 "1030504": {
@@ -12368,10 +12557,10 @@
                   "stats": {
                     "totalShows": 3,
                     "totalSeats": 490,
-                    "seatsAvailable": 403,
-                    "seatsSold": 87,
-                    "occupancy": 17.76,
-                    "totalRevenue": 11910.0
+                    "seatsAvailable": 401,
+                    "seatsSold": 89,
+                    "occupancy": 18.16,
+                    "totalRevenue": 12170.0
                   }
                 },
                 "1037511": {
@@ -12767,6 +12956,29 @@
                     "seatsSold": 318,
                     "occupancy": 13.03,
                     "totalRevenue": 43740.0
+                  }
+                }
+              }
+            },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 937,
+                "seatsAvailable": 937,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 937,
+                    "seatsAvailable": 937,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -14164,13 +14376,13 @@
       "name": "Obsession",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_OBSESSION--491df8f0-eafa-11f0-bce8-23b56867606a.jpg",
       "overallStats": {
-        "totalShows": 31,
-        "totalSeats": 8734,
-        "seatsAvailable": 7483,
+        "totalShows": 32,
+        "totalSeats": 8938,
+        "seatsAvailable": 7687,
         "seatsSold": 1251,
-        "occupancy": 14.32,
+        "occupancy": 14.0,
         "totalRevenue": 200595.6,
-        "totalTheatres": 17
+        "totalTheatres": 18
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -14540,6 +14752,29 @@
                 }
               }
             },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 204,
+                "seatsAvailable": 204,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 204,
+                    "seatsAvailable": 204,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Thiruvannamalai": {
               "cityStats": {
                 "totalShows": 1,
@@ -14738,13 +14973,13 @@
       "name": "Parimala and Co",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Parimala-and-Co_Poster-82cec260-5caa-11f1-92a5-af19d93366c6.jpg",
       "overallStats": {
-        "totalShows": 18,
-        "totalSeats": 4642,
-        "seatsAvailable": 4228,
+        "totalShows": 19,
+        "totalSeats": 4845,
+        "seatsAvailable": 4431,
         "seatsSold": 414,
-        "occupancy": 8.92,
+        "occupancy": 8.54,
         "totalRevenue": 52943.6,
-        "totalTheatres": 9
+        "totalTheatres": 10
       },
       "states": {
         "kerala": {
@@ -14844,6 +15079,29 @@
                     "seatsSold": 40,
                     "occupancy": 8.75,
                     "totalRevenue": 6000.0
+                  }
+                }
+              }
+            },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 203,
+                "seatsAvailable": 203,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 203,
+                    "seatsAvailable": 203,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -15000,13 +15258,13 @@
       "name": "Peddi",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/peddi---0bce3ab0-5db3-11f1-bb8c-5757266bab75.jpg",
       "overallStats": {
-        "totalShows": 394,
-        "totalSeats": 180240,
-        "seatsAvailable": 146909,
+        "totalShows": 395,
+        "totalSeats": 180444,
+        "seatsAvailable": 147113,
         "seatsSold": 33331,
-        "occupancy": 18.49,
+        "occupancy": 18.47,
         "totalRevenue": 4133378.0,
-        "totalTheatres": 102
+        "totalTheatres": 103
       },
       "states": {
         "Telangana": {
@@ -16428,6 +16686,41 @@
                     "seatsSold": 43,
                     "occupancy": 16.1,
                     "totalRevenue": 8600.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 204,
+                "seatsAvailable": 204,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 204,
+                    "seatsAvailable": 204,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }

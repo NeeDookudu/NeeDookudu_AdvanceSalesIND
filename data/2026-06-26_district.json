@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-06-26",
   "movies": {
+    "Balan: The Boy": {
+      "id": "OBA0C1",
+      "name": "Balan: The Boy",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/BalanB-6f311eb0-68b7-11f1-b1ab-454e14ec3db3.jpg",
+      "overallStats": {
+        "totalShows": 5,
+        "totalSeats": 1610,
+        "seatsAvailable": 1660,
+        "seatsSold": -50,
+        "occupancy": -3.11,
+        "totalRevenue": -5000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "kerala": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Cheruvathur": {
+              "cityStats": {
+                "totalShows": 5,
+                "totalSeats": 1610,
+                "seatsAvailable": 1660,
+                "seatsSold": -50,
+                "occupancy": -3.11,
+                "totalRevenue": -5000.0
+              },
+              "theatres": {
+                "10270": {
+                  "theatreName": "Pakkanar Cinemas 2K 7.1 JBL, Cheruvathur",
+                  "stats": {
+                    "totalShows": 5,
+                    "totalSeats": 1610,
+                    "seatsAvailable": 1660,
+                    "seatsSold": -50,
+                    "occupancy": -3.11,
+                    "totalRevenue": -5000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Blast": {
       "id": "OB9VC0",
       "name": "Blast",
@@ -274,13 +325,13 @@
       "name": "Okkadu [2003]",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Okkadu-550ecef0-6caa-11f1-b059-0d4b6ffba3fc.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 2630,
-        "seatsAvailable": 2230,
-        "seatsSold": 400,
-        "occupancy": 15.21,
-        "totalRevenue": 44214.0,
-        "totalTheatres": 4
+        "totalShows": 19,
+        "totalSeats": 9476,
+        "seatsAvailable": 7801,
+        "seatsSold": 1675,
+        "occupancy": 17.68,
+        "totalRevenue": 218661.0,
+        "totalTheatres": 12
       },
       "states": {
         "andhra-pradesh": {
@@ -293,14 +344,106 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Anakapalle": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1760,
+                "seatsAvailable": 1628,
+                "seatsSold": 132,
+                "occupancy": 7.5,
+                "totalRevenue": 19404.0
+              },
+              "theatres": {
+                "1018799": {
+                  "theatreName": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1760,
+                    "seatsAvailable": 1628,
+                    "seatsSold": 132,
+                    "occupancy": 7.5,
+                    "totalRevenue": 19404.0
+                  }
+                }
+              }
+            },
+            "Anantapur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 540,
+                "seatsAvailable": 485,
+                "seatsSold": 55,
+                "occupancy": 10.19,
+                "totalRevenue": 9187.0
+              },
+              "theatres": {
+                "1022965": {
+                  "theatreName": "S2 Cinemas, Anantapur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 540,
+                    "seatsAvailable": 485,
+                    "seatsSold": 55,
+                    "occupancy": 10.19,
+                    "totalRevenue": 9187.0
+                  }
+                }
+              }
+            },
+            "Bobbili": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1668,
+                "seatsAvailable": 1500,
+                "seatsSold": 168,
+                "occupancy": 10.07,
+                "totalRevenue": 25240.0
+              },
+              "theatres": {
+                "25804": {
+                  "theatreName": "SVC TBR Cinemas, Old Bobbili, Bobbili",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1668,
+                    "seatsAvailable": 1500,
+                    "seatsSold": 168,
+                    "occupancy": 10.07,
+                    "totalRevenue": 25240.0
+                  }
+                }
+              }
+            },
+            "Kavali": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 386,
+                "seatsAvailable": 371,
+                "seatsSold": 15,
+                "occupancy": 3.89,
+                "totalRevenue": 1575.0
+              },
+              "theatres": {
+                "1016986": {
+                  "theatreName": "Manasa Cinemas, Vaddipalem - Theatre Road, Kavali",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 386,
+                    "seatsAvailable": 371,
+                    "seatsSold": 15,
+                    "occupancy": 3.89,
+                    "totalRevenue": 1575.0
+                  }
+                }
+              }
+            },
             "Kurnool": {
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 410,
-                "seatsAvailable": 368,
-                "seatsSold": 42,
-                "occupancy": 10.24,
-                "totalRevenue": 8614.0
+                "seatsAvailable": 366,
+                "seatsSold": 44,
+                "occupancy": 10.73,
+                "totalRevenue": 8968.0
               },
               "theatres": {
                 "15527": {
@@ -308,10 +451,56 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 410,
-                    "seatsAvailable": 368,
-                    "seatsSold": 42,
-                    "occupancy": 10.24,
-                    "totalRevenue": 8614.0
+                    "seatsAvailable": 366,
+                    "seatsSold": 44,
+                    "occupancy": 10.73,
+                    "totalRevenue": 8968.0
+                  }
+                }
+              }
+            },
+            "Narasaraopet": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 235,
+                "seatsAvailable": 218,
+                "seatsSold": 17,
+                "occupancy": 7.23,
+                "totalRevenue": 2550.0
+              },
+              "theatres": {
+                "1050768": {
+                  "theatreName": "Geetha Multiplex, Kasu Central Mall, Barco 4K Laser, Dolby Atmos, Narasaraopeta",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 235,
+                    "seatsAvailable": 218,
+                    "seatsSold": 17,
+                    "occupancy": 7.23,
+                    "totalRevenue": 2550.0
+                  }
+                }
+              }
+            },
+            "Payakaraopeta": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 572,
+                "seatsAvailable": 468,
+                "seatsSold": 104,
+                "occupancy": 18.18,
+                "totalRevenue": 9587.0
+              },
+              "theatres": {
+                "4693": {
+                  "theatreName": "SVC Sri Laxmi, Payakaraopeta",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 572,
+                    "seatsAvailable": 468,
+                    "seatsSold": 104,
+                    "occupancy": 18.18,
+                    "totalRevenue": 9587.0
                   }
                 }
               }
@@ -338,6 +527,29 @@
                   }
                 }
               }
+            },
+            "Vizianagaram": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 992,
+                "seatsAvailable": 742,
+                "seatsSold": 250,
+                "occupancy": 25.2,
+                "totalRevenue": 44250.0
+              },
+              "theatres": {
+                "7293": {
+                  "theatreName": "SVC Ranjani And Shivaranjani, Yodya Maidanam Area, Vizianagaram",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 992,
+                    "seatsAvailable": 742,
+                    "seatsSold": 250,
+                    "occupancy": 25.2,
+                    "totalRevenue": 44250.0
+                  }
+                }
+              }
             }
           }
         },
@@ -355,10 +567,10 @@
               "cityStats": {
                 "totalShows": 2,
                 "totalSeats": 1470,
-                "seatsAvailable": 1112,
-                "seatsSold": 358,
-                "occupancy": 24.35,
-                "totalRevenue": 35600.0
+                "seatsAvailable": 1105,
+                "seatsSold": 365,
+                "occupancy": 24.83,
+                "totalRevenue": 36250.0
               },
               "theatres": {
                 "1018796": {
@@ -366,10 +578,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 842,
-                    "seatsAvailable": 678,
-                    "seatsSold": 164,
-                    "occupancy": 19.48,
-                    "totalRevenue": 18900.0
+                    "seatsAvailable": 671,
+                    "seatsSold": 171,
+                    "occupancy": 20.31,
+                    "totalRevenue": 19550.0
                   }
                 },
                 "9291": {
@@ -384,6 +596,29 @@
                   }
                 }
               }
+            },
+            "Karimnagar": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 693,
+                "seatsAvailable": 168,
+                "seatsSold": 525,
+                "occupancy": 75.76,
+                "totalRevenue": 61650.0
+              },
+              "theatres": {
+                "7747": {
+                  "theatreName": "Mamatha 4K Dolby Atmos, Mukarampura, Karimnagar",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 693,
+                    "seatsAvailable": 168,
+                    "seatsSold": 525,
+                    "occupancy": 75.76,
+                    "totalRevenue": 61650.0
+                  }
+                }
+              }
             }
           }
         }
@@ -394,15 +629,73 @@
       "name": "Peddi",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/peddi---0bce3ab0-5db3-11f1-bb8c-5757266bab75.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 536,
-        "seatsAvailable": 536,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
+        "totalShows": 11,
+        "totalSeats": 3020,
+        "seatsAvailable": 2624,
+        "seatsSold": 396,
+        "occupancy": 13.11,
+        "totalRevenue": 45640.0,
+        "totalTheatres": 3
       },
       "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ganapavaram": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 996,
+                "seatsAvailable": 600,
+                "seatsSold": 396,
+                "occupancy": 39.76,
+                "totalRevenue": 45640.0
+              },
+              "theatres": {
+                "1102126": {
+                  "theatreName": "Mahalakshmi Theatre 4K Atmos",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 996,
+                    "seatsAvailable": 600,
+                    "seatsSold": 396,
+                    "occupancy": 39.76,
+                    "totalRevenue": 45640.0
+                  }
+                }
+              }
+            },
+            "Vizianagaram": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1488,
+                "seatsAvailable": 1488,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "7293": {
+                  "theatreName": "SVC Ranjani And Shivaranjani, Yodya Maidanam Area, Vizianagaram",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1488,
+                    "seatsAvailable": 1488,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "karnataka": {
           "stateStats": {
             "totalShows": 0,

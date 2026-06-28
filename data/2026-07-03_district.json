@@ -1,4 +1,56 @@
 {
   "fetchDate": "2026-07-03",
-  "movies": {}
+  "movies": {
+    "Hanu-Man": {
+      "id": "OBARUZ",
+      "name": "Hanu-Man",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Hanuman-poster-0daee3d0-6ba4-11f1-9444-c504df2f3dc4-92455dd0-6d8a-11f1-b293-f336dcd24675.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 820,
+        "seatsAvailable": 820,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Adoni": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 820,
+                "seatsAvailable": 820,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "4380": {
+                  "theatreName": "Rajshri Cine Complex, HBG Nagar, Adoni",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 820,
+                    "seatsAvailable": 820,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

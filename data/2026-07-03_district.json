@@ -1,18 +1,69 @@
 {
   "fetchDate": "2026-07-03",
   "movies": {
+    "Con City": {
+      "id": "OBAS31",
+      "name": "Con City",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17821256461086645.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 466,
+        "seatsAvailable": 436,
+        "seatsSold": 30,
+        "occupancy": 6.44,
+        "totalRevenue": 4500.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 466,
+                "seatsAvailable": 436,
+                "seatsSold": 30,
+                "occupancy": 6.44,
+                "totalRevenue": 4500.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 466,
+                    "seatsAvailable": 436,
+                    "seatsSold": 30,
+                    "occupancy": 6.44,
+                    "totalRevenue": 4500.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Dark": {
       "id": "OBAX6K",
       "name": "Dark",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17823725448748221.jpg",
       "overallStats": {
-        "totalShows": 6,
-        "totalSeats": 1508,
-        "seatsAvailable": 1248,
-        "seatsSold": 260,
-        "occupancy": 17.24,
-        "totalRevenue": 38320.0,
-        "totalTheatres": 2
+        "totalShows": 11,
+        "totalSeats": 2628,
+        "seatsAvailable": 2298,
+        "seatsSold": 330,
+        "occupancy": 12.56,
+        "totalRevenue": 48820.0,
+        "totalTheatres": 3
       },
       "states": {
         "tamil-nadu": {
@@ -50,14 +101,25 @@
             },
             "Chennai": {
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 352,
-                "seatsAvailable": 318,
-                "seatsSold": 34,
-                "occupancy": 9.66,
-                "totalRevenue": 4420.0
+                "totalShows": 7,
+                "totalSeats": 1472,
+                "seatsAvailable": 1368,
+                "seatsSold": 104,
+                "occupancy": 7.07,
+                "totalRevenue": 14920.0
               },
               "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 5,
+                    "totalSeats": 1120,
+                    "seatsAvailable": 1050,
+                    "seatsSold": 70,
+                    "occupancy": 6.25,
+                    "totalRevenue": 10500.0
+                  }
+                },
                 "4248": {
                   "theatreName": "Ganesh Cinemas RGB Laser Christie Vive Audio, Mannar Swamy Koil Street, Chennai",
                   "stats": {
@@ -80,13 +142,13 @@
       "name": "Gatta Kusthi 2",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Gatta%20K-c35dfec0-5f22-11f1-9cda-6dc343c00fe2.jpg",
       "overallStats": {
-        "totalShows": 56,
-        "totalSeats": 29595,
-        "seatsAvailable": 24571,
-        "seatsSold": 5024,
-        "occupancy": 16.98,
-        "totalRevenue": 615093.9,
-        "totalTheatres": 15
+        "totalShows": 60,
+        "totalSeats": 30519,
+        "seatsAvailable": 25406,
+        "seatsSold": 5113,
+        "occupancy": 16.75,
+        "totalRevenue": 627957.6,
+        "totalTheatres": 16
       },
       "states": {
         "andhra-pradesh": {
@@ -159,12 +221,12 @@
             },
             "Chennai": {
               "cityStats": {
-                "totalShows": 34,
-                "totalSeats": 19749,
-                "seatsAvailable": 15461,
-                "seatsSold": 4288,
-                "occupancy": 21.71,
-                "totalRevenue": 515283.9
+                "totalShows": 38,
+                "totalSeats": 20673,
+                "seatsAvailable": 16296,
+                "seatsSold": 4377,
+                "occupancy": 21.17,
+                "totalRevenue": 528147.6
               },
               "theatres": {
                 "1036962": {
@@ -194,10 +256,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 1156,
-                    "seatsAvailable": 1069,
-                    "seatsSold": 87,
-                    "occupancy": 7.53,
-                    "totalRevenue": 11310.0
+                    "seatsAvailable": 1064,
+                    "seatsSold": 92,
+                    "occupancy": 7.96,
+                    "totalRevenue": 11960.0
                   }
                 },
                 "1042615": {
@@ -209,6 +271,17 @@
                     "seatsSold": 368,
                     "occupancy": 10.02,
                     "totalRevenue": 20000.8
+                  }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 924,
+                    "seatsAvailable": 852,
+                    "seatsSold": 72,
+                    "occupancy": 7.79,
+                    "totalRevenue": 10800.0
                   }
                 },
                 "3910": {
@@ -238,10 +311,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2728,
-                    "seatsAvailable": 1972,
-                    "seatsSold": 756,
-                    "occupancy": 27.71,
-                    "totalRevenue": 98280.0
+                    "seatsAvailable": 1967,
+                    "seatsSold": 761,
+                    "occupancy": 27.9,
+                    "totalRevenue": 98930.0
                   }
                 },
                 "4248": {
@@ -260,10 +333,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 606,
-                    "seatsAvailable": 564,
-                    "seatsSold": 42,
-                    "occupancy": 6.93,
-                    "totalRevenue": 6093.5
+                    "seatsAvailable": 557,
+                    "seatsSold": 49,
+                    "occupancy": 8.09,
+                    "totalRevenue": 6857.2
                   }
                 }
               }
@@ -536,6 +609,143 @@
       }
     },
     "Minions & Monsters": {
+      "id": "OBAYW1",
+      "name": "Minions & Monsters",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17827181748747147.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 233,
+        "seatsAvailable": 218,
+        "seatsSold": 15,
+        "occupancy": 6.44,
+        "totalRevenue": 2250.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 233,
+                "seatsAvailable": 218,
+                "seatsSold": 15,
+                "occupancy": 6.44,
+                "totalRevenue": 2250.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 233,
+                    "seatsAvailable": 218,
+                    "seatsSold": 15,
+                    "occupancy": 6.44,
+                    "totalRevenue": 2250.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Minions & Monsters (OBAQT2)": {
+      "id": "OBAQT2",
+      "name": "Minions & Monsters",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Minions-%26-Monsters-65870ab0-6ba9-11f1-84fa-05ff8282b7b2.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 816,
+        "seatsAvailable": 784,
+        "seatsSold": 32,
+        "occupancy": 3.92,
+        "totalRevenue": 6050.0,
+        "totalTheatres": 2
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Guntur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 350,
+                "seatsAvailable": 348,
+                "seatsSold": 2,
+                "occupancy": 0.57,
+                "totalRevenue": 650.0
+              },
+              "theatres": {
+                "1020333": {
+                  "theatreName": "Mythri Cinemas Phoenix Mall, Barco Flagship Laser Projection, Guntur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 350,
+                    "seatsAvailable": 348,
+                    "seatsSold": 2,
+                    "occupancy": 0.57,
+                    "totalRevenue": 650.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 466,
+                "seatsAvailable": 436,
+                "seatsSold": 30,
+                "occupancy": 6.44,
+                "totalRevenue": 5400.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 466,
+                    "seatsAvailable": 436,
+                    "seatsSold": 30,
+                    "occupancy": 6.44,
+                    "totalRevenue": 5400.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Minions & Monsters (OBAYW5)": {
       "id": "OBAYW5",
       "name": "Minions & Monsters",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Minions-%26-Monsters-57fd7730-6ba9-11f1-84fa-05ff8282b7b2-f9ea7b00-738e-11f1-a556-439379e29e31.jpg",
@@ -609,69 +819,18 @@
         }
       }
     },
-    "Minions & Monsters (OBAQT2)": {
-      "id": "OBAQT2",
-      "name": "Minions & Monsters",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Minions-%26-Monsters-65870ab0-6ba9-11f1-84fa-05ff8282b7b2.jpg",
-      "overallStats": {
-        "totalShows": 2,
-        "totalSeats": 350,
-        "seatsAvailable": 348,
-        "seatsSold": 2,
-        "occupancy": 0.57,
-        "totalRevenue": 650.0,
-        "totalTheatres": 1
-      },
-      "states": {
-        "andhra-pradesh": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Guntur": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 350,
-                "seatsAvailable": 348,
-                "seatsSold": 2,
-                "occupancy": 0.57,
-                "totalRevenue": 650.0
-              },
-              "theatres": {
-                "1020333": {
-                  "theatreName": "Mythri Cinemas Phoenix Mall, Barco Flagship Laser Projection, Guntur",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 350,
-                    "seatsAvailable": 348,
-                    "seatsSold": 2,
-                    "occupancy": 0.57,
-                    "totalRevenue": 650.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "Nagabandham: The Secret Treasure": {
       "id": "OB8UNK",
       "name": "Nagabandham: The Secret Treasure",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17827110052286884.jpg",
       "overallStats": {
-        "totalShows": 180,
-        "totalSeats": 77203,
-        "seatsAvailable": 64315,
-        "seatsSold": 12888,
-        "occupancy": 16.69,
-        "totalRevenue": 1550385.0,
-        "totalTheatres": 45
+        "totalShows": 184,
+        "totalSeats": 78247,
+        "seatsAvailable": 64773,
+        "seatsSold": 13474,
+        "occupancy": 17.22,
+        "totalRevenue": 1615053.0,
+        "totalTheatres": 46
       },
       "states": {
         "andhra-pradesh": {
@@ -952,10 +1111,10 @@
               "cityStats": {
                 "totalShows": 8,
                 "totalSeats": 4292,
-                "seatsAvailable": 4031,
-                "seatsSold": 261,
-                "occupancy": 6.08,
-                "totalRevenue": 55873.0
+                "seatsAvailable": 4029,
+                "seatsSold": 263,
+                "occupancy": 6.13,
+                "totalRevenue": 56345.0
               },
               "theatres": {
                 "1031589": {
@@ -963,10 +1122,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2224,
-                    "seatsAvailable": 1963,
-                    "seatsSold": 261,
-                    "occupancy": 11.74,
-                    "totalRevenue": 55873.0
+                    "seatsAvailable": 1961,
+                    "seatsSold": 263,
+                    "occupancy": 11.83,
+                    "totalRevenue": 56345.0
                   }
                 },
                 "1031592": {
@@ -1212,6 +1371,29 @@
                 }
               }
             },
+            "Ravulapalem": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1044,
+                "seatsAvailable": 477,
+                "seatsSold": 567,
+                "occupancy": 54.31,
+                "totalRevenue": 59535.0
+              },
+              "theatres": {
+                "9132": {
+                  "theatreName": "Akshara Cinemas Dolby Atmos, NH 16, Ravulapalem",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1044,
+                    "seatsAvailable": 477,
+                    "seatsSold": 567,
+                    "occupancy": 54.31,
+                    "totalRevenue": 59535.0
+                  }
+                }
+              }
+            },
             "Sattenapalle": {
               "cityStats": {
                 "totalShows": 4,
@@ -1331,10 +1513,10 @@
               "cityStats": {
                 "totalShows": 6,
                 "totalSeats": 1550,
-                "seatsAvailable": 1321,
-                "seatsSold": 229,
-                "occupancy": 14.77,
-                "totalRevenue": 57525.0
+                "seatsAvailable": 1304,
+                "seatsSold": 246,
+                "occupancy": 15.87,
+                "totalRevenue": 62186.0
               },
               "theatres": {
                 "11272": {
@@ -1342,10 +1524,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 1550,
-                    "seatsAvailable": 1321,
-                    "seatsSold": 229,
-                    "occupancy": 14.77,
-                    "totalRevenue": 57525.0
+                    "seatsAvailable": 1304,
+                    "seatsSold": 246,
+                    "occupancy": 15.87,
+                    "totalRevenue": 62186.0
                   }
                 }
               }

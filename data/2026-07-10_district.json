@@ -1,4 +1,56 @@
 {
   "fetchDate": "2026-07-10",
-  "movies": {}
+  "movies": {
+    "Nagabandham: The Secret Treasure": {
+      "id": "OB8UNL",
+      "name": "Nagabandham: The Secret Treasure",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17827109848861592.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1796,
+        "seatsAvailable": 1756,
+        "seatsSold": 40,
+        "occupancy": 2.23,
+        "totalRevenue": 6000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Sankagiri": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1796,
+                "seatsAvailable": 1756,
+                "seatsSold": 40,
+                "occupancy": 2.23,
+                "totalRevenue": 6000.0
+              },
+              "theatres": {
+                "1052503": {
+                  "theatreName": "Sri Murugan Cinemas A/C 4K Dolby Atmos, Sankagiri",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1796,
+                    "seatsAvailable": 1756,
+                    "seatsSold": 40,
+                    "occupancy": 2.23,
+                    "totalRevenue": 6000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }

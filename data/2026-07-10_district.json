@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-07-10",
   "movies": {
+    "Alpha": {
+      "id": "OB1EMI",
+      "name": "Alpha",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Alpha-062ca980-6ef1-11f1-b0b5-2f04c00aa32d.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 252,
+        "seatsAvailable": 208,
+        "seatsSold": 44,
+        "occupancy": 17.46,
+        "totalRevenue": 11000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "gujarat": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Godhra": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 252,
+                "seatsAvailable": 208,
+                "seatsSold": 44,
+                "occupancy": 17.46,
+                "totalRevenue": 11000.0
+              },
+              "theatres": {
+                "1012136": {
+                  "theatreName": "Rajai Square Cinema, Opp GIDC, Godhra",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 252,
+                    "seatsAvailable": 208,
+                    "seatsSold": 44,
+                    "occupancy": 17.46,
+                    "totalRevenue": 11000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Dark": {
       "id": "OBAX6K",
       "name": "Dark",
@@ -68,13 +119,13 @@
       "name": "Dhamaal 4",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17830763435357367.webp",
       "overallStats": {
-        "totalShows": 28,
-        "totalSeats": 6382,
-        "seatsAvailable": 5856,
-        "seatsSold": 526,
-        "occupancy": 8.24,
-        "totalRevenue": 126000.0,
-        "totalTheatres": 6
+        "totalShows": 35,
+        "totalSeats": 8003,
+        "seatsAvailable": 7270,
+        "seatsSold": 733,
+        "occupancy": 9.16,
+        "totalRevenue": 179700.0,
+        "totalTheatres": 8
       },
       "states": {
         "gujarat": {
@@ -89,14 +140,25 @@
           "cities": {
             "Godhra": {
               "cityStats": {
-                "totalShows": 8,
-                "totalSeats": 2200,
-                "seatsAvailable": 2000,
-                "seatsSold": 200,
-                "occupancy": 9.09,
-                "totalRevenue": 51600.0
+                "totalShows": 12,
+                "totalSeats": 3188,
+                "seatsAvailable": 2820,
+                "seatsSold": 368,
+                "occupancy": 11.54,
+                "totalRevenue": 93600.0
               },
               "theatres": {
+                "1012136": {
+                  "theatreName": "Rajai Square Cinema, Opp GIDC, Godhra",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 988,
+                    "seatsAvailable": 820,
+                    "seatsSold": 168,
+                    "occupancy": 17.0,
+                    "totalRevenue": 42000.0
+                  }
+                },
                 "4106": {
                   "theatreName": "Silver Screen Multiplex, Vavdi, Godhra",
                   "stats": {
@@ -168,6 +230,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Loni": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 633,
+                "seatsAvailable": 594,
+                "seatsSold": 39,
+                "occupancy": 6.16,
+                "totalRevenue": 11700.0
+              },
+              "theatres": {
+                "32811": {
+                  "theatreName": "Nathganga Cinema (Screen 2), Loni",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 633,
+                    "seatsAvailable": 594,
+                    "seatsSold": 39,
+                    "occupancy": 6.16,
+                    "totalRevenue": 11700.0
+                  }
+                }
+              }
+            },
             "Rahuri": {
               "cityStats": {
                 "totalShows": 4,
@@ -258,13 +343,13 @@
       "name": "Evil Dead Burn",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Evil-Dead-Burn_Poster-0eb5e430-49d1-11f1-a8aa-ef664b57e8ad-25d05810-5e7d-11f1-af8d-3fa9ffcddf9e.jpg",
       "overallStats": {
-        "totalShows": 24,
-        "totalSeats": 7336,
-        "seatsAvailable": 7183,
-        "seatsSold": 153,
-        "occupancy": 2.09,
-        "totalRevenue": 21171.0,
-        "totalTheatres": 6
+        "totalShows": 30,
+        "totalSeats": 9092,
+        "seatsAvailable": 8633,
+        "seatsSold": 459,
+        "occupancy": 5.05,
+        "totalRevenue": 58243.0,
+        "totalTheatres": 8
       },
       "states": {
         "andhra-pradesh": {
@@ -414,6 +499,52 @@
                   }
                 }
               }
+            },
+            "Vijayawada": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 548,
+                "seatsAvailable": 490,
+                "seatsSold": 58,
+                "occupancy": 10.58,
+                "totalRevenue": 12272.0
+              },
+              "theatres": {
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 548,
+                    "seatsAvailable": 490,
+                    "seatsSold": 58,
+                    "occupancy": 10.58,
+                    "totalRevenue": 12272.0
+                  }
+                }
+              }
+            },
+            "Vuyyuru": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1208,
+                "seatsAvailable": 960,
+                "seatsSold": 248,
+                "occupancy": 20.53,
+                "totalRevenue": 24800.0
+              },
+              "theatres": {
+                "23841": {
+                  "theatreName": "Sai Cinema",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1208,
+                    "seatsAvailable": 960,
+                    "seatsSold": 248,
+                    "occupancy": 20.53,
+                    "totalRevenue": 24800.0
+                  }
+                }
+              }
             }
           }
         }
@@ -497,15 +628,50 @@
       "name": "Evil Dead Burn",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17833362123847753.jpg",
       "overallStats": {
-        "totalShows": 2,
-        "totalSeats": 700,
-        "seatsAvailable": 412,
-        "seatsSold": 288,
-        "occupancy": 41.14,
-        "totalRevenue": 53280.0,
-        "totalTheatres": 1
+        "totalShows": 5,
+        "totalSeats": 1522,
+        "seatsAvailable": 1162,
+        "seatsSold": 360,
+        "occupancy": 23.65,
+        "totalRevenue": 68502.0,
+        "totalTheatres": 2
       },
       "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Vijayawada": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 822,
+                "seatsAvailable": 750,
+                "seatsSold": 72,
+                "occupancy": 8.76,
+                "totalRevenue": 15222.0
+              },
+              "theatres": {
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 822,
+                    "seatsAvailable": 750,
+                    "seatsSold": 72,
+                    "occupancy": 8.76,
+                    "totalRevenue": 15222.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "tamil-nadu": {
           "stateStats": {
             "totalShows": 0,
@@ -825,15 +991,96 @@
       "name": "I, Nobody",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17833434878007523.jpg",
       "overallStats": {
-        "totalShows": 2,
-        "totalSeats": 481,
-        "seatsAvailable": 336,
+        "totalShows": 14,
+        "totalSeats": 5109,
+        "seatsAvailable": 4964,
         "seatsSold": 145,
-        "occupancy": 30.15,
+        "occupancy": 2.84,
         "totalRevenue": 25330.0,
-        "totalTheatres": 2
+        "totalTheatres": 5
       },
       "states": {
+        "kerala": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Kottarakara": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1532,
+                "seatsAvailable": 1532,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "3906": {
+                  "theatreName": "Minerva Empire Cinemaz, Chandamukku, Kottarakara",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1532,
+                    "seatsAvailable": 1532,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kunnamkulam": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2076,
+                "seatsAvailable": 2076,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1024041": {
+                  "theatreName": "Bavana Movies Laser Dolby Atmos, Near New Bus Stand, Kunnamkulam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2076,
+                    "seatsAvailable": 2076,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Ponnani": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1020,
+                "seatsAvailable": 1020,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "24880": {
+                  "theatreName": "Aiswarya Movies A/C 4K Dolby 3D, Biyyam, Ponnani",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1020,
+                    "seatsAvailable": 1020,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "tamil-nadu": {
           "stateStats": {
             "totalShows": 0,
@@ -940,10 +1187,10 @@
       "overallStats": {
         "totalShows": 27,
         "totalSeats": 16902,
-        "seatsAvailable": 14951,
-        "seatsSold": 1951,
-        "occupancy": 11.54,
-        "totalRevenue": 264574.6,
+        "seatsAvailable": 14949,
+        "seatsSold": 1953,
+        "occupancy": 11.55,
+        "totalRevenue": 264914.6,
         "totalTheatres": 7
       },
       "states": {
@@ -961,10 +1208,10 @@
               "cityStats": {
                 "totalShows": 23,
                 "totalSeats": 14910,
-                "seatsAvailable": 13213,
-                "seatsSold": 1697,
-                "occupancy": 11.38,
-                "totalRevenue": 226474.6
+                "seatsAvailable": 13211,
+                "seatsSold": 1699,
+                "occupancy": 11.4,
+                "totalRevenue": 226814.6
               },
               "theatres": {
                 "1037033": {
@@ -972,10 +1219,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 3548,
-                    "seatsAvailable": 2856,
-                    "seatsSold": 692,
-                    "occupancy": 19.5,
-                    "totalRevenue": 76513.2
+                    "seatsAvailable": 2854,
+                    "seatsSold": 694,
+                    "occupancy": 19.56,
+                    "totalRevenue": 76853.2
                   }
                 },
                 "1042465": {
@@ -1054,6 +1301,57 @@
                     "seatsSold": 254,
                     "occupancy": 12.75,
                     "totalRevenue": 38100.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Kadaknath": {
+      "id": "OB99GQ",
+      "name": "Kadaknath",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Kadaknath_Poster-655ae870-6705-11f1-ac46-d94437f67a13-158bf1f0-6ef2-11f1-8eab-ff8b6b78e6d2.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 504,
+        "seatsAvailable": 416,
+        "seatsSold": 88,
+        "occupancy": 17.46,
+        "totalRevenue": 17600.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "gujarat": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Godhra": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 504,
+                "seatsAvailable": 416,
+                "seatsSold": 88,
+                "occupancy": 17.46,
+                "totalRevenue": 17600.0
+              },
+              "theatres": {
+                "1012136": {
+                  "theatreName": "Rajai Square Cinema, Opp GIDC, Godhra",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 504,
+                    "seatsAvailable": 416,
+                    "seatsSold": 88,
+                    "occupancy": 17.46,
+                    "totalRevenue": 17600.0
                   }
                 }
               }
@@ -1180,13 +1478,13 @@
       "name": "Lenin",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/poster_0004_Lenini-73309e00-1548-11f0-afe9-91710f201788-ba35f350-f769-11f0-9ad0-97f643f4852c.jpg",
       "overallStats": {
-        "totalShows": 72,
-        "totalSeats": 35268,
-        "seatsAvailable": 30908,
-        "seatsSold": 4360,
-        "occupancy": 12.36,
-        "totalRevenue": 645004.0,
-        "totalTheatres": 19
+        "totalShows": 92,
+        "totalSeats": 45973,
+        "seatsAvailable": 39276,
+        "seatsSold": 6697,
+        "occupancy": 14.57,
+        "totalRevenue": 1041433.0,
+        "totalTheatres": 24
       },
       "states": {
         "Telangana": {
@@ -1234,6 +1532,29 @@
             "totalRevenue": 0.0
           },
           "cities": {
+            "Anantapur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 1136,
+                "seatsAvailable": 599,
+                "seatsSold": 537,
+                "occupancy": 47.27,
+                "totalRevenue": 77713.0
+              },
+              "theatres": {
+                "9653": {
+                  "theatreName": "Gowri Complex, Near Bus Stand, Anantapur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1136,
+                    "seatsAvailable": 599,
+                    "seatsSold": 537,
+                    "occupancy": 47.27,
+                    "totalRevenue": 77713.0
+                  }
+                }
+              }
+            },
             "Ganapavaram": {
               "cityStats": {
                 "totalShows": 4,
@@ -1284,10 +1605,10 @@
               "cityStats": {
                 "totalShows": 10,
                 "totalSeats": 3455,
-                "seatsAvailable": 2931,
-                "seatsSold": 524,
-                "occupancy": 15.17,
-                "totalRevenue": 90804.0
+                "seatsAvailable": 2927,
+                "seatsSold": 528,
+                "occupancy": 15.28,
+                "totalRevenue": 91266.0
               },
               "theatres": {
                 "1020333": {
@@ -1306,10 +1627,10 @@
                   "stats": {
                     "totalShows": 5,
                     "totalSeats": 2105,
-                    "seatsAvailable": 1851,
-                    "seatsSold": 254,
-                    "occupancy": 12.07,
-                    "totalRevenue": 32616.0
+                    "seatsAvailable": 1847,
+                    "seatsSold": 258,
+                    "occupancy": 12.26,
+                    "totalRevenue": 33078.0
                   }
                 }
               }
@@ -1333,6 +1654,29 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kadapa": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 617,
+                "seatsAvailable": 559,
+                "seatsSold": 58,
+                "occupancy": 9.4,
+                "totalRevenue": 14100.0
+              },
+              "theatres": {
+                "1055922": {
+                  "theatreName": "Apsara A/C 4K Dolby Atmos, Kadapa",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 617,
+                    "seatsAvailable": 559,
+                    "seatsSold": 58,
+                    "occupancy": 9.4,
+                    "totalRevenue": 14100.0
                   }
                 }
               }
@@ -1433,10 +1777,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 333,
-                "seatsAvailable": 316,
-                "seatsSold": 17,
-                "occupancy": 5.11,
-                "totalRevenue": 2365.0
+                "seatsAvailable": 315,
+                "seatsSold": 18,
+                "occupancy": 5.41,
+                "totalRevenue": 2470.0
               },
               "theatres": {
                 "11264": {
@@ -1444,10 +1788,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 333,
-                    "seatsAvailable": 316,
-                    "seatsSold": 17,
-                    "occupancy": 5.11,
-                    "totalRevenue": 2365.0
+                    "seatsAvailable": 315,
+                    "seatsSold": 18,
+                    "occupancy": 5.41,
+                    "totalRevenue": 2470.0
                   }
                 }
               }
@@ -1456,10 +1800,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 1624,
-                "seatsAvailable": 1624,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
+                "seatsAvailable": 1623,
+                "seatsSold": 1,
+                "occupancy": 0.06,
+                "totalRevenue": 85.0
               },
               "theatres": {
                 "1031640": {
@@ -1467,10 +1811,33 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1624,
-                    "seatsAvailable": 1624,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
+                    "seatsAvailable": 1623,
+                    "seatsSold": 1,
+                    "occupancy": 0.06,
+                    "totalRevenue": 85.0
+                  }
+                }
+              }
+            },
+            "Vijayawada": {
+              "cityStats": {
+                "totalShows": 9,
+                "totalSeats": 2332,
+                "seatsAvailable": 1628,
+                "seatsSold": 704,
+                "occupancy": 30.19,
+                "totalRevenue": 170864.0
+              },
+              "theatres": {
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "stats": {
+                    "totalShows": 9,
+                    "totalSeats": 2332,
+                    "seatsAvailable": 1628,
+                    "seatsSold": 704,
+                    "occupancy": 30.19,
+                    "totalRevenue": 170864.0
                   }
                 }
               }
@@ -1524,14 +1891,25 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 12,
-                "totalSeats": 7844,
-                "seatsAvailable": 6973,
-                "seatsSold": 871,
-                "occupancy": 11.1,
-                "totalRevenue": 128610.0
+                "totalShows": 20,
+                "totalSeats": 14464,
+                "seatsAvailable": 12561,
+                "seatsSold": 1903,
+                "occupancy": 13.16,
+                "totalRevenue": 261710.0
               },
               "theatres": {
+                "1018796": {
+                  "theatreName": "SVC Eeshwar, Attapur, Hyderabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3368,
+                    "seatsAvailable": 2677,
+                    "seatsSold": 691,
+                    "occupancy": 20.52,
+                    "totalRevenue": 79700.0
+                  }
+                },
                 "1039849": {
                   "theatreName": "Mythri Theatres, Jagadamba Theatre Dolby Atmos 2K, Ghatkesar, Hyderabad",
                   "stats": {
@@ -1541,6 +1919,17 @@
                     "seatsSold": 138,
                     "occupancy": 8.29,
                     "totalRevenue": 18660.0
+                  }
+                },
+                "1041684": {
+                  "theatreName": "Asian Mukta A2 Cinemas, Konark 70MM, Dilsukhnagar, Hyderabad",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3252,
+                    "seatsAvailable": 2911,
+                    "seatsSold": 341,
+                    "occupancy": 10.49,
+                    "totalRevenue": 53400.0
                   }
                 },
                 "1078025": {
@@ -1957,6 +2346,57 @@
         }
       }
     },
+    "Moana (2026) (OB6RQI)": {
+      "id": "OB6RQI",
+      "name": "Moana (2026)",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17830859416392122.jpg",
+      "overallStats": {
+        "totalShows": 3,
+        "totalSeats": 951,
+        "seatsAvailable": 878,
+        "seatsSold": 73,
+        "occupancy": 7.68,
+        "totalRevenue": 15517.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Vijayawada": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 951,
+                "seatsAvailable": 878,
+                "seatsSold": 73,
+                "occupancy": 7.68,
+                "totalRevenue": 15517.0
+              },
+              "theatres": {
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 951,
+                    "seatsAvailable": 878,
+                    "seatsSold": 73,
+                    "occupancy": 7.68,
+                    "totalRevenue": 15517.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Nagabandham: The Secret Treasure": {
       "id": "OB8UNK",
       "name": "Nagabandham: The Secret Treasure",
@@ -2256,6 +2696,57 @@
                     "seatsSold": 144,
                     "occupancy": 41.14,
                     "totalRevenue": 21600.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Welcome To The Jungle": {
+      "id": "OAZAMI",
+      "name": "Welcome To The Jungle",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/17811549132914624-0667fb20-6dfc-11f1-9a9b-71d1ad62c0c2.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 252,
+        "seatsAvailable": 208,
+        "seatsSold": 44,
+        "occupancy": 17.46,
+        "totalRevenue": 11000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "gujarat": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Godhra": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 252,
+                "seatsAvailable": 208,
+                "seatsSold": 44,
+                "occupancy": 17.46,
+                "totalRevenue": 11000.0
+              },
+              "theatres": {
+                "1012136": {
+                  "theatreName": "Rajai Square Cinema, Opp GIDC, Godhra",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 252,
+                    "seatsAvailable": 208,
+                    "seatsSold": 44,
+                    "occupancy": 17.46,
+                    "totalRevenue": 11000.0
                   }
                 }
               }

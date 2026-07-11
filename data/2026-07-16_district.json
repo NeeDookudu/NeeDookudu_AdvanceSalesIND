@@ -6,13 +6,13 @@
       "name": "Alpha",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Alpha-062ca980-6ef1-11f1-b0b5-2f04c00aa32d.jpg",
       "overallStats": {
-        "totalShows": 6,
-        "totalSeats": 614,
-        "seatsAvailable": 614,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 3
+        "totalShows": 10,
+        "totalSeats": 1363,
+        "seatsAvailable": 1221,
+        "seatsSold": 142,
+        "occupancy": 10.42,
+        "totalRevenue": 33500.0,
+        "totalTheatres": 4
       },
       "states": {
         "gujarat": {
@@ -73,6 +73,41 @@
             }
           }
         },
+        "haryana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rewari": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 749,
+                "seatsAvailable": 607,
+                "seatsSold": 142,
+                "occupancy": 18.96,
+                "totalRevenue": 33500.0
+              },
+              "theatres": {
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 749,
+                    "seatsAvailable": 607,
+                    "seatsSold": 142,
+                    "occupancy": 18.96,
+                    "totalRevenue": 33500.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "himachal-pradesh": {
           "stateStats": {
             "totalShows": 0,
@@ -99,57 +134,6 @@
                     "totalShows": 3,
                     "totalSeats": 279,
                     "seatsAvailable": 279,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Ananthan Kaadu": {
-      "id": "OBARYQ",
-      "name": "Ananthan Kaadu",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Ananthan-kaadu-poster-80c6b1a0-5f00-11f1-98c3-4f7283f481c9-7bb18120-6dfd-11f1-b293-f336dcd24675.jpg",
-      "overallStats": {
-        "totalShows": 3,
-        "totalSeats": 1290,
-        "seatsAvailable": 1290,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 1
-      },
-      "states": {
-        "kerala": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Kunnamkulam": {
-              "cityStats": {
-                "totalShows": 3,
-                "totalSeats": 1290,
-                "seatsAvailable": 1290,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "24981": {
-                  "theatreName": "Thavoos Theatre A/C 2K Unipolar Beam 3D, Guruvayur Road",
-                  "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 1290,
-                    "seatsAvailable": 1290,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -319,15 +303,50 @@
       "name": "Dhamaal 4",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17836742758995427.jpg",
       "overallStats": {
-        "totalShows": 58,
-        "totalSeats": 12809,
-        "seatsAvailable": 11557,
-        "seatsSold": 1252,
-        "occupancy": 9.77,
-        "totalRevenue": 106660.0,
-        "totalTheatres": 13
+        "totalShows": 70,
+        "totalSeats": 15104,
+        "seatsAvailable": 13460,
+        "seatsSold": 1644,
+        "occupancy": 10.88,
+        "totalRevenue": 196300.0,
+        "totalTheatres": 15
       },
       "states": {
+        "andaman-and-nicobar-islands": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Port Blair": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 432,
+                "seatsAvailable": 380,
+                "seatsSold": 52,
+                "occupancy": 12.04,
+                "totalRevenue": 8840.0
+              },
+              "theatres": {
+                "4272": {
+                  "theatreName": "Diviyum Talkies, Prothrapur, Port Blair",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 432,
+                    "seatsAvailable": 380,
+                    "seatsSold": 52,
+                    "occupancy": 12.04,
+                    "totalRevenue": 8840.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "bihar": {
           "stateStats": {
             "totalShows": 0,
@@ -496,6 +515,41 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "haryana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rewari": {
+              "cityStats": {
+                "totalShows": 8,
+                "totalSeats": 1863,
+                "seatsAvailable": 1523,
+                "seatsSold": 340,
+                "occupancy": 18.25,
+                "totalRevenue": 80800.0
+              },
+              "theatres": {
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "stats": {
+                    "totalShows": 8,
+                    "totalSeats": 1863,
+                    "seatsAvailable": 1523,
+                    "seatsSold": 340,
+                    "occupancy": 18.25,
+                    "totalRevenue": 80800.0
                   }
                 }
               }
@@ -718,13 +772,13 @@
       "name": "Evil Dead Burn",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Evil-Dead-Burn_Poster-0eb5e430-49d1-11f1-a8aa-ef664b57e8ad-25d05810-5e7d-11f1-af8d-3fa9ffcddf9e.jpg",
       "overallStats": {
-        "totalShows": 84,
-        "totalSeats": 33149,
-        "seatsAvailable": 28216,
-        "seatsSold": 4933,
-        "occupancy": 14.88,
-        "totalRevenue": 525069.0,
-        "totalTheatres": 23
+        "totalShows": 80,
+        "totalSeats": 31897,
+        "seatsAvailable": 27498,
+        "seatsSold": 4399,
+        "occupancy": 13.79,
+        "totalRevenue": 466569.0,
+        "totalTheatres": 22
       },
       "states": {
         "andhra-pradesh": {
@@ -801,29 +855,6 @@
                     "seatsSold": 248,
                     "occupancy": 17.82,
                     "totalRevenue": 36704.0
-                  }
-                }
-              }
-            },
-            "Attili": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 546,
-                "seatsAvailable": 260,
-                "seatsSold": 286,
-                "occupancy": 52.38,
-                "totalRevenue": 33700.0
-              },
-              "theatres": {
-                "1060262": {
-                  "theatreName": "Sri Kanakadurga RGB 4K Dolby Atmos",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 546,
-                    "seatsAvailable": 260,
-                    "seatsSold": 286,
-                    "occupancy": 52.38,
-                    "totalRevenue": 33700.0
                   }
                 }
               }
@@ -1184,25 +1215,25 @@
                 }
               }
             },
-            "Vuyyuru": {
+            "Vizianagaram": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1208,
-                "seatsAvailable": 960,
-                "seatsSold": 248,
-                "occupancy": 20.53,
-                "totalRevenue": 24800.0
+                "totalShows": 2,
+                "totalSeats": 502,
+                "seatsAvailable": 502,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
               },
               "theatres": {
-                "23841": {
-                  "theatreName": "Sai Cinema",
+                "7293": {
+                  "theatreName": "SVC Ranjani And Shivaranjani, Yodya Maidanam Area, Vizianagaram",
                   "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1208,
-                    "seatsAvailable": 960,
-                    "seatsSold": 248,
-                    "occupancy": 20.53,
-                    "totalRevenue": 24800.0
+                    "totalShows": 2,
+                    "totalSeats": 502,
+                    "seatsAvailable": 502,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -1251,12 +1282,12 @@
       "name": "Evil Dead Burn",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Evil-Dead-Burn_Poster-0eb5e430-49d1-11f1-a8aa-ef664b57e8ad-05720f00-5e7d-11f1-abbc-57776f320c87.jpg",
       "overallStats": {
-        "totalShows": 23,
-        "totalSeats": 8418,
-        "seatsAvailable": 7503,
-        "seatsSold": 915,
-        "occupancy": 10.87,
-        "totalRevenue": 103600.23,
+        "totalShows": 21,
+        "totalSeats": 7238,
+        "seatsAvailable": 6373,
+        "seatsSold": 865,
+        "occupancy": 11.95,
+        "totalRevenue": 93400.23,
         "totalTheatres": 10
       },
       "states": {
@@ -1351,6 +1382,29 @@
                 }
               }
             },
+            "Arakkonam": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 580,
+                "seatsAvailable": 526,
+                "seatsSold": 54,
+                "occupancy": 9.31,
+                "totalRevenue": 5400.0
+              },
+              "theatres": {
+                "4178": {
+                  "theatreName": "Sindhu Cinemas, Arakkonam",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 580,
+                    "seatsAvailable": 526,
+                    "seatsSold": 54,
+                    "occupancy": 9.31,
+                    "totalRevenue": 5400.0
+                  }
+                }
+              }
+            },
             "Chennai": {
               "cityStats": {
                 "totalShows": 4,
@@ -1415,29 +1469,6 @@
                     "seatsSold": 75,
                     "occupancy": 13.86,
                     "totalRevenue": 7470.0
-                  }
-                }
-              }
-            },
-            "Kumbakonam": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1760,
-                "seatsAvailable": 1656,
-                "seatsSold": 104,
-                "occupancy": 5.91,
-                "totalRevenue": 15600.0
-              },
-              "theatres": {
-                "10255": {
-                  "theatreName": "Sri Vijayalakshmi Cinemas A/C 4K 3D, Anna Nagar, Kumbakonam",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1760,
-                    "seatsAvailable": 1656,
-                    "seatsSold": 104,
-                    "occupancy": 5.91,
-                    "totalRevenue": 15600.0
                   }
                 }
               }
@@ -1543,20 +1574,106 @@
         }
       }
     },
+    "Evil Dead Burn (OBA981)": {
+      "id": "OBA981",
+      "name": "Evil Dead Burn",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Evil-Dead-Burn_Poster-0eb5e430-49d1-11f1-a8aa-ef664b57e8ad-bcec1460-5e7c-11f1-bb0a-07766384fec6.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 520,
+        "seatsAvailable": 440,
+        "seatsSold": 80,
+        "occupancy": 15.38,
+        "totalRevenue": 20000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "haryana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rewari": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 520,
+                "seatsAvailable": 440,
+                "seatsSold": 80,
+                "occupancy": 15.38,
+                "totalRevenue": 20000.0
+              },
+              "theatres": {
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 520,
+                    "seatsAvailable": 440,
+                    "seatsSold": 80,
+                    "occupancy": 15.38,
+                    "totalRevenue": 20000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Gatta Kusthi 2": {
       "id": "OBAA7Q",
       "name": "Gatta Kusthi 2",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Gatta%20K-c35dfec0-5f22-11f1-9cda-6dc343c00fe2.jpg",
       "overallStats": {
-        "totalShows": 154,
-        "totalSeats": 62150,
-        "seatsAvailable": 54144,
-        "seatsSold": 8006,
-        "occupancy": 12.88,
-        "totalRevenue": 754033.34,
-        "totalTheatres": 41
+        "totalShows": 165,
+        "totalSeats": 65439,
+        "seatsAvailable": 57394,
+        "seatsSold": 8045,
+        "occupancy": 12.29,
+        "totalRevenue": 759083.34,
+        "totalTheatres": 44
       },
       "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chittoor": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1544,
+                "seatsAvailable": 1544,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1008441": {
+                  "theatreName": "V Mega Sri Gurunatha Theatre, Thotapalyam, Chittoor",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1544,
+                    "seatsAvailable": 1544,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "puducherry": {
           "stateStats": {
             "totalShows": 0,
@@ -1678,6 +1795,29 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Arakkonam": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 489,
+                "seatsAvailable": 450,
+                "seatsSold": 39,
+                "occupancy": 7.98,
+                "totalRevenue": 5050.0
+              },
+              "theatres": {
+                "4178": {
+                  "theatreName": "Sindhu Cinemas, Arakkonam",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 489,
+                    "seatsAvailable": 450,
+                    "seatsSold": 39,
+                    "occupancy": 7.98,
+                    "totalRevenue": 5050.0
                   }
                 }
               }
@@ -2415,6 +2555,29 @@
                 }
               }
             },
+            "Tirupur": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1256,
+                "seatsAvailable": 1256,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "55853": {
+                  "theatreName": "Iswarya Cinemas, Koduvai, Tirupur",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1256,
+                    "seatsAvailable": 1256,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Valliyur": {
               "cityStats": {
                 "totalShows": 4,
@@ -2447,13 +2610,13 @@
       "name": "Graamaayana",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17828241080459982.jpg",
       "overallStats": {
-        "totalShows": 16,
-        "totalSeats": 10440,
-        "seatsAvailable": 4180,
-        "seatsSold": 6260,
-        "occupancy": 59.96,
-        "totalRevenue": 634640.0,
-        "totalTheatres": 4
+        "totalShows": 8,
+        "totalSeats": 4880,
+        "seatsAvailable": 2256,
+        "seatsSold": 2624,
+        "occupancy": 53.77,
+        "totalRevenue": 271040.0,
+        "totalTheatres": 2
       },
       "states": {
         "karnataka": {
@@ -2485,52 +2648,6 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
-                  }
-                }
-              }
-            },
-            "Gundlupet": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 2728,
-                "seatsAvailable": 660,
-                "seatsSold": 2068,
-                "occupancy": 75.81,
-                "totalRevenue": 206800.0
-              },
-              "theatres": {
-                "9169": {
-                  "theatreName": "Sri Venkateshwara Chitramandira, Gundlupet",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 2728,
-                    "seatsAvailable": 660,
-                    "seatsSold": 2068,
-                    "occupancy": 75.81,
-                    "totalRevenue": 206800.0
-                  }
-                }
-              }
-            },
-            "Krishnarajanagara": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 2832,
-                "seatsAvailable": 1264,
-                "seatsSold": 1568,
-                "occupancy": 55.37,
-                "totalRevenue": 156800.0
-              },
-              "theatres": {
-                "9100": {
-                  "theatreName": "Sri Venkateshwara Chitramandira, Mysore Road, Krishnarajanagara",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 2832,
-                    "seatsAvailable": 1264,
-                    "seatsSold": 1568,
-                    "occupancy": 55.37,
-                    "totalRevenue": 156800.0
                   }
                 }
               }
@@ -3014,13 +3131,13 @@
       "name": "I, Nobody",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/I-nobody-posgter-0b4c7790-45f9-11f1-9e72-b3859bd2479f-9f6bb2e0-6bee-11f1-b1f6-7368625ce5ed.jpg",
       "overallStats": {
-        "totalShows": 10,
-        "totalSeats": 4542,
-        "seatsAvailable": 3834,
+        "totalShows": 8,
+        "totalSeats": 3770,
+        "seatsAvailable": 3062,
         "seatsSold": 708,
-        "occupancy": 15.59,
+        "occupancy": 18.78,
         "totalRevenue": 66980.0,
-        "totalTheatres": 4
+        "totalTheatres": 3
       },
       "states": {
         "andhra-pradesh": {
@@ -3052,29 +3169,6 @@
                     "seatsSold": 96,
                     "occupancy": 23.41,
                     "totalRevenue": 14208.0
-                  }
-                }
-              }
-            },
-            "Chittoor": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 772,
-                "seatsAvailable": 772,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "1008441": {
-                  "theatreName": "V Mega Sri Gurunatha Theatre, Thotapalyam, Chittoor",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 772,
-                    "seatsAvailable": 772,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -3197,12 +3291,12 @@
       "name": "Idhayam Murali",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Idhayam-Murali-6637f280-5f24-11f1-b98c-2f82e8f1e34c.jpg",
       "overallStats": {
-        "totalShows": 85,
-        "totalSeats": 41468,
-        "seatsAvailable": 36494,
-        "seatsSold": 4974,
-        "occupancy": 11.99,
-        "totalRevenue": 557748.88,
+        "totalShows": 84,
+        "totalSeats": 40234,
+        "seatsAvailable": 35238,
+        "seatsSold": 4996,
+        "occupancy": 12.42,
+        "totalRevenue": 558988.88,
         "totalTheatres": 22
       },
       "states": {
@@ -3258,6 +3352,29 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Arakkonam": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 730,
+                "seatsAvailable": 676,
+                "seatsSold": 54,
+                "occupancy": 7.4,
+                "totalRevenue": 5400.0
+              },
+              "theatres": {
+                "4178": {
+                  "theatreName": "Sindhu Cinemas, Arakkonam",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 730,
+                    "seatsAvailable": 676,
+                    "seatsSold": 54,
+                    "occupancy": 7.4,
+                    "totalRevenue": 5400.0
                   }
                 }
               }
@@ -3382,29 +3499,6 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
-                  }
-                }
-              }
-            },
-            "Erode": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1964,
-                "seatsAvailable": 1932,
-                "seatsSold": 32,
-                "occupancy": 1.63,
-                "totalRevenue": 4160.0
-              },
-              "theatres": {
-                "1003803": {
-                  "theatreName": "Vikram Cinemas A/C 4K 3D Dolby 7.1 - Pallipalayam, State Highway 79, Erode",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1964,
-                    "seatsAvailable": 1932,
-                    "seatsSold": 32,
-                    "occupancy": 1.63,
-                    "totalRevenue": 4160.0
                   }
                 }
               }
@@ -4921,13 +5015,13 @@
       "name": "Love Oh Love",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/_Poster-487bc9f0-6948-11f1-892d-31a4aaf4f526-20a1da80-70ac-11f1-b52b-1bc4d96eb197.jpg",
       "overallStats": {
-        "totalShows": 27,
-        "totalSeats": 6394,
-        "seatsAvailable": 5823,
-        "seatsSold": 571,
-        "occupancy": 8.93,
-        "totalRevenue": 56567.83,
-        "totalTheatres": 10
+        "totalShows": 23,
+        "totalSeats": 5014,
+        "seatsAvailable": 4483,
+        "seatsSold": 531,
+        "occupancy": 10.59,
+        "totalRevenue": 52567.83,
+        "totalTheatres": 9
       },
       "states": {
         "tamil-nadu": {
@@ -5016,29 +5110,6 @@
                     "seatsSold": 62,
                     "occupancy": 10.06,
                     "totalRevenue": 3369.08
-                  }
-                }
-              }
-            },
-            "Karimangalam": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1380,
-                "seatsAvailable": 1340,
-                "seatsSold": 40,
-                "occupancy": 2.9,
-                "totalRevenue": 4000.0
-              },
-              "theatres": {
-                "1011192": {
-                  "theatreName": "Sri Bagiyalakshmi Theatre 4K 3D Atmos, Dharmapuri Main Road, Karimangalam",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1380,
-                    "seatsAvailable": 1340,
-                    "seatsSold": 40,
-                    "occupancy": 2.9,
-                    "totalRevenue": 4000.0
                   }
                 }
               }
@@ -5167,11 +5238,11 @@
       "name": "Love Oh Love",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17834293148379080.jpg",
       "overallStats": {
-        "totalShows": 16,
-        "totalSeats": 5538,
-        "seatsAvailable": 4880,
+        "totalShows": 15,
+        "totalSeats": 5017,
+        "seatsAvailable": 4359,
         "seatsSold": 658,
-        "occupancy": 11.88,
+        "occupancy": 13.12,
         "totalRevenue": 83218.0,
         "totalTheatres": 6
       },
@@ -5255,29 +5326,6 @@
                 }
               }
             },
-            "Chittoor": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 772,
-                "seatsAvailable": 772,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
-              },
-              "theatres": {
-                "1008441": {
-                  "theatreName": "V Mega Sri Gurunatha Theatre, Thotapalyam, Chittoor",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 772,
-                    "seatsAvailable": 772,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0.0
-                  }
-                }
-              }
-            },
             "Kurnool": {
               "cityStats": {
                 "totalShows": 2,
@@ -5323,6 +5371,29 @@
                   }
                 }
               }
+            },
+            "Vizianagaram": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 251,
+                "seatsAvailable": 251,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "7293": {
+                  "theatreName": "SVC Ranjani And Shivaranjani, Yodya Maidanam Area, Vizianagaram",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 251,
+                    "seatsAvailable": 251,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
             }
           }
         }
@@ -5333,13 +5404,13 @@
       "name": "Maa Inti Bangaaram",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Maa-Inti-Bangaaram-poster-31398050-3cc2-11f1-a79d-915297966e20.jpg",
       "overallStats": {
-        "totalShows": 54,
-        "totalSeats": 20712,
-        "seatsAvailable": 18268,
-        "seatsSold": 2444,
-        "occupancy": 11.8,
-        "totalRevenue": 290952.0,
-        "totalTheatres": 14
+        "totalShows": 60,
+        "totalSeats": 23354,
+        "seatsAvailable": 20386,
+        "seatsSold": 2968,
+        "occupancy": 12.71,
+        "totalRevenue": 373172.0,
+        "totalTheatres": 16
       },
       "states": {
         "andhra-pradesh": {
@@ -5469,12 +5540,12 @@
             },
             "Kakinada": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1256,
-                "seatsAvailable": 1256,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0.0
+                "totalShows": 8,
+                "totalSeats": 3396,
+                "seatsAvailable": 2872,
+                "seatsSold": 524,
+                "occupancy": 15.43,
+                "totalRevenue": 82220.0
               },
               "theatres": {
                 "1031589": {
@@ -5486,6 +5557,17 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                },
+                "4918": {
+                  "theatreName": "Sri Tirumala Theatre 2K A/C DTS, Kakinada",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2140,
+                    "seatsAvailable": 1616,
+                    "seatsSold": 524,
+                    "occupancy": 24.49,
+                    "totalRevenue": 82220.0
                   }
                 }
               }
@@ -5616,6 +5698,29 @@
                 }
               }
             },
+            "Vizianagaram": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 502,
+                "seatsAvailable": 502,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "7293": {
+                  "theatreName": "SVC Ranjani And Shivaranjani, Yodya Maidanam Area, Vizianagaram",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 502,
+                    "seatsAvailable": 502,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Yelamanchili": {
               "cityStats": {
                 "totalShows": 4,
@@ -5678,21 +5783,21 @@
         }
       }
     },
-    "Mother Promise": {
-      "id": "OBAVAX",
-      "name": "Mother Promise",
-      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17831493223658852.jpg",
+    "Moana (2026)": {
+      "id": "OB8TE4",
+      "name": "Moana (2026)",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Moana%20(1)-e7764880-277d-11f1-bbd6-b922f1a8f2b0.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 3068,
-        "seatsAvailable": 2700,
-        "seatsSold": 368,
-        "occupancy": 11.99,
-        "totalRevenue": 55200.0,
+        "totalShows": 2,
+        "totalSeats": 489,
+        "seatsAvailable": 409,
+        "seatsSold": 80,
+        "occupancy": 16.36,
+        "totalRevenue": 20000.0,
         "totalTheatres": 1
       },
       "states": {
-        "karnataka": {
+        "haryana": {
           "stateStats": {
             "totalShows": 0,
             "totalSeats": 0,
@@ -5702,25 +5807,25 @@
             "totalRevenue": 0.0
           },
           "cities": {
-            "Gadag": {
+            "Rewari": {
               "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 3068,
-                "seatsAvailable": 2700,
-                "seatsSold": 368,
-                "occupancy": 11.99,
-                "totalRevenue": 55200.0
+                "totalShows": 2,
+                "totalSeats": 489,
+                "seatsAvailable": 409,
+                "seatsSold": 80,
+                "occupancy": 16.36,
+                "totalRevenue": 20000.0
               },
               "theatres": {
-                "9041": {
-                  "theatreName": "Shri Krishna Theatre Dolby Digital 7.1, Tanga Koot, Gadag",
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
                   "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 3068,
-                    "seatsAvailable": 2700,
-                    "seatsSold": 368,
-                    "occupancy": 11.99,
-                    "totalRevenue": 55200.0
+                    "totalShows": 2,
+                    "totalSeats": 489,
+                    "seatsAvailable": 409,
+                    "seatsSold": 80,
+                    "occupancy": 16.36,
+                    "totalRevenue": 20000.0
                   }
                 }
               }
@@ -5785,13 +5890,13 @@
       "name": "Nagabandham: The Secret Treasure",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17827110052286884.jpg",
       "overallStats": {
-        "totalShows": 116,
-        "totalSeats": 55440,
-        "seatsAvailable": 45798,
-        "seatsSold": 9642,
-        "occupancy": 17.39,
-        "totalRevenue": 1041504.0,
-        "totalTheatres": 31
+        "totalShows": 114,
+        "totalSeats": 55402,
+        "seatsAvailable": 46018,
+        "seatsSold": 9384,
+        "occupancy": 16.94,
+        "totalRevenue": 1016008.0,
+        "totalTheatres": 30
       },
       "states": {
         "andhra-pradesh": {
@@ -5850,29 +5955,6 @@
                 }
               }
             },
-            "Attili": {
-              "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 546,
-                "seatsAvailable": 260,
-                "seatsSold": 286,
-                "occupancy": 52.38,
-                "totalRevenue": 33700.0
-              },
-              "theatres": {
-                "1060262": {
-                  "theatreName": "Sri Kanakadurga RGB 4K Dolby Atmos",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 546,
-                    "seatsAvailable": 260,
-                    "seatsSold": 286,
-                    "occupancy": 52.38,
-                    "totalRevenue": 33700.0
-                  }
-                }
-              }
-            },
             "Cheepurupalli": {
               "cityStats": {
                 "totalShows": 4,
@@ -5915,29 +5997,6 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
-                  }
-                }
-              }
-            },
-            "Chittoor": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 1476,
-                "seatsAvailable": 1364,
-                "seatsSold": 112,
-                "occupancy": 7.59,
-                "totalRevenue": 16576.0
-              },
-              "theatres": {
-                "1082851": {
-                  "theatreName": "Venkateswara Theatre A/C, Chitoor",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 1476,
-                    "seatsAvailable": 1364,
-                    "seatsSold": 112,
-                    "occupancy": 7.59,
-                    "totalRevenue": 16576.0
                   }
                 }
               }
@@ -6236,6 +6295,29 @@
                     "seatsSold": 168,
                     "occupancy": 9.91,
                     "totalRevenue": 15960.0
+                  }
+                }
+              }
+            },
+            "Vizianagaram": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1984,
+                "seatsAvailable": 1844,
+                "seatsSold": 140,
+                "occupancy": 7.06,
+                "totalRevenue": 24780.0
+              },
+              "theatres": {
+                "7293": {
+                  "theatreName": "SVC Ranjani And Shivaranjani, Yodya Maidanam Area, Vizianagaram",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1984,
+                    "seatsAvailable": 1844,
+                    "seatsSold": 140,
+                    "occupancy": 7.06,
+                    "totalRevenue": 24780.0
                   }
                 }
               }
@@ -6747,18 +6829,69 @@
         }
       }
     },
+    "Toy Story 5": {
+      "id": "OBAJNH",
+      "name": "Toy Story 5",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/toy%20story-26154fb0-6896-11f1-8455-e77e01e09764.jpg",
+      "overallStats": {
+        "totalShows": 1,
+        "totalSeats": 260,
+        "seatsAvailable": 220,
+        "seatsSold": 40,
+        "occupancy": 15.38,
+        "totalRevenue": 8000.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "haryana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rewari": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 260,
+                "seatsAvailable": 220,
+                "seatsSold": 40,
+                "occupancy": 15.38,
+                "totalRevenue": 8000.0
+              },
+              "theatres": {
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 260,
+                    "seatsAvailable": 220,
+                    "seatsSold": 40,
+                    "occupancy": 15.38,
+                    "totalRevenue": 8000.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Welcome To The Jungle": {
       "id": "OAZAMI",
       "name": "Welcome To The Jungle",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/17811549132914624-0667fb20-6dfc-11f1-9a9b-71d1ad62c0c2.jpg",
       "overallStats": {
-        "totalShows": 9,
-        "totalSeats": 1248,
-        "seatsAvailable": 1248,
-        "seatsSold": 0,
-        "occupancy": 0.0,
-        "totalRevenue": 0.0,
-        "totalTheatres": 5
+        "totalShows": 12,
+        "totalSeats": 1803,
+        "seatsAvailable": 1695,
+        "seatsSold": 108,
+        "occupancy": 5.99,
+        "totalRevenue": 25300.0,
+        "totalTheatres": 6
       },
       "states": {
         "gujarat": {
@@ -6813,6 +6946,41 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "haryana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rewari": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 555,
+                "seatsAvailable": 447,
+                "seatsSold": 108,
+                "occupancy": 19.46,
+                "totalRevenue": 25300.0
+              },
+              "theatres": {
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 555,
+                    "seatsAvailable": 447,
+                    "seatsSold": 108,
+                    "occupancy": 19.46,
+                    "totalRevenue": 25300.0
                   }
                 }
               }

@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-08-04",
   "movies": {
+    "Anbe Diana": {
+      "id": "OBAVAO",
+      "name": "Anbe Diana",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Anbe-b2e23e80-6d32-11f1-be96-ad9b0bd364e6-7b374fb0-6fcc-11f1-a4f1-f909e462fa7a.jpg",
+      "overallStats": {
+        "totalShows": 2,
+        "totalSeats": 192,
+        "seatsAvailable": 176,
+        "seatsSold": 16,
+        "occupancy": 8.33,
+        "totalRevenue": 2880.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 192,
+                "seatsAvailable": 176,
+                "seatsSold": 16,
+                "occupancy": 8.33,
+                "totalRevenue": 2880.0
+              },
+              "theatres": {
+                "1037507": {
+                  "theatreName": "Varadaraja Cinemas 4K RGB Laser Dolby Atmos, Chennai",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 192,
+                    "seatsAvailable": 176,
+                    "seatsSold": 16,
+                    "occupancy": 8.33,
+                    "totalRevenue": 2880.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Bhai Tera Star Hai": {
       "id": "OBBDU8",
       "name": "Bhai Tera Star Hai",
@@ -1808,13 +1859,13 @@
       "name": "Jana Nayagan",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17847021692920630.jpg",
       "overallStats": {
-        "totalShows": 175,
-        "totalSeats": 67133,
-        "seatsAvailable": 57074,
-        "seatsSold": 10059,
-        "occupancy": 14.98,
-        "totalRevenue": 1019855.96,
-        "totalTheatres": 42
+        "totalShows": 189,
+        "totalSeats": 72777,
+        "seatsAvailable": 59854,
+        "seatsSold": 12923,
+        "occupancy": 17.76,
+        "totalRevenue": 1403967.76,
+        "totalTheatres": 44
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -2199,12 +2250,12 @@
             },
             "Chennai": {
               "cityStats": {
-                "totalShows": 28,
-                "totalSeats": 13255,
-                "seatsAvailable": 10930,
-                "seatsSold": 2325,
-                "occupancy": 17.54,
-                "totalRevenue": 257771.96
+                "totalShows": 42,
+                "totalSeats": 18899,
+                "seatsAvailable": 13710,
+                "seatsSold": 5189,
+                "occupancy": 27.46,
+                "totalRevenue": 641883.76
               },
               "theatres": {
                 "1037033": {
@@ -2216,6 +2267,17 @@
                     "seatsSold": 284,
                     "occupancy": 18.88,
                     "totalRevenue": 32522.8
+                  }
+                },
+                "1037507": {
+                  "theatreName": "Varadaraja Cinemas 4K RGB Laser Dolby Atmos, Chennai",
+                  "stats": {
+                    "totalShows": 6,
+                    "totalSeats": 2042,
+                    "seatsAvailable": 1885,
+                    "seatsSold": 157,
+                    "occupancy": 7.69,
+                    "totalRevenue": 23610.0
                   }
                 },
                 "1042615": {
@@ -2232,23 +2294,34 @@
                 "1101384": {
                   "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
                   "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 663,
-                    "seatsAvailable": 612,
-                    "seatsSold": 51,
-                    "occupancy": 7.69,
-                    "totalRevenue": 7650.0
+                    "totalShows": 4,
+                    "totalSeats": 884,
+                    "seatsAvailable": 818,
+                    "seatsSold": 66,
+                    "occupancy": 7.47,
+                    "totalRevenue": 9900.0
                   }
                 },
                 "1102122": {
                   "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
                   "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 550,
-                    "seatsAvailable": 341,
-                    "seatsSold": 209,
-                    "occupancy": 38.0,
-                    "totalRevenue": 38414.2
+                    "totalShows": 5,
+                    "totalSeats": 1750,
+                    "seatsAvailable": 1030,
+                    "seatsSold": 720,
+                    "occupancy": 41.14,
+                    "totalRevenue": 132336.0
+                  }
+                },
+                "3960": {
+                  "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 2181,
+                    "seatsAvailable": 0,
+                    "seatsSold": 2181,
+                    "occupancy": 100.0,
+                    "totalRevenue": 264330.0
                   }
                 },
                 "3981": {
@@ -4247,10 +4320,10 @@
       "overallStats": {
         "totalShows": 180,
         "totalSeats": 89323,
-        "seatsAvailable": 78053,
-        "seatsSold": 11270,
+        "seatsAvailable": 78052,
+        "seatsSold": 11271,
         "occupancy": 12.62,
-        "totalRevenue": 1496415.0,
+        "totalRevenue": 1496593.0,
         "totalTheatres": 48
       },
       "states": {
@@ -4291,10 +4364,10 @@
               "cityStats": {
                 "totalShows": 8,
                 "totalSeats": 3968,
-                "seatsAvailable": 3572,
-                "seatsSold": 396,
-                "occupancy": 9.98,
-                "totalRevenue": 75192.0
+                "seatsAvailable": 3571,
+                "seatsSold": 397,
+                "occupancy": 10.01,
+                "totalRevenue": 75370.0
               },
               "theatres": {
                 "1020338": {
@@ -4313,10 +4386,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 2160,
-                    "seatsAvailable": 1952,
-                    "seatsSold": 208,
-                    "occupancy": 9.63,
-                    "totalRevenue": 41728.0
+                    "seatsAvailable": 1951,
+                    "seatsSold": 209,
+                    "occupancy": 9.68,
+                    "totalRevenue": 41906.0
                   }
                 }
               }
@@ -5269,13 +5342,13 @@
       "name": "Spider-Man: Brand New Day",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-80d689a0-6a44-11f1-8e5c-53a5b7291e0a.jpg",
       "overallStats": {
-        "totalShows": 52,
-        "totalSeats": 21558,
-        "seatsAvailable": 18643,
-        "seatsSold": 2915,
-        "occupancy": 13.52,
-        "totalRevenue": 561766.62,
-        "totalTheatres": 16
+        "totalShows": 64,
+        "totalSeats": 24774,
+        "seatsAvailable": 21757,
+        "seatsSold": 3017,
+        "occupancy": 12.18,
+        "totalRevenue": 577875.64,
+        "totalTheatres": 19
       },
       "states": {
         "Telangana": {
@@ -5439,6 +5512,29 @@
                 }
               }
             },
+            "Kalpetta": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 992,
+                "seatsAvailable": 992,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1041567": {
+                  "theatreName": "Jaithra Cinemas, Madiyur, Kalpetta",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 992,
+                    "seatsAvailable": 992,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
             "Kottarakara": {
               "cityStats": {
                 "totalShows": 4,
@@ -5481,6 +5577,29 @@
                     "seatsSold": 138,
                     "occupancy": 9.86,
                     "totalRevenue": 20700.0
+                  }
+                }
+              }
+            },
+            "Ponnani": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1044,
+                "seatsAvailable": 1044,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1020755": {
+                  "theatreName": "Dreambig Sakthi Theatre, KK Junction, Ponnani",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1044,
+                    "seatsAvailable": 1044,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }
@@ -5557,12 +5676,12 @@
           "cities": {
             "Chennai": {
               "cityStats": {
-                "totalShows": 19,
-                "totalSeats": 9203,
-                "seatsAvailable": 7278,
-                "seatsSold": 1925,
-                "occupancy": 20.92,
-                "totalRevenue": 328879.62
+                "totalShows": 23,
+                "totalSeats": 10383,
+                "seatsAvailable": 8356,
+                "seatsSold": 2027,
+                "occupancy": 19.52,
+                "totalRevenue": 344988.64
               },
               "theatres": {
                 "1037033": {
@@ -5574,6 +5693,17 @@
                     "seatsSold": 570,
                     "occupancy": 16.07,
                     "totalRevenue": 63547.4
+                  }
+                },
+                "1037507": {
+                  "theatreName": "Varadaraja Cinemas 4K RGB Laser Dolby Atmos, Chennai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1180,
+                    "seatsAvailable": 1090,
+                    "seatsSold": 90,
+                    "occupancy": 7.63,
+                    "totalRevenue": 13980.0
                   }
                 },
                 "1042615": {
@@ -5592,10 +5722,10 @@
                   "stats": {
                     "totalShows": 8,
                     "totalSeats": 1837,
-                    "seatsAvailable": 1617,
-                    "seatsSold": 220,
-                    "occupancy": 11.98,
-                    "totalRevenue": 39600.0
+                    "seatsAvailable": 1604,
+                    "seatsSold": 233,
+                    "occupancy": 12.68,
+                    "totalRevenue": 41940.0
                   }
                 },
                 "1102122": {
@@ -5603,10 +5733,10 @@
                   "stats": {
                     "totalShows": 6,
                     "totalSeats": 2900,
-                    "seatsAvailable": 1857,
-                    "seatsSold": 1043,
-                    "occupancy": 35.97,
-                    "totalRevenue": 220052.14
+                    "seatsAvailable": 1858,
+                    "seatsSold": 1042,
+                    "occupancy": 35.93,
+                    "totalRevenue": 219841.16
                   }
                 }
               }
@@ -5701,13 +5831,13 @@
       "name": "Spider-Man: Brand New Day",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-7221ee30-6a45-11f1-a575-bb3ca31238ed.jpg",
       "overallStats": {
-        "totalShows": 71,
-        "totalSeats": 28261,
-        "seatsAvailable": 25610,
-        "seatsSold": 2651,
-        "occupancy": 9.38,
-        "totalRevenue": 332896.56,
-        "totalTheatres": 18
+        "totalShows": 78,
+        "totalSeats": 30362,
+        "seatsAvailable": 26599,
+        "seatsSold": 3763,
+        "occupancy": 12.39,
+        "totalRevenue": 489842.96,
+        "totalTheatres": 20
       },
       "states": {
         "tamil-nadu": {
@@ -5768,12 +5898,12 @@
             },
             "Chennai": {
               "cityStats": {
-                "totalShows": 19,
-                "totalSeats": 9173,
-                "seatsAvailable": 7677,
-                "seatsSold": 1496,
-                "occupancy": 16.31,
-                "totalRevenue": 177516.56
+                "totalShows": 26,
+                "totalSeats": 11274,
+                "seatsAvailable": 8666,
+                "seatsSold": 2608,
+                "occupancy": 23.13,
+                "totalRevenue": 334462.96
               },
               "theatres": {
                 "1037033": {
@@ -5781,10 +5911,21 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 1504,
-                    "seatsAvailable": 1234,
-                    "seatsSold": 270,
-                    "occupancy": 17.95,
-                    "totalRevenue": 29949.6
+                    "seatsAvailable": 1232,
+                    "seatsSold": 272,
+                    "occupancy": 18.09,
+                    "totalRevenue": 30317.2
+                  }
+                },
+                "1037507": {
+                  "theatreName": "Varadaraja Cinemas 4K RGB Laser Dolby Atmos, Chennai",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 674,
+                    "seatsAvailable": 617,
+                    "seatsSold": 57,
+                    "occupancy": 8.46,
+                    "totalRevenue": 8550.0
                   }
                 },
                 "1042615": {
@@ -5812,12 +5953,23 @@
                 "1102122": {
                   "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
                   "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 1050,
-                    "seatsAvailable": 611,
-                    "seatsSold": 439,
-                    "occupancy": 41.81,
-                    "totalRevenue": 80688.2
+                    "totalShows": 5,
+                    "totalSeats": 1750,
+                    "seatsAvailable": 985,
+                    "seatsSold": 765,
+                    "occupancy": 43.71,
+                    "totalRevenue": 140607.0
+                  }
+                },
+                "3960": {
+                  "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 727,
+                    "seatsAvailable": 0,
+                    "seatsSold": 727,
+                    "occupancy": 100.0,
+                    "totalRevenue": 88110.0
                   }
                 },
                 "4184": {
@@ -6095,13 +6247,13 @@
       "name": "Spider-Man: Brand New Day",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-5648ad80-6a44-11f1-a3aa-8f451d7c3990.jpg",
       "overallStats": {
-        "totalShows": 7,
-        "totalSeats": 2268,
-        "seatsAvailable": 1808,
-        "seatsSold": 460,
-        "occupancy": 20.28,
-        "totalRevenue": 66610.0,
-        "totalTheatres": 4
+        "totalShows": 8,
+        "totalSeats": 2818,
+        "seatsAvailable": 2162,
+        "seatsSold": 656,
+        "occupancy": 23.28,
+        "totalRevenue": 107962.08,
+        "totalTheatres": 5
       },
       "states": {
         "andaman-and-nicobar-islands": {
@@ -6185,6 +6337,41 @@
             }
           }
         },
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 550,
+                "seatsAvailable": 354,
+                "seatsSold": 196,
+                "occupancy": 35.64,
+                "totalRevenue": 41352.08
+              },
+              "theatres": {
+                "1102122": {
+                  "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 550,
+                    "seatsAvailable": 354,
+                    "seatsSold": 196,
+                    "occupancy": 35.64,
+                    "totalRevenue": 41352.08
+                  }
+                }
+              }
+            }
+          }
+        },
         "telangana": {
           "stateStats": {
             "totalShows": 0,
@@ -6227,13 +6414,13 @@
       "name": "Spider-Man: Brand New Day",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-649637d0-6a45-11f1-8f37-ef2b86efdae5.jpg",
       "overallStats": {
-        "totalShows": 10,
-        "totalSeats": 4934,
-        "seatsAvailable": 2974,
-        "seatsSold": 1960,
-        "occupancy": 39.72,
-        "totalRevenue": 235600.0,
-        "totalTheatres": 3
+        "totalShows": 13,
+        "totalSeats": 6584,
+        "seatsAvailable": 4034,
+        "seatsSold": 2550,
+        "occupancy": 38.73,
+        "totalRevenue": 344042.0,
+        "totalTheatres": 4
       },
       "states": {
         "tamil-nadu": {
@@ -6265,6 +6452,29 @@
                     "seatsSold": 40,
                     "occupancy": 10.0,
                     "totalRevenue": 5200.0
+                  }
+                }
+              }
+            },
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1650,
+                "seatsAvailable": 1060,
+                "seatsSold": 590,
+                "occupancy": 35.76,
+                "totalRevenue": 108442.0
+              },
+              "theatres": {
+                "1102122": {
+                  "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1650,
+                    "seatsAvailable": 1060,
+                    "seatsSold": 590,
+                    "occupancy": 35.76,
+                    "totalRevenue": 108442.0
                   }
                 }
               }
@@ -6319,6 +6529,103 @@
         }
       }
     },
+    "Spider-Man: Brand New Day (OB8RFU)": {
+      "id": "OB8RFU",
+      "name": "Spider-Man: Brand New Day",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-2bb90730-6a45-11f1-993c-fd4f611cc816.jpg",
+      "overallStats": {
+        "totalShows": 9,
+        "totalSeats": 1602,
+        "seatsAvailable": 1313,
+        "seatsSold": 289,
+        "occupancy": 18.04,
+        "totalRevenue": 80555.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "andaman-and-nicobar-islands": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Port Blair": {
+              "cityStats": {
+                "totalShows": 5,
+                "totalSeats": 686,
+                "seatsAvailable": 557,
+                "seatsSold": 129,
+                "occupancy": 18.8,
+                "totalRevenue": 33355.0
+              },
+              "theatres": {
+                "4272": {
+                  "theatreName": "Diviyum Talkies, Prothrapur, Port Blair",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 324,
+                    "seatsAvailable": 278,
+                    "seatsSold": 46,
+                    "occupancy": 14.2,
+                    "totalRevenue": 7820.0
+                  }
+                },
+                "7350": {
+                  "theatreName": "Anand Paradise Multiplex 3D 4K Dolby Atmos, Andaman Housing Coop Society, Port Blair",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 362,
+                    "seatsAvailable": 279,
+                    "seatsSold": 83,
+                    "occupancy": 22.93,
+                    "totalRevenue": 25535.0
+                  }
+                }
+              }
+            }
+          }
+        },
+        "haryana": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Rewari": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 916,
+                "seatsAvailable": 756,
+                "seatsSold": 160,
+                "occupancy": 17.47,
+                "totalRevenue": 47200.0
+              },
+              "theatres": {
+                "5105": {
+                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 916,
+                    "seatsAvailable": 756,
+                    "seatsSold": 160,
+                    "occupancy": 17.47,
+                    "totalRevenue": 47200.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Spider-Man: Brand New Day (OBALXS)": {
       "id": "OBALXS",
       "name": "Spider-Man: Brand New Day",
@@ -6326,10 +6633,10 @@
       "overallStats": {
         "totalShows": 17,
         "totalSeats": 4078,
-        "seatsAvailable": 3521,
-        "seatsSold": 557,
-        "occupancy": 13.66,
-        "totalRevenue": 155340.0,
+        "seatsAvailable": 3513,
+        "seatsSold": 565,
+        "occupancy": 13.85,
+        "totalRevenue": 157135.0,
         "totalTheatres": 4
       },
       "states": {
@@ -6347,10 +6654,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 764,
-                "seatsAvailable": 613,
-                "seatsSold": 151,
-                "occupancy": 19.76,
-                "totalRevenue": 50790.0
+                "seatsAvailable": 605,
+                "seatsSold": 159,
+                "occupancy": 20.81,
+                "totalRevenue": 52585.0
               },
               "theatres": {
                 "7350": {
@@ -6358,10 +6665,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 764,
-                    "seatsAvailable": 613,
-                    "seatsSold": 151,
-                    "occupancy": 19.76,
-                    "totalRevenue": 50790.0
+                    "seatsAvailable": 605,
+                    "seatsSold": 159,
+                    "occupancy": 20.81,
+                    "totalRevenue": 52585.0
                   }
                 }
               }
@@ -6467,103 +6774,6 @@
                     "seatsSold": 96,
                     "occupancy": 13.17,
                     "totalRevenue": 19200.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Spider-Man: Brand New Day (OB8RFU)": {
-      "id": "OB8RFU",
-      "name": "Spider-Man: Brand New Day",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-2bb90730-6a45-11f1-993c-fd4f611cc816.jpg",
-      "overallStats": {
-        "totalShows": 9,
-        "totalSeats": 1602,
-        "seatsAvailable": 1324,
-        "seatsSold": 278,
-        "occupancy": 17.35,
-        "totalRevenue": 78740.0,
-        "totalTheatres": 3
-      },
-      "states": {
-        "andaman-and-nicobar-islands": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Port Blair": {
-              "cityStats": {
-                "totalShows": 5,
-                "totalSeats": 686,
-                "seatsAvailable": 568,
-                "seatsSold": 118,
-                "occupancy": 17.2,
-                "totalRevenue": 31540.0
-              },
-              "theatres": {
-                "4272": {
-                  "theatreName": "Diviyum Talkies, Prothrapur, Port Blair",
-                  "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 324,
-                    "seatsAvailable": 278,
-                    "seatsSold": 46,
-                    "occupancy": 14.2,
-                    "totalRevenue": 7820.0
-                  }
-                },
-                "7350": {
-                  "theatreName": "Anand Paradise Multiplex 3D 4K Dolby Atmos, Andaman Housing Coop Society, Port Blair",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 362,
-                    "seatsAvailable": 290,
-                    "seatsSold": 72,
-                    "occupancy": 19.89,
-                    "totalRevenue": 23720.0
-                  }
-                }
-              }
-            }
-          }
-        },
-        "haryana": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Rewari": {
-              "cityStats": {
-                "totalShows": 4,
-                "totalSeats": 916,
-                "seatsAvailable": 756,
-                "seatsSold": 160,
-                "occupancy": 17.47,
-                "totalRevenue": 47200.0
-              },
-              "theatres": {
-                "5105": {
-                  "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
-                  "stats": {
-                    "totalShows": 4,
-                    "totalSeats": 916,
-                    "seatsAvailable": 756,
-                    "seatsSold": 160,
-                    "occupancy": 17.47,
-                    "totalRevenue": 47200.0
                   }
                 }
               }
@@ -7800,13 +8010,13 @@
       "name": "Unmadham",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Unmadham-e81f2800-5c49-11f1-9dea-1d86822a88db.jpg",
       "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 1176,
-        "seatsAvailable": 1080,
+        "totalShows": 8,
+        "totalSeats": 1784,
+        "seatsAvailable": 1688,
         "seatsSold": 96,
-        "occupancy": 8.16,
+        "occupancy": 5.38,
         "totalRevenue": 12460.8,
-        "totalTheatres": 1
+        "totalTheatres": 2
       },
       "states": {
         "kerala": {
@@ -7838,6 +8048,29 @@
                     "seatsSold": 96,
                     "occupancy": 8.16,
                     "totalRevenue": 12460.8
+                  }
+                }
+              }
+            },
+            "Ponnani": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 608,
+                "seatsAvailable": 608,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "1020755": {
+                  "theatreName": "Dreambig Sakthi Theatre, KK Junction, Ponnani",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 608,
+                    "seatsAvailable": 608,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
                   }
                 }
               }

@@ -1,6 +1,91 @@
 {
   "fetchDate": "2026-08-09",
   "movies": {
+    "DC": {
+      "id": "OBBT3H",
+      "name": "DC",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17856975493339564.jpg",
+      "overallStats": {
+        "totalShows": 6,
+        "totalSeats": 2908,
+        "seatsAvailable": 2628,
+        "seatsSold": 280,
+        "occupancy": 9.63,
+        "totalRevenue": 32512.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Ramabhadrapuram": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 774,
+                "seatsAvailable": 666,
+                "seatsSold": 108,
+                "occupancy": 13.95,
+                "totalRevenue": 10800.0
+              },
+              "theatres": {
+                "25805": {
+                  "theatreName": "SVC TBR Cinemas, Ramabhadrapuram",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 774,
+                    "seatsAvailable": 666,
+                    "seatsSold": 108,
+                    "occupancy": 13.95,
+                    "totalRevenue": 10800.0
+                  }
+                }
+              }
+            },
+            "Vizag": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2134,
+                "seatsAvailable": 1962,
+                "seatsSold": 172,
+                "occupancy": 8.06,
+                "totalRevenue": 21712.0
+              },
+              "theatres": {
+                "28206": {
+                  "theatreName": "SVC Sri Seetharamayya Cine Complex, Edulapaka Bonangi, Parawada, Vizag",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 728,
+                    "seatsAvailable": 652,
+                    "seatsSold": 76,
+                    "occupancy": 10.44,
+                    "totalRevenue": 7600.0
+                  }
+                },
+                "4714": {
+                  "theatreName": "SVC Likitha A/C DTS, Sriharipuram, Vizag",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1406,
+                    "seatsAvailable": 1310,
+                    "seatsSold": 96,
+                    "occupancy": 6.83,
+                    "totalRevenue": 14112.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Dookudu": {
       "id": "OA1V9C",
       "name": "Dookudu",
@@ -8,10 +93,10 @@
       "overallStats": {
         "totalShows": 20,
         "totalSeats": 9603,
-        "seatsAvailable": 6868,
-        "seatsSold": 2735,
-        "occupancy": 28.48,
-        "totalRevenue": 337870.0,
+        "seatsAvailable": 6801,
+        "seatsSold": 2802,
+        "occupancy": 29.18,
+        "totalRevenue": 349064.0,
         "totalTheatres": 16
       },
       "states": {
@@ -52,10 +137,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 511,
-                "seatsAvailable": 224,
-                "seatsSold": 287,
-                "occupancy": 56.16,
-                "totalRevenue": 30350.0
+                "seatsAvailable": 204,
+                "seatsSold": 307,
+                "occupancy": 60.08,
+                "totalRevenue": 32750.0
               },
               "theatres": {
                 "1060262": {
@@ -63,10 +148,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 511,
-                    "seatsAvailable": 224,
-                    "seatsSold": 287,
-                    "occupancy": 56.16,
-                    "totalRevenue": 30350.0
+                    "seatsAvailable": 204,
+                    "seatsSold": 307,
+                    "occupancy": 60.08,
+                    "totalRevenue": 32750.0
                   }
                 }
               }
@@ -98,10 +183,10 @@
               "cityStats": {
                 "totalShows": 4,
                 "totalSeats": 827,
-                "seatsAvailable": 748,
-                "seatsSold": 79,
-                "occupancy": 9.55,
-                "totalRevenue": 14927.0
+                "seatsAvailable": 720,
+                "seatsSold": 107,
+                "occupancy": 12.94,
+                "totalRevenue": 21171.0
               },
               "theatres": {
                 "1020333": {
@@ -109,10 +194,10 @@
                   "stats": {
                     "totalShows": 4,
                     "totalSeats": 827,
-                    "seatsAvailable": 748,
-                    "seatsSold": 79,
-                    "occupancy": 9.55,
-                    "totalRevenue": 14927.0
+                    "seatsAvailable": 720,
+                    "seatsSold": 107,
+                    "occupancy": 12.94,
+                    "totalRevenue": 21171.0
                   }
                 }
               }
@@ -144,10 +229,10 @@
               "cityStats": {
                 "totalShows": 1,
                 "totalSeats": 235,
-                "seatsAvailable": 223,
-                "seatsSold": 12,
-                "occupancy": 5.11,
-                "totalRevenue": 1800.0
+                "seatsAvailable": 221,
+                "seatsSold": 14,
+                "occupancy": 5.96,
+                "totalRevenue": 2100.0
               },
               "theatres": {
                 "1050768": {
@@ -155,10 +240,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 235,
-                    "seatsAvailable": 223,
-                    "seatsSold": 12,
-                    "occupancy": 5.11,
-                    "totalRevenue": 1800.0
+                    "seatsAvailable": 221,
+                    "seatsSold": 14,
+                    "occupancy": 5.96,
+                    "totalRevenue": 2100.0
                   }
                 }
               }
@@ -248,10 +333,10 @@
               "cityStats": {
                 "totalShows": 5,
                 "totalSeats": 3600,
-                "seatsAvailable": 2726,
-                "seatsSold": 874,
-                "occupancy": 24.28,
-                "totalRevenue": 95650.0
+                "seatsAvailable": 2709,
+                "seatsSold": 891,
+                "occupancy": 24.75,
+                "totalRevenue": 97900.0
               },
               "theatres": {
                 "1018796": {
@@ -303,10 +388,10 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 628,
-                    "seatsAvailable": 365,
-                    "seatsSold": 263,
-                    "occupancy": 41.88,
-                    "totalRevenue": 24250.0
+                    "seatsAvailable": 348,
+                    "seatsSold": 280,
+                    "occupancy": 44.59,
+                    "totalRevenue": 26500.0
                   }
                 }
               }
@@ -366,13 +451,13 @@
       "name": "Jana Nayagan",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17847021692920630.jpg",
       "overallStats": {
-        "totalShows": 8,
-        "totalSeats": 3308,
-        "seatsAvailable": 3206,
-        "seatsSold": 102,
-        "occupancy": 3.08,
-        "totalRevenue": 15240.0,
-        "totalTheatres": 2
+        "totalShows": 12,
+        "totalSeats": 5780,
+        "seatsAvailable": 5655,
+        "seatsSold": 125,
+        "occupancy": 2.16,
+        "totalRevenue": 19260.0,
+        "totalTheatres": 3
       },
       "states": {
         "tamil-nadu": {
@@ -408,6 +493,29 @@
                 }
               }
             },
+            "Kumbakonam": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2472,
+                "seatsAvailable": 2449,
+                "seatsSold": 23,
+                "occupancy": 0.93,
+                "totalRevenue": 4020.0
+              },
+              "theatres": {
+                "1015795": {
+                  "theatreName": "Karthik Cinemas Lotus A/C Latest Rgb Laser Dolby Atmos 4K Hd, Near Anbu Hospital, Kumbakonam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2472,
+                    "seatsAvailable": 2449,
+                    "seatsSold": 23,
+                    "occupancy": 0.93,
+                    "totalRevenue": 4020.0
+                  }
+                }
+              }
+            },
             "Vellore": {
               "cityStats": {
                 "totalShows": 4,
@@ -435,7 +543,304 @@
         }
       }
     },
+    "Korean Kanakaraju": {
+      "id": "OBBDUK",
+      "name": "Korean Kanakaraju",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17858231090889340.jpg",
+      "overallStats": {
+        "totalShows": 22,
+        "totalSeats": 10740,
+        "seatsAvailable": 9510,
+        "seatsSold": 1230,
+        "occupancy": 11.45,
+        "totalRevenue": 118686.0,
+        "totalTheatres": 8
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Cheepurupalli": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1980,
+                "seatsAvailable": 1980,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "55272": {
+                  "theatreName": "SVC Vamsi Vishnu Vaibhav Theatres, Lecturers Colony, Cheepurupalli",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1980,
+                    "seatsAvailable": 1980,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Kotabommali": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 936,
+                "seatsAvailable": 616,
+                "seatsSold": 320,
+                "occupancy": 34.19,
+                "totalRevenue": 32000.0
+              },
+              "theatres": {
+                "1037142": {
+                  "theatreName": "Sri Siva Krishna Picture Palace, Srikakulam, Kotabommali",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 936,
+                    "seatsAvailable": 616,
+                    "seatsSold": 320,
+                    "occupancy": 34.19,
+                    "totalRevenue": 32000.0
+                  }
+                }
+              }
+            },
+            "Nellimarla": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 772,
+                "seatsAvailable": 612,
+                "seatsSold": 160,
+                "occupancy": 20.73,
+                "totalRevenue": 16000.0
+              },
+              "theatres": {
+                "29998": {
+                  "theatreName": "SVC S3 Cinema 70MM AC Dolby 7.1, Nellimarla",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 772,
+                    "seatsAvailable": 612,
+                    "seatsSold": 160,
+                    "occupancy": 20.73,
+                    "totalRevenue": 16000.0
+                  }
+                }
+              }
+            },
+            "Payakaraopeta": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 1144,
+                "seatsAvailable": 674,
+                "seatsSold": 470,
+                "occupancy": 41.08,
+                "totalRevenue": 38174.0
+              },
+              "theatres": {
+                "4693": {
+                  "theatreName": "SVC Sri Laxmi, Payakaraopeta",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1144,
+                    "seatsAvailable": 674,
+                    "seatsSold": 470,
+                    "occupancy": 41.08,
+                    "totalRevenue": 38174.0
+                  }
+                }
+              }
+            },
+            "Ramabhadrapuram": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 774,
+                "seatsAvailable": 666,
+                "seatsSold": 108,
+                "occupancy": 13.95,
+                "totalRevenue": 10800.0
+              },
+              "theatres": {
+                "25805": {
+                  "theatreName": "SVC TBR Cinemas, Ramabhadrapuram",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 774,
+                    "seatsAvailable": 666,
+                    "seatsSold": 108,
+                    "occupancy": 13.95,
+                    "totalRevenue": 10800.0
+                  }
+                }
+              }
+            },
+            "Srikakulam": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 3000,
+                "seatsAvailable": 3000,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "4715": {
+                  "theatreName": "SVC Ramalakshman, Narasannapeta Road, Srikakulam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 3000,
+                    "seatsAvailable": 3000,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Vizag": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2134,
+                "seatsAvailable": 1962,
+                "seatsSold": 172,
+                "occupancy": 8.06,
+                "totalRevenue": 21712.0
+              },
+              "theatres": {
+                "28206": {
+                  "theatreName": "SVC Sri Seetharamayya Cine Complex, Edulapaka Bonangi, Parawada, Vizag",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 728,
+                    "seatsAvailable": 652,
+                    "seatsSold": 76,
+                    "occupancy": 10.44,
+                    "totalRevenue": 7600.0
+                  }
+                },
+                "4714": {
+                  "theatreName": "SVC Likitha A/C DTS, Sriharipuram, Vizag",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 1406,
+                    "seatsAvailable": 1310,
+                    "seatsSold": 96,
+                    "occupancy": 6.83,
+                    "totalRevenue": 14112.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Spider-Man: Brand New Day": {
+      "id": "OBAL9S",
+      "name": "Spider-Man: Brand New Day",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-80d689a0-6a44-11f1-8e5c-53a5b7291e0a.jpg",
+      "overallStats": {
+        "totalShows": 10,
+        "totalSeats": 2789,
+        "seatsAvailable": 2524,
+        "seatsSold": 265,
+        "occupancy": 9.5,
+        "totalRevenue": 49310.0,
+        "totalTheatres": 3
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 5,
+                "totalSeats": 1165,
+                "seatsAvailable": 1090,
+                "seatsSold": 75,
+                "occupancy": 6.44,
+                "totalRevenue": 13500.0
+              },
+              "theatres": {
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "stats": {
+                    "totalShows": 5,
+                    "totalSeats": 1165,
+                    "seatsAvailable": 1090,
+                    "seatsSold": 75,
+                    "occupancy": 6.44,
+                    "totalRevenue": 13500.0
+                  }
+                }
+              }
+            },
+            "Hosur": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 700,
+                "seatsAvailable": 671,
+                "seatsSold": 29,
+                "occupancy": 4.14,
+                "totalRevenue": 5220.0
+              },
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 700,
+                    "seatsAvailable": 671,
+                    "seatsSold": 29,
+                    "occupancy": 4.14,
+                    "totalRevenue": 5220.0
+                  }
+                }
+              }
+            },
+            "Vellore": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 924,
+                "seatsAvailable": 763,
+                "seatsSold": 161,
+                "occupancy": 17.42,
+                "totalRevenue": 30590.0
+              },
+              "theatres": {
+                "1012280": {
+                  "theatreName": "Galaxy Cinemas G[XL] RGB Laser Dolby Atmos, New Thiruvalam Road, Vellore",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 924,
+                    "seatsAvailable": 763,
+                    "seatsSold": 161,
+                    "occupancy": 17.42,
+                    "totalRevenue": 30590.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Spider-Man: Brand New Day (OBAMRY)": {
       "id": "OBAMRY",
       "name": "Spider-Man: Brand New Day",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-7221ee30-6a45-11f1-a575-bb3ca31238ed.jpg",
@@ -509,21 +914,21 @@
         }
       }
     },
-    "Spider-Man: Brand New Day (OBAL9S)": {
-      "id": "OBAL9S",
+    "Spider-Man: Brand New Day (OBAMUM)": {
+      "id": "OBAMUM",
       "name": "Spider-Man: Brand New Day",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-80d689a0-6a44-11f1-8e5c-53a5b7291e0a.jpg",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-9856a960-6a45-11f1-970a-57138ce99c17.jpg",
       "overallStats": {
         "totalShows": 5,
-        "totalSeats": 1624,
-        "seatsAvailable": 1457,
-        "seatsSold": 167,
-        "occupancy": 10.28,
-        "totalRevenue": 31670.0,
-        "totalTheatres": 2
+        "totalSeats": 1325,
+        "seatsAvailable": 1210,
+        "seatsSold": 115,
+        "occupancy": 8.68,
+        "totalRevenue": 20150.0,
+        "totalTheatres": 1
       },
       "states": {
-        "tamil-nadu": {
+        "andhra-pradesh": {
           "stateStats": {
             "totalShows": 0,
             "totalSeats": 0,
@@ -533,48 +938,25 @@
             "totalRevenue": 0.0
           },
           "cities": {
-            "Hosur": {
+            "Narasaraopet": {
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 700,
-                "seatsAvailable": 694,
-                "seatsSold": 6,
-                "occupancy": 0.86,
-                "totalRevenue": 1080.0
+                "totalShows": 5,
+                "totalSeats": 1325,
+                "seatsAvailable": 1210,
+                "seatsSold": 115,
+                "occupancy": 8.68,
+                "totalRevenue": 20150.0
               },
               "theatres": {
-                "1015289": {
-                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                "1050768": {
+                  "theatreName": "Geetha Multiplex, Kasu Central Mall, Barco 4K Laser, Dolby Atmos, Narasaraopeta",
                   "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 700,
-                    "seatsAvailable": 694,
-                    "seatsSold": 6,
-                    "occupancy": 0.86,
-                    "totalRevenue": 1080.0
-                  }
-                }
-              }
-            },
-            "Vellore": {
-              "cityStats": {
-                "totalShows": 3,
-                "totalSeats": 924,
-                "seatsAvailable": 763,
-                "seatsSold": 161,
-                "occupancy": 17.42,
-                "totalRevenue": 30590.0
-              },
-              "theatres": {
-                "1012280": {
-                  "theatreName": "Galaxy Cinemas G[XL] RGB Laser Dolby Atmos, New Thiruvalam Road, Vellore",
-                  "stats": {
-                    "totalShows": 3,
-                    "totalSeats": 924,
-                    "seatsAvailable": 763,
-                    "seatsSold": 161,
-                    "occupancy": 17.42,
-                    "totalRevenue": 30590.0
+                    "totalShows": 5,
+                    "totalSeats": 1325,
+                    "seatsAvailable": 1210,
+                    "seatsSold": 115,
+                    "occupancy": 8.68,
+                    "totalRevenue": 20150.0
                   }
                 }
               }

@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-08-15",
   "movies": {
+    "Awarapan 2": {
+      "id": "OB3DDF",
+      "name": "Awarapan 2",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17842847870041662.jpg",
+      "overallStats": {
+        "totalShows": 5,
+        "totalSeats": 460,
+        "seatsAvailable": 449,
+        "seatsSold": 11,
+        "occupancy": 2.39,
+        "totalRevenue": 3300.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "gujarat": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Jamkhambhaliya": {
+              "cityStats": {
+                "totalShows": 5,
+                "totalSeats": 460,
+                "seatsAvailable": 449,
+                "seatsSold": 11,
+                "occupancy": 2.39,
+                "totalRevenue": 3300.0
+              },
+              "theatres": {
+                "1055117": {
+                  "theatreName": "Shree Ram Cinemax, Jamkhambhaliya",
+                  "stats": {
+                    "totalShows": 5,
+                    "totalSeats": 460,
+                    "seatsAvailable": 449,
+                    "seatsSold": 11,
+                    "occupancy": 2.39,
+                    "totalRevenue": 3300.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Jana Nayagan": {
       "id": "OB3DEO",
       "name": "Jana Nayagan",
@@ -95,6 +146,57 @@
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "The End of Oak Street": {
+      "id": "OB8V82",
+      "name": "The End of Oak Street",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17863505096678514.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1464,
+        "seatsAvailable": 738,
+        "seatsSold": 726,
+        "occupancy": 49.59,
+        "totalRevenue": 66100.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Eluru": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 1464,
+                "seatsAvailable": 738,
+                "seatsSold": 726,
+                "occupancy": 49.59,
+                "totalRevenue": 66100.0
+              },
+              "theatres": {
+                "476": {
+                  "theatreName": "Ambica Complex, Western Street, Eluru",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 1464,
+                    "seatsAvailable": 738,
+                    "seatsSold": 726,
+                    "occupancy": 49.59,
+                    "totalRevenue": 66100.0
                   }
                 }
               }

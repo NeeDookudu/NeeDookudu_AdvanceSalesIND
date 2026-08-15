@@ -2318,13 +2318,13 @@
       "name": "DC",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17836875111263755.jpg",
       "overallStats": {
-        "totalShows": 55,
-        "totalSeats": 18635,
-        "seatsAvailable": 16531,
+        "totalShows": 57,
+        "totalSeats": 19195,
+        "seatsAvailable": 17091,
         "seatsSold": 2104,
-        "occupancy": 11.29,
+        "occupancy": 10.96,
         "totalRevenue": 291377.88,
-        "totalTheatres": 17
+        "totalTheatres": 18
       },
       "states": {
         "kerala": {
@@ -2376,6 +2376,29 @@
                     "totalShows": 4,
                     "totalSeats": 648,
                     "seatsAvailable": 648,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0.0
+                  }
+                }
+              }
+            },
+            "Perambra": {
+              "cityStats": {
+                "totalShows": 2,
+                "totalSeats": 560,
+                "seatsAvailable": 560,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0.0
+              },
+              "theatres": {
+                "49852": {
+                  "theatreName": "Alankar Movies, Menhaniam, Perambra",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 560,
+                    "seatsAvailable": 560,
                     "seatsSold": 0,
                     "occupancy": 0.0,
                     "totalRevenue": 0.0
@@ -5254,91 +5277,6 @@
       }
     },
     "Spider-Man: Brand New Day": {
-      "id": "OBAMRY",
-      "name": "Spider-Man: Brand New Day",
-      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-7221ee30-6a45-11f1-a575-bb3ca31238ed.jpg",
-      "overallStats": {
-        "totalShows": 4,
-        "totalSeats": 1507,
-        "seatsAvailable": 1226,
-        "seatsSold": 281,
-        "occupancy": 18.65,
-        "totalRevenue": 33879.08,
-        "totalTheatres": 3
-      },
-      "states": {
-        "tamil-nadu": {
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0.0
-          },
-          "cities": {
-            "Chennai": {
-              "cityStats": {
-                "totalShows": 3,
-                "totalSeats": 966,
-                "seatsAvailable": 760,
-                "seatsSold": 206,
-                "occupancy": 21.33,
-                "totalRevenue": 26409.08
-              },
-              "theatres": {
-                "1102122": {
-                  "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 350,
-                    "seatsAvailable": 206,
-                    "seatsSold": 144,
-                    "occupancy": 41.14,
-                    "totalRevenue": 23040.0
-                  }
-                },
-                "4184": {
-                  "theatreName": "Devi Cineplex, Anna Salai, Chennai",
-                  "stats": {
-                    "totalShows": 2,
-                    "totalSeats": 616,
-                    "seatsAvailable": 554,
-                    "seatsSold": 62,
-                    "occupancy": 10.06,
-                    "totalRevenue": 3369.08
-                  }
-                }
-              }
-            },
-            "Chidambaram": {
-              "cityStats": {
-                "totalShows": 1,
-                "totalSeats": 541,
-                "seatsAvailable": 466,
-                "seatsSold": 75,
-                "occupancy": 13.86,
-                "totalRevenue": 7470.0
-              },
-              "theatres": {
-                "14703": {
-                  "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
-                  "stats": {
-                    "totalShows": 1,
-                    "totalSeats": 541,
-                    "seatsAvailable": 466,
-                    "seatsSold": 75,
-                    "occupancy": 13.86,
-                    "totalRevenue": 7470.0
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "Spider-Man: Brand New Day (OBAL9S)": {
       "id": "OBAL9S",
       "name": "Spider-Man: Brand New Day",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-80d689a0-6a44-11f1-8e5c-53a5b7291e0a.jpg",
@@ -5416,6 +5354,91 @@
                     "seatsSold": 144,
                     "occupancy": 41.14,
                     "totalRevenue": 26640.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Spider-Man: Brand New Day (OBAMRY)": {
+      "id": "OBAMRY",
+      "name": "Spider-Man: Brand New Day",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-7221ee30-6a45-11f1-a575-bb3ca31238ed.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 1507,
+        "seatsAvailable": 1226,
+        "seatsSold": 281,
+        "occupancy": 18.65,
+        "totalRevenue": 33879.08,
+        "totalTheatres": 3
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Chennai": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 966,
+                "seatsAvailable": 760,
+                "seatsSold": 206,
+                "occupancy": 21.33,
+                "totalRevenue": 26409.08
+              },
+              "theatres": {
+                "1102122": {
+                  "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 350,
+                    "seatsAvailable": 206,
+                    "seatsSold": 144,
+                    "occupancy": 41.14,
+                    "totalRevenue": 23040.0
+                  }
+                },
+                "4184": {
+                  "theatreName": "Devi Cineplex, Anna Salai, Chennai",
+                  "stats": {
+                    "totalShows": 2,
+                    "totalSeats": 616,
+                    "seatsAvailable": 554,
+                    "seatsSold": 62,
+                    "occupancy": 10.06,
+                    "totalRevenue": 3369.08
+                  }
+                }
+              }
+            },
+            "Chidambaram": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 541,
+                "seatsAvailable": 466,
+                "seatsSold": 75,
+                "occupancy": 13.86,
+                "totalRevenue": 7470.0
+              },
+              "theatres": {
+                "14703": {
+                  "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 541,
+                    "seatsAvailable": 466,
+                    "seatsSold": 75,
+                    "occupancy": 13.86,
+                    "totalRevenue": 7470.0
                   }
                 }
               }
@@ -5924,13 +5947,13 @@
       "name": "Thudakkam",
       "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17854929818899254.jpg",
       "overallStats": {
-        "totalShows": 35,
-        "totalSeats": 8749,
-        "seatsAvailable": 8486,
-        "seatsSold": 263,
-        "occupancy": 3.01,
-        "totalRevenue": 40790.6,
-        "totalTheatres": 9
+        "totalShows": 38,
+        "totalSeats": 9869,
+        "seatsAvailable": 9326,
+        "seatsSold": 543,
+        "occupancy": 5.5,
+        "totalRevenue": 82790.6,
+        "totalTheatres": 10
       },
       "states": {
         "kerala": {
@@ -6123,6 +6146,29 @@
                     "seatsSold": 97,
                     "occupancy": 8.25,
                     "totalRevenue": 12590.6
+                  }
+                }
+              }
+            },
+            "Perambra": {
+              "cityStats": {
+                "totalShows": 3,
+                "totalSeats": 1120,
+                "seatsAvailable": 840,
+                "seatsSold": 280,
+                "occupancy": 25.0,
+                "totalRevenue": 42000.0
+              },
+              "theatres": {
+                "49852": {
+                  "theatreName": "Alankar Movies, Menhaniam, Perambra",
+                  "stats": {
+                    "totalShows": 3,
+                    "totalSeats": 1120,
+                    "seatsAvailable": 840,
+                    "seatsSold": 280,
+                    "occupancy": 25.0,
+                    "totalRevenue": 42000.0
                   }
                 }
               }
@@ -7666,10 +7712,10 @@
       "overallStats": {
         "totalShows": 220,
         "totalSeats": 101410,
-        "seatsAvailable": 85717,
-        "seatsSold": 15693,
-        "occupancy": 15.47,
-        "totalRevenue": 2156049.52,
+        "seatsAvailable": 85714,
+        "seatsSold": 15696,
+        "occupancy": 15.48,
+        "totalRevenue": 2156600.92,
         "totalTheatres": 54
       },
       "states": {
@@ -8114,10 +8160,10 @@
               "cityStats": {
                 "totalShows": 34,
                 "totalSeats": 20478,
-                "seatsAvailable": 16409,
-                "seatsSold": 4069,
-                "occupancy": 19.87,
-                "totalRevenue": 582849.52
+                "seatsAvailable": 16406,
+                "seatsSold": 4072,
+                "occupancy": 19.88,
+                "totalRevenue": 583400.92
               },
               "theatres": {
                 "1037033": {
@@ -8158,10 +8204,10 @@
                   "stats": {
                     "totalShows": 13,
                     "totalSeats": 6150,
-                    "seatsAvailable": 3967,
-                    "seatsSold": 2183,
-                    "occupancy": 35.5,
-                    "totalRevenue": 401235.4
+                    "seatsAvailable": 3964,
+                    "seatsSold": 2186,
+                    "occupancy": 35.54,
+                    "totalRevenue": 401786.8
                   }
                 },
                 "28925": {

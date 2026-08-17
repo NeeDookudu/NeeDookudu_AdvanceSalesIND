@@ -1,6 +1,57 @@
 {
   "fetchDate": "2026-08-22",
   "movies": {
+    "Jana Nayagan": {
+      "id": "OB3DEO",
+      "name": "Jana Nayagan",
+      "posterUrl": "https://b.zmtcdn.com/data/edition_assets/17847021692920630.jpg",
+      "overallStats": {
+        "totalShows": 4,
+        "totalSeats": 2472,
+        "seatsAvailable": 2464,
+        "seatsSold": 8,
+        "occupancy": 0.32,
+        "totalRevenue": 1200.0,
+        "totalTheatres": 1
+      },
+      "states": {
+        "tamil-nadu": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Kumbakonam": {
+              "cityStats": {
+                "totalShows": 4,
+                "totalSeats": 2472,
+                "seatsAvailable": 2464,
+                "seatsSold": 8,
+                "occupancy": 0.32,
+                "totalRevenue": 1200.0
+              },
+              "theatres": {
+                "1015795": {
+                  "theatreName": "Karthik Cinemas Lotus A/C Latest Rgb Laser Dolby Atmos 4K Hd, Near Anbu Hospital, Kumbakonam",
+                  "stats": {
+                    "totalShows": 4,
+                    "totalSeats": 2472,
+                    "seatsAvailable": 2464,
+                    "seatsSold": 8,
+                    "occupancy": 0.32,
+                    "totalRevenue": 1200.0
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "Khalifa": {
       "id": "OB9JFK",
       "name": "Khalifa",
@@ -91,15 +142,50 @@
       "name": "Shankar Dada MBBS",
       "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Shankar-Dada-MBBS-608x800-1dfdc820-76ea-11ee-b916-2f00bdd1db66.jpg",
       "overallStats": {
-        "totalShows": 2,
-        "totalSeats": 1470,
-        "seatsAvailable": 1097,
-        "seatsSold": 373,
-        "occupancy": 25.37,
-        "totalRevenue": 37050.0,
-        "totalTheatres": 2
+        "totalShows": 4,
+        "totalSeats": 2496,
+        "seatsAvailable": 2091,
+        "seatsSold": 405,
+        "occupancy": 16.23,
+        "totalRevenue": 42107.0,
+        "totalTheatres": 4
       },
       "states": {
+        "andhra-pradesh": {
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0.0
+          },
+          "cities": {
+            "Guntur": {
+              "cityStats": {
+                "totalShows": 1,
+                "totalSeats": 290,
+                "seatsAvailable": 283,
+                "seatsSold": 7,
+                "occupancy": 2.41,
+                "totalRevenue": 1357.0
+              },
+              "theatres": {
+                "1020333": {
+                  "theatreName": "Mythri Cinemas Phoenix Mall, Barco Flagship Laser Projection, Guntur",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 290,
+                    "seatsAvailable": 283,
+                    "seatsSold": 7,
+                    "occupancy": 2.41,
+                    "totalRevenue": 1357.0
+                  }
+                }
+              }
+            }
+          }
+        },
         "telangana": {
           "stateStats": {
             "totalShows": 0,
@@ -112,12 +198,12 @@
           "cities": {
             "Hyderabad": {
               "cityStats": {
-                "totalShows": 2,
-                "totalSeats": 1470,
-                "seatsAvailable": 1097,
-                "seatsSold": 373,
-                "occupancy": 25.37,
-                "totalRevenue": 37050.0
+                "totalShows": 3,
+                "totalSeats": 2206,
+                "seatsAvailable": 1808,
+                "seatsSold": 398,
+                "occupancy": 18.04,
+                "totalRevenue": 40750.0
               },
               "theatres": {
                 "1018796": {
@@ -125,10 +211,21 @@
                   "stats": {
                     "totalShows": 1,
                     "totalSeats": 842,
-                    "seatsAvailable": 663,
-                    "seatsSold": 179,
-                    "occupancy": 21.26,
-                    "totalRevenue": 20350.0
+                    "seatsAvailable": 662,
+                    "seatsSold": 180,
+                    "occupancy": 21.38,
+                    "totalRevenue": 20450.0
+                  }
+                },
+                "14166": {
+                  "theatreName": "Sangeetha Theatre, RC Puram (Formerly SVC Sangeetha), RC Reddy Colony, Hyderabad",
+                  "stats": {
+                    "totalShows": 1,
+                    "totalSeats": 736,
+                    "seatsAvailable": 712,
+                    "seatsSold": 24,
+                    "occupancy": 3.26,
+                    "totalRevenue": 3600.0
                   }
                 },
                 "9291": {

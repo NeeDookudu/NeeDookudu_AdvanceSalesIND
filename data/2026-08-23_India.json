@@ -1,5 +1,5 @@
 {
-    "_last_updated": "2026-08-18 17:28:06 IST",
+    "_last_updated": "2026-08-18 18:57:48 IST",
     "Awarapan 2": {
         "Associated_Titles": [
             "Awarapan 2 - Hindi"
@@ -81,6 +81,17 @@
                             }
                         }
                     },
+                    "Agra": {
+                        "Venues": {
+                            "[BMS] PPAG - Panna Palace: Agra": {
+                                "Venue_TotalRevenue": 14400.0,
+                                "Venue_TotalSeats": 1452,
+                                "Venue_TotalBookedSeats": 120,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 8.26
+                            }
+                        }
+                    },
                     "Varanasi": {
                         "Venues": {
                             "[BMS] PCBV - Pari Cineplex: Babatpur, Varanasi": {
@@ -128,11 +139,18 @@
                                 "Venue_OccupancyPercentage": 0.0
                             },
                             "[BMS] NFGD - Newfangled Miniplex (TWIN SEATED): MG Road": {
-                                "Venue_TotalRevenue": 4000.0,
+                                "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 80,
-                                "Venue_TotalBookedSeats": 4,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 5.0
+                                "Venue_OccupancyPercentage": 0.0
+                            },
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 19700.0,
+                                "Venue_TotalSeats": 881,
+                                "Venue_TotalBookedSeats": 65,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 7.38
                             }
                         }
                     }
@@ -169,11 +187,44 @@
                             }
                         }
                     },
+                    "Akaltara": {
+                        "Venues": {
+                            "[BMS] DLMT - DL Multiplex: Akaltara": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1100,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
                     "Sarsiwa": {
                         "Venues": {
                             "[BMS] MARS - Marko Cineplex: Sarsiwa": {
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 864,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Raigarh": {
+                        "Venues": {
+                            "[BMS] RATR - Ramniwas Talkies Airconditioned: Raigarh": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 708,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Sarangarh": {
+                        "Venues": {
+                            "[BMS] GCDS - Grand Cineplex: Sarangarh": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 824,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
@@ -229,22 +280,15 @@
                         "Venues": {
                             "[BMS] GDKH - Gold Cinema: Khopoli": {
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 300,
+                                "Venue_TotalSeats": 510,
                                 "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
+                                "Venue_TotalShows": 7,
                                 "Venue_OccupancyPercentage": 0.0
                             }
                         }
                     },
                     "Mumbai": {
                         "Venues": {
-                            "[BMS] GATY - G7 Multiplex: Bandra (W)": {
-                                "Venue_TotalRevenue": 98040.0,
-                                "Venue_TotalSeats": 4308,
-                                "Venue_TotalBookedSeats": 540,
-                                "Venue_TotalShows": 8,
-                                "Venue_OccupancyPercentage": 12.53
-                            },
                             "[BMS] MTHB - MOVIE TIME: HUB, Goregaon (E)": {
                                 "Venue_TotalRevenue": 35750.0,
                                 "Venue_TotalSeats": 1686,
@@ -252,11 +296,18 @@
                                 "Venue_TotalShows": 6,
                                 "Venue_OccupancyPercentage": 8.9
                             },
+                            "[BMS] GATY - G7 Multiplex: Bandra (W)": {
+                                "Venue_TotalRevenue": 98040.0,
+                                "Venue_TotalSeats": 4308,
+                                "Venue_TotalBookedSeats": 540,
+                                "Venue_TotalShows": 8,
+                                "Venue_OccupancyPercentage": 12.53
+                            },
                             "[BMS] AAAS - Ajanta Cinema Cinex: Borivali (W) Newly Renovated": {
                                 "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 668,
+                                "Venue_TotalSeats": 1002,
                                 "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 2,
+                                "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0
                             },
                             "[BMS] KURL - Bharat Cineplex: Kurla (W)": {
@@ -278,6 +329,28 @@
                                 "Venue_OccupancyPercentage": 0.0
                             }
                         }
+                    },
+                    "Solapur": {
+                        "Venues": {
+                            "[BMS] NRMS - R Miniplex (A.C): Solapur": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 421,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 7,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 2380,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 14,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
                     }
                 }
             },
@@ -290,6 +363,36 @@
                                 "Venue_TotalSeats": 304,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Telangana": {
+                "Cities": {
+                    "Hyderabad": {
+                        "Venues": {
+                            "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
+                                "Venue_TotalRevenue": 44000.0,
+                                "Venue_TotalSeats": 1482,
+                                "Venue_TotalBookedSeats": 176,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 11.88
+                            }
+                        }
+                    }
+                }
+            },
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 137,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
                                 "Venue_OccupancyPercentage": 0.0
                             }
                         }
@@ -353,11 +456,11 @@
                 }
             }
         },
-        "Overall_TotalRevenue": 264210.0,
-        "Overall_TotalSeats": 31493,
-        "Overall_TotalBookedSeats": 1452,
-        "Overall_TotalShows": 120,
-        "Overall_OccupancyPercentage": 4.61
+        "Overall_TotalRevenue": 338310.0,
+        "Overall_TotalSeats": 41422,
+        "Overall_TotalBookedSeats": 1809,
+        "Overall_TotalShows": 169,
+        "Overall_OccupancyPercentage": 4.37
     },
     "Bethlehem Kudumba Unit": {
         "Associated_Titles": [
@@ -375,6 +478,17 @@
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Changanassery": {
+                        "Venues": {
+                            "[BMS] APSC - Apsara Theatre Dolby 7.1: Changanassery": {
+                                "Venue_TotalRevenue": 1120.0,
+                                "Venue_TotalSeats": 2172,
+                                "Venue_TotalBookedSeats": 7,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.32
                             }
                         }
                     },
@@ -396,17 +510,6 @@
                             }
                         }
                     },
-                    "Changanassery": {
-                        "Venues": {
-                            "[BMS] APSC - Apsara Theatre Dolby 7.1: Changanassery": {
-                                "Venue_TotalRevenue": 640.0,
-                                "Venue_TotalSeats": 2172,
-                                "Venue_TotalBookedSeats": 4,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.18
-                            }
-                        }
-                    },
                     "Kottayam": {
                         "Venues": {
                             "[BMS] ATKT - Anupama Theatre Dolby 7.1: Kottayam": {
@@ -421,37 +524,44 @@
                     "Thrissur": {
                         "Venues": {
                             "[BMS] SDTU - Shivadam Cinemas RGB 4K Laser Atmos Triple Beam 3D": {
-                                "Venue_TotalRevenue": 10240.0,
+                                "Venue_TotalRevenue": 10560.0,
                                 "Venue_TotalSeats": 1000,
-                                "Venue_TotalBookedSeats": 64,
+                                "Venue_TotalBookedSeats": 66,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 6.4
-                            },
-                            "[BMS] RGTR - Ragam Theatre 4K RGB Laser Dolby Atmos: Thrissur": {
-                                "Venue_TotalRevenue": 14950.0,
-                                "Venue_TotalSeats": 2241,
-                                "Venue_TotalBookedSeats": 90,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 4.02
+                                "Venue_OccupancyPercentage": 6.6
                             },
                             "[BMS] INSC - INOX: Sobha City Mall": {
-                                "Venue_TotalRevenue": 17500.0,
-                                "Venue_TotalSeats": 1626,
-                                "Venue_TotalBookedSeats": 70,
+                                "Venue_TotalRevenue": 14500.0,
+                                "Venue_TotalSeats": 1608,
+                                "Venue_TotalBookedSeats": 58,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 4.31
+                                "Venue_OccupancyPercentage": 3.61
+                            },
+                            "[BMS] RGTR - Ragam Theatre 4K RGB Laser Dolby Atmos: Thrissur": {
+                                "Venue_TotalRevenue": 16300.0,
+                                "Venue_TotalSeats": 2241,
+                                "Venue_TotalBookedSeats": 99,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 4.42
                             },
                             "[BMS] SILM - Simla Movies 2K Dolby 7.1: Kanjany": {
-                                "Venue_TotalRevenue": 900.0,
+                                "Venue_TotalRevenue": 1050.0,
                                 "Venue_TotalSeats": 1500,
-                                "Venue_TotalBookedSeats": 6,
+                                "Venue_TotalBookedSeats": 7,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.4
+                                "Venue_OccupancyPercentage": 0.47
                             }
                         }
                     },
                     "Trivandrum": {
                         "Venues": {
+                            "[BMS] HKCP - HK Cinemas: Pothencode": {
+                                "Venue_TotalRevenue": 3504.6,
+                                "Venue_TotalSeats": 1564,
+                                "Venue_TotalBookedSeats": 27,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 1.73
+                            },
                             "[BMS] KBTT - Kalabhavan Theatre Triple Beam 3D: Trivandrum": {
                                 "Venue_TotalRevenue": 32780.0,
                                 "Venue_TotalSeats": 820,
@@ -459,19 +569,12 @@
                                 "Venue_TotalShows": 2,
                                 "Venue_OccupancyPercentage": 30.85
                             },
-                            "[BMS] HKCP - HK Cinemas: Pothencode": {
-                                "Venue_TotalRevenue": 2855.6,
-                                "Venue_TotalSeats": 1564,
-                                "Venue_TotalBookedSeats": 22,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 1.41
-                            },
                             "[BMS] PLTD - PVR: Lulu, Trivandrum": {
-                                "Venue_TotalRevenue": 52940.0,
-                                "Venue_TotalSeats": 1110,
-                                "Venue_TotalBookedSeats": 182,
+                                "Venue_TotalRevenue": 48140.0,
+                                "Venue_TotalSeats": 1070,
+                                "Venue_TotalBookedSeats": 151,
                                 "Venue_TotalShows": 7,
-                                "Venue_OccupancyPercentage": 16.4
+                                "Venue_OccupancyPercentage": 14.11
                             }
                         }
                     },
@@ -500,32 +603,32 @@
                     "Kochi": {
                         "Venues": {
                             "[BMS] PVMF - PVR: Forum Mall, Kochi": {
-                                "Venue_TotalRevenue": 67500.0,
-                                "Venue_TotalSeats": 1677,
-                                "Venue_TotalBookedSeats": 171,
+                                "Venue_TotalRevenue": 64760.0,
+                                "Venue_TotalSeats": 1667,
+                                "Venue_TotalBookedSeats": 177,
                                 "Venue_TotalShows": 7,
-                                "Venue_OccupancyPercentage": 10.2
-                            },
-                            "[BMS] PVLC - PVR: Lulu, Kochi": {
-                                "Venue_TotalRevenue": 60490.0,
-                                "Venue_TotalSeats": 1814,
-                                "Venue_TotalBookedSeats": 178,
-                                "Venue_TotalShows": 8,
-                                "Venue_OccupancyPercentage": 9.81
+                                "Venue_OccupancyPercentage": 10.62
                             },
                             "[BMS] PCVB - PVR: Oberon Mall, Kochi": {
-                                "Venue_TotalRevenue": 7480.0,
-                                "Venue_TotalSeats": 842,
-                                "Venue_TotalBookedSeats": 34,
+                                "Venue_TotalRevenue": 17820.0,
+                                "Venue_TotalSeats": 876,
+                                "Venue_TotalBookedSeats": 81,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 4.04
+                                "Venue_OccupancyPercentage": 9.25
+                            },
+                            "[BMS] PVLC - PVR: Lulu, Kochi": {
+                                "Venue_TotalRevenue": 59130.0,
+                                "Venue_TotalSeats": 1813,
+                                "Venue_TotalBookedSeats": 204,
+                                "Venue_TotalShows": 8,
+                                "Venue_OccupancyPercentage": 11.25
                             },
                             "[BMS] GCFK - G Cinemas Fort Kochi: 4K Dolby ATMOS": {
-                                "Venue_TotalRevenue": 6000.0,
+                                "Venue_TotalRevenue": 7200.0,
                                 "Venue_TotalSeats": 1667,
-                                "Venue_TotalBookedSeats": 40,
+                                "Venue_TotalBookedSeats": 48,
                                 "Venue_TotalShows": 6,
-                                "Venue_OccupancyPercentage": 2.4
+                                "Venue_OccupancyPercentage": 2.88
                             }
                         }
                     },
@@ -543,11 +646,11 @@
                     "Kothamangalam": {
                         "Venues": {
                             "[BMS] GCAK - G Cinemas: Kothamangalam 4K 3D Dolby Atmos": {
-                                "Venue_TotalRevenue": 1650.0,
+                                "Venue_TotalRevenue": 1950.0,
                                 "Venue_TotalSeats": 1395,
-                                "Venue_TotalBookedSeats": 11,
+                                "Venue_TotalBookedSeats": 13,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 0.79
+                                "Venue_OccupancyPercentage": 0.93
                             }
                         }
                     },
@@ -565,33 +668,33 @@
                     "Wadakkancherry": {
                         "Venues": {
                             "[BMS] TMWC - Thalam Theatre: Wadakkanchery": {
-                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalRevenue": 648.75,
                                 "Venue_TotalSeats": 1068,
-                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalBookedSeats": 5,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0
+                                "Venue_OccupancyPercentage": 0.47
                             }
                         }
                     },
                     "Kattanam": {
                         "Venues": {
                             "[BMS] GTCX - Ganam Theatre Complex 4K 3D: Kattanam": {
-                                "Venue_TotalRevenue": 2550.0,
+                                "Venue_TotalRevenue": 3000.0,
                                 "Venue_TotalSeats": 808,
-                                "Venue_TotalBookedSeats": 17,
+                                "Venue_TotalBookedSeats": 20,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 2.1
+                                "Venue_OccupancyPercentage": 2.48
                             }
                         }
                     },
                     "Alappuzha": {
                         "Venues": {
                             "[BMS] EGCA - EVM GRAND RGB Laser 4K 3D DOLBY: Cherthala": {
-                                "Venue_TotalRevenue": 13200.0,
+                                "Venue_TotalRevenue": 3300.0,
                                 "Venue_TotalSeats": 1440,
-                                "Venue_TotalBookedSeats": 88,
+                                "Venue_TotalBookedSeats": 22,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 6.11
+                                "Venue_OccupancyPercentage": 1.53
                             },
                             "[BMS] PRCC - Paradise Cinema: Cherthala": {
                                 "Venue_TotalRevenue": 0.0,
@@ -609,6 +712,17 @@
                                 "Venue_TotalSeats": 1056,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Kadakkal": {
+                        "Venues": {
+                            "[BMS] SRDC - SreeDhanya Cinemax": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1032,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 0.0
                             }
                         }
@@ -649,11 +763,11 @@
                     "Pallickathodu": {
                         "Venues": {
                             "[BMS] AICP - Anchani Cinemas 4K Dolby Atmos: Pallickathodu": {
-                                "Venue_TotalRevenue": 1250.0,
+                                "Venue_TotalRevenue": 1850.0,
                                 "Venue_TotalSeats": 935,
-                                "Venue_TotalBookedSeats": 7,
+                                "Venue_TotalBookedSeats": 11,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 0.75
+                                "Venue_OccupancyPercentage": 1.18
                             }
                         }
                     },
@@ -695,13 +809,28 @@
                         }
                     }
                 }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 67,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
             }
         },
-        "Overall_TotalRevenue": 318215.6,
-        "Overall_TotalSeats": 38869,
-        "Overall_TotalBookedSeats": 1394,
-        "Overall_TotalShows": 146,
-        "Overall_OccupancyPercentage": 3.59
+        "Overall_TotalRevenue": 312903.35,
+        "Overall_TotalSeats": 39933,
+        "Overall_TotalBookedSeats": 1406,
+        "Overall_TotalShows": 150,
+        "Overall_OccupancyPercentage": 3.52
     },
     "Khalifa": {
         "Associated_Titles": [
@@ -743,25 +872,18 @@
                     "Thrissur": {
                         "Venues": {
                             "[BMS] SDTU - Shivadam Cinemas RGB 4K Laser Atmos Triple Beam 3D": {
-                                "Venue_TotalRevenue": 10240.0,
+                                "Venue_TotalRevenue": 10720.0,
                                 "Venue_TotalSeats": 1000,
-                                "Venue_TotalBookedSeats": 64,
+                                "Venue_TotalBookedSeats": 67,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 6.4
+                                "Venue_OccupancyPercentage": 6.7
                             },
                             "[BMS] INSC - INOX: Sobha City Mall": {
-                                "Venue_TotalRevenue": 14500.0,
-                                "Venue_TotalSeats": 1666,
-                                "Venue_TotalBookedSeats": 58,
+                                "Venue_TotalRevenue": 11000.0,
+                                "Venue_TotalSeats": 1648,
+                                "Venue_TotalBookedSeats": 44,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 3.48
-                            },
-                            "[BMS] SCPM - Shadow Cinemas: Pazhayannur": {
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 972,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0
+                                "Venue_OccupancyPercentage": 2.67
                             },
                             "[BMS] BRKT - Brahmakulam Theatre, 4K Dolby Atmos: Kanjany": {
                                 "Venue_TotalRevenue": 0.0,
@@ -770,30 +892,37 @@
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
                             },
-                            "[BMS] JSRS - Jos Theatre 4K RGB Laser Atmos: Thrissur": {
-                                "Venue_TotalRevenue": 19320.0,
-                                "Venue_TotalSeats": 1200,
-                                "Venue_TotalBookedSeats": 124,
+                            "[BMS] SCPM - Shadow Cinemas: Pazhayannur": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 972,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 10.33
+                                "Venue_OccupancyPercentage": 0.0
+                            },
+                            "[BMS] JSRS - Jos Theatre 4K RGB Laser Atmos: Thrissur": {
+                                "Venue_TotalRevenue": 19920.0,
+                                "Venue_TotalSeats": 1200,
+                                "Venue_TotalBookedSeats": 128,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 10.67
                             }
                         }
                     },
                     "Trivandrum": {
                         "Venues": {
                             "[BMS] KBTT - Kalabhavan Theatre Triple Beam 3D: Trivandrum": {
-                                "Venue_TotalRevenue": 31080.0,
+                                "Venue_TotalRevenue": 20720.0,
                                 "Venue_TotalSeats": 820,
-                                "Venue_TotalBookedSeats": 240,
+                                "Venue_TotalBookedSeats": 160,
                                 "Venue_TotalShows": 2,
-                                "Venue_OccupancyPercentage": 29.27
+                                "Venue_OccupancyPercentage": 19.51
                             },
                             "[BMS] PLTD - PVR: Lulu, Trivandrum": {
-                                "Venue_TotalRevenue": 20450.0,
-                                "Venue_TotalSeats": 1196,
-                                "Venue_TotalBookedSeats": 72,
+                                "Venue_TotalRevenue": 25580.0,
+                                "Venue_TotalSeats": 1216,
+                                "Venue_TotalBookedSeats": 94,
                                 "Venue_TotalShows": 8,
-                                "Venue_OccupancyPercentage": 6.02
+                                "Venue_OccupancyPercentage": 7.73
                             }
                         }
                     },
@@ -811,25 +940,25 @@
                     "Kochi": {
                         "Venues": {
                             "[BMS] PVMF - PVR: Forum Mall, Kochi": {
-                                "Venue_TotalRevenue": 42690.0,
-                                "Venue_TotalSeats": 1679,
-                                "Venue_TotalBookedSeats": 97,
+                                "Venue_TotalRevenue": 48010.0,
+                                "Venue_TotalSeats": 1715,
+                                "Venue_TotalBookedSeats": 144,
                                 "Venue_TotalShows": 8,
-                                "Venue_OccupancyPercentage": 5.78
-                            },
-                            "[BMS] PVLC - PVR: Lulu, Kochi": {
-                                "Venue_TotalRevenue": 31690.0,
-                                "Venue_TotalSeats": 1721,
-                                "Venue_TotalBookedSeats": 105,
-                                "Venue_TotalShows": 7,
-                                "Venue_OccupancyPercentage": 6.1
+                                "Venue_OccupancyPercentage": 8.4
                             },
                             "[BMS] PCVB - PVR: Oberon Mall, Kochi": {
-                                "Venue_TotalRevenue": 4180.0,
-                                "Venue_TotalSeats": 821,
-                                "Venue_TotalBookedSeats": 19,
+                                "Venue_TotalRevenue": 7700.0,
+                                "Venue_TotalSeats": 837,
+                                "Venue_TotalBookedSeats": 35,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 2.31
+                                "Venue_OccupancyPercentage": 4.18
+                            },
+                            "[BMS] PVLC - PVR: Lulu, Kochi": {
+                                "Venue_TotalRevenue": 32820.0,
+                                "Venue_TotalSeats": 1717,
+                                "Venue_TotalBookedSeats": 108,
+                                "Venue_TotalShows": 7,
+                                "Venue_OccupancyPercentage": 6.29
                             }
                         }
                     },
@@ -869,22 +998,22 @@
                     "Alappuzha": {
                         "Venues": {
                             "[BMS] PRCC - Paradise Cinema: Cherthala": {
-                                "Venue_TotalRevenue": 520.0,
+                                "Venue_TotalRevenue": 680.0,
                                 "Venue_TotalSeats": 1935,
-                                "Venue_TotalBookedSeats": 3,
+                                "Venue_TotalBookedSeats": 4,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 0.16
+                                "Venue_OccupancyPercentage": 0.21
                             }
                         }
                     },
                     "Taliparamba": {
                         "Venues": {
                             "[BMS] ALCT - Alinkeel Cinemas 2K Atmos 7.1: Taliparamba": {
-                                "Venue_TotalRevenue": 450.0,
+                                "Venue_TotalRevenue": 900.0,
                                 "Venue_TotalSeats": 1984,
-                                "Venue_TotalBookedSeats": 3,
+                                "Venue_TotalBookedSeats": 6,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.15
+                                "Venue_OccupancyPercentage": 0.3
                             }
                         }
                     },
@@ -904,6 +1033,17 @@
                             "[BMS] APCX - ARIESPLEX PUNALUR RGB LASER 4K ATMOS": {
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 872,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Adimali": {
+                        "Venues": {
+                            "[BMS] EVMM - EVM Matha Cinema: Adimali": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 568,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
@@ -946,22 +1086,22 @@
                     "Pathanamthitta": {
                         "Venues": {
                             "[BMS] TMMP - Trinity Movie Max: Pathanamthitta": {
-                                "Venue_TotalRevenue": 1820.0,
+                                "Venue_TotalRevenue": 3910.0,
                                 "Venue_TotalSeats": 1000,
-                                "Venue_TotalBookedSeats": 10,
+                                "Venue_TotalBookedSeats": 21,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 1.0
+                                "Venue_OccupancyPercentage": 2.1
                             }
                         }
                     },
                     "Koppam": {
                         "Venues": {
                             "[BMS] SYCS - Syndicate Cinemas: Koppam-4K|Dolby Atmos|RGB Laser": {
-                                "Venue_TotalRevenue": 16200.0,
+                                "Venue_TotalRevenue": 16800.0,
                                 "Venue_TotalSeats": 820,
-                                "Venue_TotalBookedSeats": 108,
+                                "Venue_TotalBookedSeats": 112,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 13.17
+                                "Venue_OccupancyPercentage": 13.66
                             }
                         }
                     }
@@ -972,11 +1112,11 @@
                     "Bengaluru": {
                         "Venues": {
                             "[BMS] LKTH - Lakshmi Cinema 4K Dolby Atmos RGB Laser Tavarekere": {
-                                "Venue_TotalRevenue": 15400.0,
+                                "Venue_TotalRevenue": 15800.0,
                                 "Venue_TotalSeats": 4185,
-                                "Venue_TotalBookedSeats": 77,
+                                "Venue_TotalBookedSeats": 79,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 1.84
+                                "Venue_OccupancyPercentage": 1.89
                             },
                             "[BMS] VTSK - Vaibhav Digital 4k Dolby 7.1: Sanjaynagar": {
                                 "Venue_TotalRevenue": 23700.0,
@@ -992,12 +1132,41 @@
                                 "Venue_TotalShows": 5,
                                 "Venue_OccupancyPercentage": 0.0
                             },
+                            "[BMS] GTYT - Ganesh Digital 2K Cinema: Yelahanka New Town": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 352,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            },
                             "[BMS] SKMM - Sri Krishna Lazer Projection 4K: Bomanahalli": {
                                 "Venue_TotalRevenue": 1600.0,
                                 "Venue_TotalSeats": 589,
                                 "Venue_TotalBookedSeats": 8,
                                 "Venue_TotalShows": 1,
                                 "Venue_OccupancyPercentage": 1.36
+                            },
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 10350.0,
+                                "Venue_TotalSeats": 525,
+                                "Venue_TotalBookedSeats": 33,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 6.29
+                            }
+                        }
+                    }
+                }
+            },
+            "Telangana": {
+                "Cities": {
+                    "Hyderabad": {
+                        "Venues": {
+                            "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
+                                "Venue_TotalRevenue": 11000.0,
+                                "Venue_TotalSeats": 390,
+                                "Venue_TotalBookedSeats": 44,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 11.28
                             }
                         }
                     }
@@ -1024,18 +1193,34 @@
                         }
                     }
                 }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 55,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
             }
         },
-        "Overall_TotalRevenue": 338437.78,
-        "Overall_TotalSeats": 39444,
-        "Overall_TotalBookedSeats": 1817,
-        "Overall_TotalShows": 133,
-        "Overall_OccupancyPercentage": 4.61
+        "Overall_TotalRevenue": 365807.78,
+        "Overall_TotalSeats": 41384,
+        "Overall_TotalBookedSeats": 1916,
+        "Overall_TotalShows": 144,
+        "Overall_OccupancyPercentage": 4.63
     },
     "Vishwanath And Sons": {
         "Associated_Titles": [
             "Vishwanath and Sons (Telugu) - Telugu",
-            "Vishwanath and Sons - Tamil"
+            "Vishwanath and Sons - Tamil",
+            "Vishwanath and Sons (DOLBY CINEMA 2D)(Telugu) - Telugu"
         ],
         "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vishwanath-and-sons-et00510230-1785583362.jpg",
         "Locations": {
@@ -1076,12 +1261,34 @@
                                 "Venue_TotalShows": 1,
                                 "Venue_OccupancyPercentage": 15.96
                             },
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 52100.0,
+                                "Venue_TotalSeats": 1172,
+                                "Venue_TotalBookedSeats": 106,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 9.04
+                            },
                             "[BMS] LKTH - Lakshmi Cinema 4K Dolby Atmos RGB Laser Tavarekere": {
                                 "Venue_TotalRevenue": 11100.0,
                                 "Venue_TotalSeats": 837,
                                 "Venue_TotalBookedSeats": 74,
                                 "Venue_TotalShows": 1,
                                 "Venue_OccupancyPercentage": 8.84
+                            }
+                        }
+                    }
+                }
+            },
+            "Telangana": {
+                "Cities": {
+                    "Hyderabad": {
+                        "Venues": {
+                            "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
+                                "Venue_TotalRevenue": 64900.0,
+                                "Venue_TotalSeats": 1950,
+                                "Venue_TotalBookedSeats": 220,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 11.28
                             }
                         }
                     }
@@ -1141,6 +1348,13 @@
                                 "Venue_TotalBookedSeats": 105,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 5.01
+                            },
+                            "[BMS] MIDL - Midlaand Cinemas A/C 4K Dolby Digital 7.1: Madurai": {
+                                "Venue_TotalRevenue": 5040.0,
+                                "Venue_TotalSeats": 1144,
+                                "Venue_TotalBookedSeats": 42,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 3.67
                             }
                         }
                     }
@@ -1160,13 +1374,28 @@
                         }
                     }
                 }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 55,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
             }
         },
-        "Overall_TotalRevenue": 54740.0,
-        "Overall_TotalSeats": 16275,
-        "Overall_TotalBookedSeats": 356,
-        "Overall_TotalShows": 34,
-        "Overall_OccupancyPercentage": 2.19
+        "Overall_TotalRevenue": 199730.0,
+        "Overall_TotalSeats": 21384,
+        "Overall_TotalBookedSeats": 794,
+        "Overall_TotalShows": 49,
+        "Overall_OccupancyPercentage": 3.71
     },
     "Irumudi": {
         "Associated_Titles": [
@@ -1192,6 +1421,13 @@
                                 "Venue_TotalShows": 3,
                                 "Venue_OccupancyPercentage": 20.85
                             },
+                            "[BMS] SDSD - Siddeshwara 4K Dolby Atmos 3D 7.1 Cinema: JP Nagar": {
+                                "Venue_TotalRevenue": 73350.0,
+                                "Venue_TotalSeats": 2403,
+                                "Venue_TotalBookedSeats": 489,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 20.35
+                            },
                             "[BMS] KCBI - Kamakya 4K Dolby Atmos 3D A/C Cinema: Banashankari": {
                                 "Venue_TotalRevenue": 38430.0,
                                 "Venue_TotalSeats": 1899,
@@ -1205,17 +1441,35 @@
                                 "Venue_TotalBookedSeats": 156,
                                 "Venue_TotalShows": 2,
                                 "Venue_OccupancyPercentage": 10.57
+                            },
+                            "[BMS] BDCG - Bhumika Digital 2K Cinema: Gandhinagar": {
+                                "Venue_TotalRevenue": 122100.0,
+                                "Venue_TotalSeats": 4470,
+                                "Venue_TotalBookedSeats": 910,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 20.36
+                            }
+                        }
+                    },
+                    "Vijayapura (Bengaluru Rural)": {
+                        "Venues": {
+                            "[BMS] SGWT - Sri Gowrishankar Theatre: Vijayapura": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 2668,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
                             }
                         }
                     },
                     "Doddaballapura": {
                         "Venues": {
                             "[BMS] VACD - Vaibhav Cinemas A/C 4K 7.1 Dolby: Doddaballapura": {
-                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalRevenue": 25500.0,
                                 "Venue_TotalSeats": 2525,
-                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalBookedSeats": 202,
                                 "Venue_TotalShows": 5,
-                                "Venue_OccupancyPercentage": 0.0
+                                "Venue_OccupancyPercentage": 8.0
                             }
                         }
                     }
@@ -1228,6 +1482,17 @@
                             "[BMS] STAT - Sri Sai Teja Theatre: Tallapudi": {
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 1240,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Tadikalapudi": {
+                        "Venues": {
+                            "[BMS] RTTD - Revathi Theatre: Tadikalapudi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 3096,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
@@ -1272,13 +1537,28 @@
                         }
                     }
                 }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 55,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
             }
         },
-        "Overall_TotalRevenue": 175725.72,
-        "Overall_TotalSeats": 11919,
-        "Overall_TotalBookedSeats": 1149,
-        "Overall_TotalShows": 24,
-        "Overall_OccupancyPercentage": 9.64
+        "Overall_TotalRevenue": 396675.72,
+        "Overall_TotalSeats": 24611,
+        "Overall_TotalBookedSeats": 2750,
+        "Overall_TotalShows": 41,
+        "Overall_OccupancyPercentage": 11.17
     },
     "Thudakkam": {
         "Associated_Titles": [
@@ -1308,6 +1588,111 @@
         "Overall_TotalShows": 4,
         "Overall_OccupancyPercentage": 0.0
     },
+    "Insidious: Out Of The Further": {
+        "Associated_Titles": [
+            "Insidious: Out of The Further (Telugu) - Telugu",
+            "Insidious: Out of The Further - English",
+            "Insidious: Out of The Further (Hindi) - Hindi",
+            "Insidious: Out of The Further (Tamil) - Tamil"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/insidious-out-of-the-further-et00493839-1776237639.jpg",
+        "Locations": {
+            "Andhra Pradesh": {
+                "Cities": {
+                    "Guntur": {
+                        "Venues": {
+                            "[BMS] HLWD - Hollywood Theatre: Guntur": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1120,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Vijayawada": {
+                        "Venues": {
+                            "[BMS] NVRN - Navarang Theatre: Vijayawada": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 2428,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Tenali": {
+                        "Venues": {
+                            "[BMS] AAST - Asha Cinemas: Tenali": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1704,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Mumbai": {
+                        "Venues": {
+                            "[BMS] AAAS - Ajanta Cinema Cinex: Borivali (W) Newly Renovated": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 668,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 510,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Solapur": {
+                        "Venues": {
+                            "[BMS] NRMS - R Miniplex (A.C): Solapur": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 116,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 822,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 6,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 9308,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 35,
+        "Overall_OccupancyPercentage": 0.0
+    },
     "Ayogya 2": {
         "Associated_Titles": [
             "Ayogya 2 - Kannada"
@@ -1324,6 +1709,13 @@
                                 "Venue_TotalBookedSeats": 101,
                                 "Venue_TotalShows": 1,
                                 "Venue_OccupancyPercentage": 15.96
+                            },
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 97,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
                             }
                         }
                     }
@@ -1331,10 +1723,10 @@
             }
         },
         "Overall_TotalRevenue": 12810.0,
-        "Overall_TotalSeats": 633,
+        "Overall_TotalSeats": 730,
         "Overall_TotalBookedSeats": 101,
-        "Overall_TotalShows": 1,
-        "Overall_OccupancyPercentage": 15.96
+        "Overall_TotalShows": 2,
+        "Overall_OccupancyPercentage": 13.84
     },
     "Dc": {
         "Associated_Titles": [
@@ -1348,11 +1740,48 @@
                     "Bengaluru": {
                         "Venues": {
                             "[BMS] BALT - Balaji Theatre:Tavarekere(Next to Lakshmi Theatre)": {
-                                "Venue_TotalRevenue": 13000.0,
+                                "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 1476,
-                                "Venue_TotalBookedSeats": 78,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 2,
-                                "Venue_OccupancyPercentage": 5.28
+                                "Venue_OccupancyPercentage": 0.0
+                            },
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 12600.0,
+                                "Venue_TotalSeats": 635,
+                                "Venue_TotalBookedSeats": 38,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 5.98
+                            }
+                        }
+                    }
+                }
+            },
+            "Telangana": {
+                "Cities": {
+                    "Hyderabad": {
+                        "Venues": {
+                            "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
+                                "Venue_TotalRevenue": 12980.0,
+                                "Venue_TotalSeats": 364,
+                                "Venue_TotalBookedSeats": 44,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 12.09
+                            }
+                        }
+                    }
+                }
+            },
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 740,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 0.0
                             }
                         }
                     }
@@ -1385,11 +1814,11 @@
                 }
             }
         },
-        "Overall_TotalRevenue": 13000.0,
-        "Overall_TotalSeats": 5028,
-        "Overall_TotalBookedSeats": 78,
-        "Overall_TotalShows": 10,
-        "Overall_OccupancyPercentage": 1.55
+        "Overall_TotalRevenue": 36980.0,
+        "Overall_TotalSeats": 7091,
+        "Overall_TotalBookedSeats": 117,
+        "Overall_TotalShows": 21,
+        "Overall_OccupancyPercentage": 1.65
     },
     "Hushar Pittalu": {
         "Associated_Titles": [
@@ -1402,11 +1831,11 @@
                     "Mangalagiri": {
                         "Venues": {
                             "[BMS] ANTM - Annapurna Theater A/C Dts 2K: Mangalagiri": {
-                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalRevenue": 15960.0,
                                 "Venue_TotalSeats": 2096,
-                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalBookedSeats": 168,
                                 "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0
+                                "Venue_OccupancyPercentage": 8.02
                             }
                         }
                     },
@@ -1420,6 +1849,17 @@
                                 "Venue_OccupancyPercentage": 0.0
                             }
                         }
+                    },
+                    "Vizag": {
+                        "Venues": {
+                            "[BMS] SRPP - Sree Rama Theatre 4K Dolby Atmos: Vizag": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 554,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
                     }
                 }
             },
@@ -1427,62 +1867,53 @@
                 "Cities": {
                     "Hyderabad": {
                         "Venues": {
-                            "[BMS] LKMT - Lakshmi Kala Mandir: Alwal": {
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 1464,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0
-                            },
                             "[BMS] SLRT - Laxmi 70MM A/C LASER DTS: Shamshabad": {
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 1144,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
+                            },
+                            "[BMS] LKMT - Lakshmi Kala Mandir: Alwal": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 1464,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
                             }
                         }
                     }
                 }
-            }
-        },
-        "Overall_TotalRevenue": 0.0,
-        "Overall_TotalSeats": 6424,
-        "Overall_TotalBookedSeats": 0,
-        "Overall_TotalShows": 16,
-        "Overall_OccupancyPercentage": 0.0
-    },
-    "The Odyssey": {
-        "Associated_Titles": [
-            "The Odyssey - English"
-        ],
-        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-odyssey-et00452034-1778421685.jpg",
-        "Locations": {
-            "Telangana": {
+            },
+            "Karnataka": {
                 "Cities": {
-                    "Hyderabad": {
+                    "Bengaluru": {
                         "Venues": {
-                            "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
-                                "Venue_TotalRevenue": 137175.0,
-                                "Venue_TotalSeats": 1887,
-                                "Venue_TotalBookedSeats": 465,
-                                "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 24.64
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 97,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
                             }
                         }
                     }
                 }
             }
         },
-        "Overall_TotalRevenue": 137175.0,
-        "Overall_TotalSeats": 1887,
-        "Overall_TotalBookedSeats": 465,
-        "Overall_TotalShows": 3,
-        "Overall_OccupancyPercentage": 24.64
+        "Overall_TotalRevenue": 15960.0,
+        "Overall_TotalSeats": 7075,
+        "Overall_TotalBookedSeats": 168,
+        "Overall_TotalShows": 18,
+        "Overall_OccupancyPercentage": 2.37
     },
     "Spider": {
         "Associated_Titles": [
-            "Spider-Man: Brand New Day (3D) - English"
+            "Spider-Man: Brand New Day (3D) - English",
+            "Spider-Man: Brand New Day (Hindi) - Hindi",
+            "Spider-Man: Brand New Day (3D)(Tamil) - Tamil",
+            "Spider-Man: Brand New Day (3D)(Hindi) - Hindi",
+            "Spider-Man: Brand New Day (Dolby Cinema 2D) - English"
         ],
         "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/spider-man-brand-new-day-et00502600-1781678765.jpg",
         "Locations": {
@@ -1491,22 +1922,137 @@
                     "Hyderabad": {
                         "Venues": {
                             "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
-                                "Venue_TotalRevenue": 87200.0,
-                                "Venue_TotalSeats": 1887,
-                                "Venue_TotalBookedSeats": 218,
+                                "Venue_TotalRevenue": 98520.0,
+                                "Venue_TotalSeats": 2251,
+                                "Venue_TotalBookedSeats": 265,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 11.77
+                            }
+                        }
+                    }
+                }
+            },
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 411,
+                                "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 3,
-                                "Venue_OccupancyPercentage": 11.55
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 850,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 5,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Mumbai": {
+                        "Venues": {
+                            "[BMS] GATY - G7 Multiplex: Bandra (W)": {
+                                "Venue_TotalRevenue": 13600.0,
+                                "Venue_TotalSeats": 476,
+                                "Venue_TotalBookedSeats": 80,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 16.81
+                            }
+                        }
+                    }
+                }
+            },
+            "Karnataka": {
+                "Cities": {
+                    "Bengaluru": {
+                        "Venues": {
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 52100.0,
+                                "Venue_TotalSeats": 1172,
+                                "Venue_TotalBookedSeats": 106,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 9.04
                             }
                         }
                     }
                 }
             }
         },
-        "Overall_TotalRevenue": 87200.0,
-        "Overall_TotalSeats": 1887,
-        "Overall_TotalBookedSeats": 218,
-        "Overall_TotalShows": 3,
-        "Overall_OccupancyPercentage": 11.55
+        "Overall_TotalRevenue": 168720.0,
+        "Overall_TotalSeats": 6663,
+        "Overall_TotalBookedSeats": 461,
+        "Overall_TotalShows": 26,
+        "Overall_OccupancyPercentage": 6.92
+    },
+    "The Odyssey": {
+        "Associated_Titles": [
+            "The Odyssey - English",
+            "The Odyssey (Hindi) - Hindi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-odyssey-et00452034-1778421685.jpg",
+        "Locations": {
+            "Telangana": {
+                "Cities": {
+                    "Hyderabad": {
+                        "Venues": {
+                            "[BMS] PRHN - Prasads Multiplex: Hyderabad": {
+                                "Venue_TotalRevenue": 142190.0,
+                                "Venue_TotalSeats": 1887,
+                                "Venue_TotalBookedSeats": 482,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 25.54
+                            }
+                        }
+                    }
+                }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 67,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Karnataka": {
+                "Cities": {
+                    "Bengaluru": {
+                        "Venues": {
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 5550.0,
+                                "Venue_TotalSeats": 234,
+                                "Venue_TotalBookedSeats": 17,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 7.26
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 147740.0,
+        "Overall_TotalSeats": 2255,
+        "Overall_TotalBookedSeats": 499,
+        "Overall_TotalShows": 6,
+        "Overall_OccupancyPercentage": 22.13
     },
     "Shankar Dada Mbbs": {
         "Associated_Titles": [
@@ -1519,11 +2065,11 @@
                     "Hyderabad": {
                         "Venues": {
                             "[BMS] BRKH - Bhramaramba 70MM A/C 4K Dolby: Kukatpally": {
-                                "Venue_TotalRevenue": 3210.0,
+                                "Venue_TotalRevenue": 3260.0,
                                 "Venue_TotalSeats": 861,
-                                "Venue_TotalBookedSeats": 31,
+                                "Venue_TotalBookedSeats": 32,
                                 "Venue_TotalShows": 1,
-                                "Venue_OccupancyPercentage": 3.6
+                                "Venue_OccupancyPercentage": 3.72
                             },
                             "[BMS] SUDA - Sudarshan 35MM 4k Laser & Dolby Atmos: RTC X Roads": {
                                 "Venue_TotalRevenue": 51905.0,
@@ -1533,11 +2079,11 @@
                                 "Venue_OccupancyPercentage": 28.37
                             },
                             "[BMS] SRCM - Sai Ranga 70MM 4K Dolby Air Cooled: Miyapur": {
-                                "Venue_TotalRevenue": 17820.0,
+                                "Venue_TotalRevenue": 18095.0,
                                 "Venue_TotalSeats": 1055,
-                                "Venue_TotalBookedSeats": 112,
+                                "Venue_TotalBookedSeats": 115,
                                 "Venue_TotalShows": 1,
-                                "Venue_OccupancyPercentage": 10.62
+                                "Venue_OccupancyPercentage": 10.9
                             }
                         }
                     }
@@ -1559,11 +2105,11 @@
                 }
             }
         },
-        "Overall_TotalRevenue": 72935.0,
+        "Overall_TotalRevenue": 73260.0,
         "Overall_TotalSeats": 4792,
-        "Overall_TotalBookedSeats": 488,
+        "Overall_TotalBookedSeats": 492,
         "Overall_TotalShows": 7,
-        "Overall_OccupancyPercentage": 10.18
+        "Overall_OccupancyPercentage": 10.27
     },
     "Khalnayak": {
         "Associated_Titles": [
@@ -1593,62 +2139,6 @@
         "Overall_TotalShows": 4,
         "Overall_OccupancyPercentage": 0.0
     },
-    "Insidious: Out Of The Further": {
-        "Associated_Titles": [
-            "Insidious: Out of The Further (Telugu) - Telugu",
-            "Insidious: Out of The Further - English",
-            "Insidious: Out of The Further (Tamil) - Tamil"
-        ],
-        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/insidious-out-of-the-further-et00493839-1776237639.jpg",
-        "Locations": {
-            "Andhra Pradesh": {
-                "Cities": {
-                    "Vijayawada": {
-                        "Venues": {
-                            "[BMS] NVRN - Navarang Theatre: Vijayawada": {
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 2428,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0
-                            }
-                        }
-                    },
-                    "Tenali": {
-                        "Venues": {
-                            "[BMS] AAST - Asha Cinemas: Tenali": {
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 1704,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 4,
-                                "Venue_OccupancyPercentage": 0.0
-                            }
-                        }
-                    }
-                }
-            },
-            "Tamil Nadu": {
-                "Cities": {
-                    "Chennai": {
-                        "Venues": {
-                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
-                                "Venue_TotalRevenue": 0.0,
-                                "Venue_TotalSeats": 822,
-                                "Venue_TotalBookedSeats": 0,
-                                "Venue_TotalShows": 6,
-                                "Venue_OccupancyPercentage": 0.0
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "Overall_TotalRevenue": 0.0,
-        "Overall_TotalSeats": 6214,
-        "Overall_TotalBookedSeats": 0,
-        "Overall_TotalShows": 20,
-        "Overall_OccupancyPercentage": 0.0
-    },
     "Batwara 1947": {
         "Associated_Titles": [
             "Batwara 1947 - Hindi"
@@ -1657,6 +2147,17 @@
         "Locations": {
             "Maharashtra": {
                 "Cities": {
+                    "Khopoli": {
+                        "Venues": {
+                            "[BMS] GDKH - Gold Cinema: Khopoli": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 70,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
                     "Mumbai": {
                         "Venues": {
                             "[BMS] GATY - G7 Multiplex: Bandra (W)": {
@@ -1669,6 +2170,17 @@
                             "[BMS] KURL - Bharat Cineplex: Kurla (W)": {
                                 "Venue_TotalRevenue": 0.0,
                                 "Venue_TotalSeats": 796,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    },
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 275,
                                 "Venue_TotalBookedSeats": 0,
                                 "Venue_TotalShows": 4,
                                 "Venue_OccupancyPercentage": 0.0
@@ -1694,10 +2206,10 @@
             }
         },
         "Overall_TotalRevenue": 86400.0,
-        "Overall_TotalSeats": 4180,
+        "Overall_TotalSeats": 4525,
         "Overall_TotalBookedSeats": 468,
-        "Overall_TotalShows": 10,
-        "Overall_OccupancyPercentage": 11.2
+        "Overall_TotalShows": 15,
+        "Overall_OccupancyPercentage": 10.34
     },
     "Modha Rathri": {
         "Associated_Titles": [
@@ -1727,9 +2239,95 @@
         "Overall_TotalShows": 5,
         "Overall_OccupancyPercentage": 0.0
     },
+    "Jana Nayagan": {
+        "Associated_Titles": [
+            "Jana Nayagan - Tamil"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jana-nayagan-et00430817-1784548204.jpg",
+        "Locations": {
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 536,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 4,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 536,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 4,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "Gdn": {
+        "Associated_Titles": [
+            "GDN - Tamil"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/gdn-et00501855-1785132256.jpg",
+        "Locations": {
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 134,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 134,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 1,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "The End Of Oak Street": {
+        "Associated_Titles": [
+            "The End of Oak Street - English",
+            "The End of Oak Street (Tamil) - Tamil"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-end-of-oak-street-et00493026-1785826438.jpg",
+        "Locations": {
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 139,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 278,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 2,
+        "Overall_OccupancyPercentage": 0.0
+    },
     "Paw Patrol: The Dino Movie": {
         "Associated_Titles": [
-            "PAW Patrol: The Dino Movie - English"
+            "PAW Patrol: The Dino Movie - English",
+            "PAW Patrol: The Dino Movie (Hindi) - Hindi"
         ],
         "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/paw-patrol-the-dino-movie-et00502386-1780988042.jpg",
         "Locations": {
@@ -1747,12 +2345,55 @@
                         }
                     }
                 }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 201,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 2,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
             }
         },
         "Overall_TotalRevenue": 0.0,
-        "Overall_TotalSeats": 274,
+        "Overall_TotalSeats": 676,
         "Overall_TotalBookedSeats": 0,
-        "Overall_TotalShows": 2,
+        "Overall_TotalShows": 7,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "Magudam": {
+        "Associated_Titles": [
+            "Magudam - Tamil"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/magudam-et00504560-1782305182.jpg",
+        "Locations": {
+            "Tamil Nadu": {
+                "Cities": {
+                    "Chennai": {
+                        "Venues": {
+                            "[BMS] MAYJ - MAYAJAAL Multiplex: ECR, Chennai": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 134,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 134,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 1,
         "Overall_OccupancyPercentage": 0.0
     },
     "Korean Kanakaraju": {
@@ -1775,13 +2416,28 @@
                         }
                     }
                 }
+            },
+            "Karnataka": {
+                "Cities": {
+                    "Bengaluru": {
+                        "Venues": {
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 2400.0,
+                                "Venue_TotalSeats": 64,
+                                "Venue_TotalBookedSeats": 8,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 12.5
+                            }
+                        }
+                    }
+                }
             }
         },
-        "Overall_TotalRevenue": 0.0,
-        "Overall_TotalSeats": 2752,
-        "Overall_TotalBookedSeats": 0,
-        "Overall_TotalShows": 4,
-        "Overall_OccupancyPercentage": 0.0
+        "Overall_TotalRevenue": 2400.0,
+        "Overall_TotalSeats": 2816,
+        "Overall_TotalBookedSeats": 8,
+        "Overall_TotalShows": 5,
+        "Overall_OccupancyPercentage": 0.28
     },
     "Muta Mestri": {
         "Associated_Titles": [
@@ -1835,6 +2491,204 @@
         },
         "Overall_TotalRevenue": 0.0,
         "Overall_TotalSeats": 160,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 1,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "Dhamaal 4": {
+        "Associated_Titles": [
+            "Dhamaal 4 - Hindi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/dhamaal-4-et00452553-1783600284.jpg",
+        "Locations": {
+            "Uttar Pradesh": {
+                "Cities": {
+                    "Agra": {
+                        "Venues": {
+                            "[BMS] HTAG - Heera Talkies: Agra": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 4518,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 3,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 110,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 4628,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 4,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "Sammarth": {
+        "Associated_Titles": [
+            "Sammarth - Marathi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sammarth-et00508213-1786520313.jpg",
+        "Locations": {
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 67,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            },
+            "Karnataka": {
+                "Cities": {
+                    "Bengaluru": {
+                        "Venues": {
+                            "[BMS] ACKB - AMB Cinemas Kapali: Bengaluru": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 97,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 164,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 2,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "1942: A Love Story": {
+        "Associated_Titles": [
+            "1942: A Love Story - Hindi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/1942-a-love-story-et00009373-13-06-2017-05-52-55.jpg",
+        "Locations": {
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 134,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 134,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 1,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "Ohh My Dog": {
+        "Associated_Titles": [
+            "Ohh My Dog - Hindi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/ohh-my-dog-et00506677-1785839563.jpg",
+        "Locations": {
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 55,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 55,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 1,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "7 Dogs": {
+        "Associated_Titles": [
+            "7 Dogs - Hindi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/7-dogs-et00512561-1786957638.jpg",
+        "Locations": {
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 55,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 55,
+        "Overall_TotalBookedSeats": 0,
+        "Overall_TotalShows": 1,
+        "Overall_OccupancyPercentage": 0.0
+    },
+    "Hanuman Ansh": {
+        "Associated_Titles": [
+            "Hanuman Ansh - Hindi"
+        ],
+        "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/hanuman-ansh-et00507738-1787033660.jpg",
+        "Locations": {
+            "Maharashtra": {
+                "Cities": {
+                    "Pune": {
+                        "Venues": {
+                            "[BMS] ESEM - E-SQUARE: Xion Mall, Hinjawadi": {
+                                "Venue_TotalRevenue": 0.0,
+                                "Venue_TotalSeats": 67,
+                                "Venue_TotalBookedSeats": 0,
+                                "Venue_TotalShows": 1,
+                                "Venue_OccupancyPercentage": 0.0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Overall_TotalRevenue": 0.0,
+        "Overall_TotalSeats": 67,
         "Overall_TotalBookedSeats": 0,
         "Overall_TotalShows": 1,
         "Overall_OccupancyPercentage": 0.0
